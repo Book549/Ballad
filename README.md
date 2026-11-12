@@ -1,150 +1,126 @@
 [![Discord Bots](https://discordbots.org/api/widget/251239170058616833.png)](https://discordbots.org/bot/251239170058616833)
 
-# Kotoba
+# Kotoba Discord Bot
 
-Kotoba is a project with several semi-independent pieces. Those are:
+A feature-rich Discord bot designed for Japanese language learning, dictionary lookups, and multiplayer games.
 
-* [Kotoba Discord Bot](https://github.com/mistval/kotoba/tree/master/bot)
-* [Kotobaweb.com frontend (React)](https://github.com/mistval/kotoba/tree/master/kotobaweb)
-* [Kotobaweb API (Express)](https://github.com/mistval/kotoba/tree/master/api)
+## Features
 
-In addition to the three main projects there are a few other directories:
+* **Interactive Quizzes**:
+  * Extensive quiz library covering JLPT (N5–N1), Kanken, common vocabulary, anime words, and custom decks.
+  * Multiple modes: Normal, Review, Conquest, and Mastery.
+* **Shiritori (Japanese Word-Chain Game)**:
+  * Interactive turn-based games with dictionary verification.
+  * `shiritori_forever` dedicated channels for endless multiplayer word-chain fun.
+* **Dictionary & Reference**:
+  * Jisho word and Kanji searches with stroke-order diagrams.
+  * Kanji reading lookups, radical decomposition, and compound search.
+  * Real-time Furigana image generation over Kanji text.
+  * Example sentence lookups with Yourei.
+  * Native audio pronunciation lookup via Forvo.
+* **Scheduled Quizzes & Server Leaderboards**:
+  * Automate daily or hourly quizzes directly into server channels.
+  * Server-wide and global player scoreboards.
 
-* [/common](https://github.com/mistval/kotoba/tree/master/common) - Common code that is intended to be shared between node processes and browser.
-* [/node-common](https://github.com/mistval/kotoba/tree/master/node-common) - Common code that is intended to be shared between node processes but not browser.
-* [/nginx](https://github.com/mistval/kotoba/tree/master/nginx) - An nginx configuration for proxying HTTP requests to the [frontend](https://github.com/mistval/kotoba/tree/master/kotobaweb) and [API](https://github.com/mistval/kotoba/tree/master/api).
-* [/backup](https://github.com/mistval/kotoba/tree/master/backup) - Tools for backing up user data to Google Cloud Storage.
-* [/worker](https://github.com/mistval/kotoba/tree/master/worker) - A worker process for doing some heavy lifting for other processes whose event loops should not be blocked.
-* [/cloud_functions](https://github.com/mistval/kotoba/tree/master/cloud_functions) - The code for HTTP endpoints that can be deployed as cloud functions and which some bot commands rely on.
-* [/resources](https://github.com/mistval/kotoba/tree/master/resources) - Dictionaries, fonts, images, and other non-code assets.
+---
+
+## Repository Structure
+
+```
+├── bot/               # Discord bot source code, commands, quiz engine, and message processors
+├── common/            # Shared rules, limits, and deck validation logic
+├── node-common/       # Mongoose models, resource database builder, fonts, and Shiritori engine
+├── worker/            # Microservice for CPU-intensive tasks (furigana image rendering, quiz stats)
+├── cloud_functions/   # Optional GCP Cloud Function endpoints (furigana parser, Hispadic)
+├── resources/         # Built-in quiz decks, fonts, and dictionary archives (JMDict, KanjiVG)
+├── config/            # Configuration templates (config_sample.js)
+├── docker-compose.yml # Containerized orchestration for the bot, worker, and MongoDB
+└── Katakana_words.txt # Katakana loanword reference vocabulary
+```
+
+---
+
+## Prerequisites
+
+* **Node.js**: Check [.nvmrc](./.nvmrc) for the recommended Node.js version.
+* **Discord Bot Token**: Create an application and bot on the [Discord Developer Portal](https://discord.com/developers/applications).
+  * Enable **Server Members Intent** and **Message Content Intent**.
+* *(Database)*: **No external database setup is required.** The bot automatically runs an embedded local database that persists data directly to `bot/data/mongo_data/`. (You can still connect to an external MongoDB by setting `MONGO_HOST` if desired).
+
+---
 
 ## Configuration
 
-After cloning the repo (recommend cloning with `--depth=1`), fill out [config/config_sample.js](https://github.com/mistval/kotoba/blob/master/config/config_sample.js) and rename it to **config.js**. Most of the configuration is optional, but some features may not work right, or not at all, if they are not configured.
+1. Copy the sample configuration file:
+   ```sh
+   cp config/config_sample.js config/config.js
+   ```
+2. Open `config/config.js` and set:
+   * `bot.botToken`: Your Discord bot token (required).
+   * `bot.botAdminIds`: Your Discord User ID (optional).
+   * `bot.apiKeys`: Optional API keys (YouTube, Google Translate, Forvo) to enable extra commands.
 
-## Developing
+---
 
-Check the [.nvmrc](./nvmrc) file for the suggested version of Node.js to use. Other minor/patch versions will likely work too.
+## Development Setup
 
-### Discord bot
-
-After following the **Configuration** instructions above:
-
-Install **MongoDB** and start it on port 27017 (the default port). You can install it using the instructions for your operating system [here](https://docs.mongodb.com/manual/installation/). Or, use Docker: `docker run -p 27017:27017 mongo`. Then:
+### 1. Install Dependencies & Build Resources
+The bot uses SQLite resource databases built from the raw dictionaries in `resources/`.
 
 ```sh
-cd ./node-common
+# 1. Install node-common dependencies
+cd node-common
 npm ci
 
+# 2. Install bot dependencies and generate resource databases
 cd ../bot
 npm ci
-npm run buildresources # this takes a few minutes
+npm run buildresources # This takes a few minutes on first run
+```
+
+### 3. Start the Bot
+```sh
 npm start
 ```
 
-The bot will start and come online. The `npm run buildresources` command generally only needs to be run once (unless you change quiz data or such).
+### 4. (Optional) Start the Background Worker
+The worker offloads heavy tasks like Furigana PNG rendering and user quiz stat calculations:
+```sh
+cd ../worker
+npm ci
+npm run buildresources
+npm start
+```
 
-VS Code is recommended for development. This repo contains a VS Code `launch.json` with a `Launch bot` configuration for debugging in VS Code.
+VS Code debugging configurations are also available under `.vscode/launch.json` (**Launch bot** and **Launch Worker**).
 
-### KotobaWeb
+---
 
-Install **MongoDB** and start it on port 27017 (the default port). You can install it using the instructions for your operating system [here](https://docs.mongodb.com/manual/installation/). Or, use Docker: `docker run -p 27017:27017 mongo`. Then:
+## Running with Docker Compose
+
+You can run the bot, the worker, and MongoDB using Docker:
 
 ```sh
-cd ./node-common
-npm ci
-
-cd ../api
-npm ci
-npm run buildresources # this takes a few minutes
-npm start
-
-cd ../kotobaweb
-npm ci
-npm start
-```
-
-The API will start on port 80 and the React dev server will start on port 3001. Note: after you login, if you are redirected back to `localhost/dashboard` and it just says `Cannot GET /`, then use the address bar to navigate to `localhost:3001/dashboard` and you should be logged in.
-
-### Worker process
-
-The worker process handles some heavy lifting so that the event loop doesn't have to block in the bot or API. The bot and API communicate with it via HTTP. It doesn't do much at the moment, and most features work without it, so you can probably ignore it until you're working with a feature that requires it and you notice that HTTP requests to it are failing.
-
-```
-cd ./worker
-npm ci
-npm start
-```
-
-## Self-hosting the bot
-
-While it is possible to self-host Kotoba, there are some caveats and some of the setup is not straightforward. Before continuing, first consider why you want to self-host. Could you PR your desired features to this repo instead, so they can be added to public Kotoba? I encourage you to take that route if you can. Otherwise, read on.
-
-Kotoba is deployed via Docker images built for ARM64. To build for a more typical environment, search this repo for `arm64v8/node` and replace it with just `node` in the Dockerfiles.
-
-Then after following the **Configuration** instructions higher up in this readme, run:
-
-```sh
-sudo apt install docker docker-compose
 sudo docker-compose up kotoba-bot kotoba-worker mongo_readwrite
 ```
 
-The bot will take some time to build and should then come online. Most things will work. However there is additional setup required for certain features:
+*(Note: Docker images in the default compose file are configured for ARM64. If building on x86_64/AMD64, update `arm64v8/node` to `node` in `bot/Dockerfile` and `worker/Dockerfile`).*
 
-### Furigana and Hispadic commands
+---
 
-These commands call out to HTTP endpoints that you need to host yourself one way or another. This is done mainly to reduce RAM usage on the main bot server. I use Google Cloud Platform to host these, they have a very generous free tier. The code you need to deploy is in the **cloud_functions** directory in this repo.
+## Optional: Cloud Functions (Furigana & Hispadic)
 
-For the furigana command:
-1. Create a new cloud function in the GCP console.
-2. Set the name to something unguessable.
-3. Set the trigger to HTTP.
-4. Check off "Allow unauthenticated invocations".
-5. Set the runtime to Node.js (version probably doesn't matter)
-6. Use the inline editor and paste in the index.js and package.json code.
-7. Set the "function to execute" to getFurigana.
-8. Set maximum function instances to 1.
-9. Deploy the function, get the URL of the HTTP endpoint, and add it to config/config.js.
+Commands like `k!furigana` (parsing) and `k!hispadic` call lightweight HTTP endpoints. Code for these endpoints is located in the [`cloud_functions/`](file:///home/book549/Documents/code/Ballad/cloud_functions) folder. You can deploy them to Google Cloud Functions (or any serverless platform) and add their trigger URLs to `config/config.js`.
 
-For the hispadic command:
-1. Create a new cloud function in the GCP console.
-2. Set the name to something unguessable.
-3. Set the trigger to HTTP.
-4. Check off "Allow unauthenticated invocations".
-5. Set the runtime to Node.js (version probably doesn't matter)
-6. Zip the index.js, hispadic.js, and package.json files in cloud_functions/hispadic, and use the "Zip upload" option to upload it to cloud storage (it's too big for the inline editor)
-7. Set the "function to execute" to search.
-8. Set maximum function instances to 1.
-9. Deploy the function, get the URL of the HTTP endpoint, and add it to config/config.js.
+---
 
-### Fonts
+## Third-Party Data & Credits
 
-Most of the fonts in public Kotoba are not in this repo, due to their license conditions. But you can add whatever fonts you want. Just put them in resources/fonts and write meta.json files to describe them. Follow the example of the fonts that are already there.
-
-### Other missing functionality
-
-Some quiz decks are not in this repo, and some commands or other functionality also may not be, due to distribution and copyright concerns. If you self-host Kotoba, you will have to survive without some things.
-
-## Help
-
-[Support](https://discord.gg/S92qCjbNHt)
-
-## Third party links
-
-Data from the following third parties has been used in Kotoba.
-
-[Jisho.org](https://jisho.org/about)
-[Princeton University Japanese WordNet](http://compling.hss.ntu.edu.sg/wnja/index.en.html)
-[KanjiVG](http://kanjivg.tagaini.net/)
-[Forvo](https://forvo.com/)
-[Merriam-Webster](https://www.merriam-webster.com)
-[Oxford Dictionaries](https://www.oxforddictionaries.com/)
-[Japanese Wiktionary](https://ja.wiktionary.org)
-[EDICT](http://www.edrdg.org/jmdict/edict.html)
-[ENAMDICT](https://www.edrdg.org/enamdict/enamdict_doc.html)
-[Kanjimaji](https://github.com/maurimo/kanimaji)
-[Google Translate](https://translate.google.com/)
-[YouTube](https://www.youtube.com/)
-[Jonathan Waller's site](http://www.tanos.co.uk/)
-
-In addition various people have contributed quiz data and are credited in the relevant quiz descriptions.
+Data from the following sources is used in Kotoba:
+* [Jisho.org](https://jisho.org/about)
+* [KanjiVG](http://kanjivg.tagaini.net/)
+* [Forvo](https://forvo.com/)
+* [EDICT / JMDict](http://www.edrdg.org/jmdict/edict.html)
+* [Princeton University Japanese WordNet](http://compling.hss.ntu.edu.sg/wnja/index.en.html)
+* [Google Translate](https://translate.google.com/)
+* [YouTube](https://www.youtube.com/)

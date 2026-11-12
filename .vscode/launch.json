@@ -9,21 +9,14 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Worker",
-      "program": "${workspaceFolder}\\worker\\src\\index.js",
-      "runtimeArgs": ["--preserve-symlinks"]
-    },
-    {
-      "type": "node",
-      "request": "launch",
-      "name": "Launch API",
-      "program": "${workspaceFolder}\\api\\server.js",
+      "program": "${workspaceFolder}/worker/src/index.js",
       "runtimeArgs": ["--preserve-symlinks"]
     },
     {
       "type": "node",
       "request": "launch",
       "name": "Launch bot",
-      "program": "${workspaceFolder}\\bot\\src\\start.js",
+      "program": "${workspaceFolder}/bot/src/start.js",
       "runtimeArgs": ["--preserve-symlinks"]
     },
     {

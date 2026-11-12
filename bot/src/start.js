@@ -1,15 +1,32 @@
-const Monochrome = require('monochrome-bot');
 const path = require('path');
 const fs = require('fs');
+
+const CONFIG_PATH = path.join(__dirname, '..', '..', 'config', 'config.js');
+if (!fs.existsSync(CONFIG_PATH)) {
+  console.error('\n===============================================================');
+  console.error(' [ERROR] Configuration file missing: config/config.js');
+  console.error(' Please create it by copying the sample configuration:');
+  console.error('   cp config/config_sample.js config/config.js');
+  console.error(' and set your Discord botToken before starting.');
+  console.error('===============================================================\n');
+  process.exit(1);
+}
+
+const Monochrome = require('monochrome-bot');
 const Bunyan = require('bunyan');
 const StackdriverBunyan = require('@google-cloud/logging-bunyan').LoggingBunyan;
 const Canvas = require('canvas');
-const { initializeFonts, initializeResourceDatabase } = require('kotoba-node-common');
-const { DB_CONNECTION_STRING } = require('kotoba-node-common').database;
-const loadScheduleIntervals = require('./discord/schedule_helper.js').loadIntervals;
-const loadShiritoriForeverChannels = require('./discord/shiritori_forever_helper.js').loadChannels;
 const config = require('../../config/config.js').bot;
 const globals = require('./common/globals.js');
+
+if (!config.botToken || config.botToken.includes('<your bot token>')) {
+  console.error('\n===============================================================');
+  console.error(' [ERROR] Invalid or default bot token detected in config/config.js');
+  console.error(' Please edit config/config.js and set your actual Discord bot token:');
+  console.error('   botToken: \'Bot YOUR_ACTUAL_TOKEN\'');
+  console.error('===============================================================\n');
+  process.exit(1);
+}
 
 const { ConsoleLogger } = Monochrome;
 
@@ -42,6 +59,9 @@ function createLogger() {
 
 function createBot() {
   fs.mkdirSync(path.join(__dirname, '..', 'data'), { recursive: true });
+
+  const { DB_CONNECTION_STRING } = require('kotoba-node-common').database;
+  const loadScheduleIntervals = require('./discord/schedule_helper.js').loadIntervals;
 
   const commandsDirectoryPath = path.join(__dirname, 'discord_commands');
   const messageProcessorsDirectoryPath = path.join(__dirname, 'discord_message_processors');
@@ -163,6 +183,22 @@ async function start() {
   const fontsPath = path.join(__dirname, '..', '..', 'resources', 'fonts');
 
   const resourceDatabasePath = path.join(__dirname, '..', 'generated', 'resources.dat');
+  if (!fs.existsSync(resourceDatabasePath)) {
+    console.error('\n===============================================================');
+    console.error(' [ERROR] Resource database not found at: ' + resourceDatabasePath);
+    console.error(' You must build the resource database before starting the bot.');
+    console.error(' Please run the following command first:');
+    console.error('   npm run buildresources');
+    console.error('===============================================================\n');
+    process.exit(1);
+  }
+
+  const { startLocalDatabaseIfNeeded } = require('./common/local_database.js');
+  await startLocalDatabaseIfNeeded();
+
+  const { initializeFonts, initializeResourceDatabase } = require('kotoba-node-common');
+  const loadShiritoriForeverChannels = require('./discord/shiritori_forever_helper.js').loadChannels;
+
   globals.resourceDatabase = await initializeResourceDatabase(resourceDatabasePath);
 
   globals.fontHelper = initializeFonts(fontsPath, globals.resourceDatabase, Canvas);

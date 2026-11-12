@@ -16,26 +16,6 @@ services:
       - ./config:/var/config
     depends_on:
       - mongo_readwrite
-  kotoba-web:
-    image: registry.gitlab.com/kotoba/monochrome2/web:latest
-    build:
-      context: .
-      dockerfile: ./kotobaweb/Dockerfile
-    restart: unless-stopped
-  kotoba-api:
-    image: registry.gitlab.com/kotoba/monochrome2/api:latest
-    build:
-      context: .
-      dockerfile: ./api/Dockerfile
-    restart: always
-    environment:
-      MONGO_HOST: 'mongo_readwrite:27017'
-      NODE_ENV: 'production'
-    volumes:
-      - ./user_data/shared_data:/var/shared_data
-      - ./config:/var/config
-    depends_on:
-      - mongo_readwrite
   kotoba-worker:
     image: registry.gitlab.com/kotoba/monochrome2/worker:latest
     build:
@@ -56,12 +36,3 @@ services:
       - ./user_data/mongo_readwrite_data:/data/db
     ports:
       - '127.0.0.1:50001:27017'
-  nginx:
-    image: registry.gitlab.com/kotoba/monochrome2/nginx:latest
-    build: ./nginx
-    restart: unless-stopped
-    depends_on:
-      - kotoba-api
-      - kotoba-web
-    ports:
-      - '80:80'
