@@ -52,12 +52,46 @@ async function searchCustomPrefix(searchTerm, { limit = 100 } = {}) {
   return results;
 }
 
+const katakanaDeckLoader = require('./katakana_deck_loader.js');
+
+function searchKatakanaDecks(searchTerm) {
+  const term = (searchTerm || '').toLowerCase().trim();
+  const availableFiles = katakanaDeckLoader.getAvailableKatakanaFiles();
+  const matches = [];
+
+  for (const f of availableFiles) {
+    const base = f.baseName.toLowerCase();
+    const shortName = `katakana_${base}`;
+    const knName = base.startsWith('n') ? `k${base}` : base;
+    const name = `Katakana ${f.baseName} Reading Quiz`;
+
+    if (
+      !term
+      || shortName.includes(term)
+      || knName.includes(term)
+      || f.baseName.toLowerCase().includes(term)
+      || 'katakana'.includes(term)
+    ) {
+      matches.push({
+        shortName,
+        name,
+      });
+    }
+  }
+
+  return matches;
+}
+
 function searchBuiltInPrefix(searchTerm, { limit = 100 } = {}) {
-  return globals.resourceDatabase.prefixSearchQuizDeckShortNames(searchTerm, limit);
+  const builtIn = globals.resourceDatabase ? globals.resourceDatabase.prefixSearchQuizDeckShortNames(searchTerm, limit) : [];
+  const katakanaMatches = searchKatakanaDecks(searchTerm);
+  return [...katakanaMatches, ...builtIn].slice(0, limit);
 }
 
 function searchBuiltInFullText(searchTerm, { limit = 100 } = {}) {
-  return globals.resourceDatabase.fullTextSearchQuizDecks(searchTerm, limit);
+  const builtIn = globals.resourceDatabase ? globals.resourceDatabase.fullTextSearchQuizDecks(searchTerm, limit) : [];
+  const katakanaMatches = searchKatakanaDecks(searchTerm);
+  return [...katakanaMatches, ...builtIn].slice(0, limit);
 }
 
 async function getUserAndDeck(discordUserId, deckUniqueId) {

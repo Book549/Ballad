@@ -25,6 +25,10 @@
       "value": "stations_full stations_tokyo stations_osaka (say **<prefix>quiz stations** to see the rest)"
     },
     {
+      "name": "Katakana Decks (by difficulty)",
+      "value": "katakana_n5 katakana_n4 katakana_n3 katakana_n2 katakana_n1 Katakana_words (say **<prefix>quiz katakana** to choose difficulty)"
+    },
+    {
       "name": "Japanese Misc. Decks",
       "value": "hiragana katakana kanawords strokes_kanken rtk_vocab rtk_all kotowaza common common_nojlpt k33 hard haard insane hentaigana kklc ranobe numbers yojijukugo kirakira dqn sao jsyn jsyn_full jptrivia kokuji onomato 擬音語 radicals jouyou images jpdefs myouji namae onago seiyuu cities prefectures countries emperors kunyomi pokemon jmdict jmndict vnfreq kyuujitai commonish lnverbs jpdbtop30k"
     },
@@ -144,6 +148,18 @@
         "miyazaki",
         "kagoshima",
         "okinawa"
+      ]
+    },
+    {
+      "keyword": "katakana",
+      "description": "Katakana reading quizzes by difficulty (use <prefix>quiz <deckname>):",
+      "decks": [
+        "katakana_n5",
+        "katakana_n4",
+        "katakana_n3",
+        "katakana_n2",
+        "katakana_n1",
+        "Katakana_words"
       ]
     }
   ]

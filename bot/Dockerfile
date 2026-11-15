@@ -16,6 +16,7 @@ COPY ./bot/package-lock.json .
 RUN npm ci
 
 COPY ./resources ./../resources
+COPY ./katakana ./../katakana
 RUN npm run buildresources
 
 RUN mkdir data

@@ -1,0 +1,4165 @@
+#separator:tab
+#html:true
+アプリケーション	[apurike-shon]	(n) {comp} application
+カルト	[karuto]	(n) cult
+ガイダンス	[gaidansu]	(n) guidance
+クック	[kukku]	(n) cook
+コテージ	[kote-ji]	(n) cottage
+ジャイアント	[jaianto]	(adj-na,n) giant
+ジョイント	[jointo]	(n,vs) joint
+スライディング	[suraidingu]	(n,vs) sliding
+センチメートル	[senchime-toru]	(n) (also written 糎) centimeter
+ソーセージ	[so-se-ji]	(n) sausage
+ダム	[damu]	(n) (1) dam
+テヘラン	[teheran]	(n) Tehran
+トラクター	[torakuta-]	(n) tractor
+フィル	[firu]	(n) (1) fill
+ブラスバンド	[burasubando]	(n) brass band
+ベース	[be-su]	(n) (1) base
+マウス	[mausu]	(n) (1) (See 二十日鼠・はつかねずみ) mouse (esp. laboratory)
+リハーサル	[riha-saru]	(n) rehearsal
+レディー	[redi-]	(n) (1) lady
+アーキテクチャ	[a-kitekucha]	(n) architecture
+アーク	[a-ku]	(n) (1) arc
+アーケード	[a-ke-do]	(n) arcade (street)
+アース	[a-su]	(n) earth
+アーチ	[a-chi]	(n) (1) arch
+アーチェリー	[a-cheri-]	(n) archery
+アーティスト	[a-tisuto]	(n) artist
+アート	[a-to]	(n) art
+アーバン	[a-ban]	(n) urban
+アーミー	[a-mi-]	(n) army
+アーム	[a-mu]	(n) (1) arm
+アーモンド	[a-mondo]	(n) almond (Prunus dulcis)
+アイコン	[aikon]	(n) {comp} icon
+アイシャドウ	[aishadou]	(n) eyeshadow
+アイス	[aisu]	(n) (1) ice (eng: ice, ger: Eis)
+アイスクリーム	[aisukuri-mu]	(n) ice cream
+アイスコーヒー	[aisuko-hi-]	(n) iced coffee
+アイスホッケー	[aisuhokke-]	(n) ice hockey
+アイテム	[aitemu]	(n) (1) item
+アイデア	[aidea]	(n) idea
+アイデンティティ	[aidentiti]	(n) identity
+アイドル	[aidoru]	(n) (1) young star
+アイヌ	[ainu]	(n,adj-no) Ainu
+アイボリー	[aibori-]	(n) ivory
+アイリス	[airisu]	(n) iris
+アイロン	[airon]	(n) (1) iron (for pressing clothes)
+アウト	[auto]	(n) out
+アウトレット	[autoretto]	(n) (1) outlet (store that sells seconds, discontinued lines, etc.)
+アカデミー	[akademi-]	(n) academia (fre: academie)
+アカデミック	[akademikku]	(adj-na,n) academic
+アクシデント	[akushidento]	(n) accident
+アクション	[akushon]	(n) action
+アクセサリー	[akusesari-]	(n) accessory
+アクセス	[akusesu]	(n,vs) access
+アクセル	[akuseru]	(n) (1) (abbr) (See アクセラレータ) accelerator
+アクセント	[akusento]	(n) (1) accent (in language)
+アクティビティ	[akutibiti]	(n) activity
+アクティブ	[akutibu]	(adj-na) active
+アクリル	[akuriru]	(n,adj-no) acrylic (esp. acrylic fibre, fiber)
+アクロバット	[akurobatto]	(n) (1) acrobat
+アグレッシブ	[aguresshibu]	(adj-na) aggressive
+アコースティック	[ako-sutikku]	(n,adj-na) acoustic
+アコーディオン	[ako-dion]	(n) accordion
+アコード	[ako-do]	(n) accord
+アシスタント	[ashisutanto]	(n) assistant
+アシスト	[ashisuto]	(n,vs) assist
+アジト	[ajito]	(n) hideout (rus: agitpunkt)
+アスパラガス	[asuparagasu]	(n) asparagus
+アスファルト	[asufaruto]	(n,adj-no) asphalt
+アスベスト	[asubesuto]	(n) asbestos (dut: asbest)
+アスリート	[asuri-to]	(n) athlete
+アスレチック	[asurechikku]	(n) (1) (See アスレチックス) athletics
+アセスメント	[asesumento]	(n) assessment
+アタック	[atakku]	(n,vs) (1) attack
+アダプター	[adaputa-]	(n) adapter
+アダルト	[adaruto]	(n) adult
+アット	[atto]	(unc) (See アットホーム,＠) at
+アッパー	[appa-]	(n) upper
+アップ	[appu]	(n,n-suf,vs) (1) increasing (eng: up)
+アトピー	[atopi-]	(n,adj-no) atopic
+アトム	[atomu]	(n) atom
+アトラクション	[atorakushon]	(n) attraction
+アトラス	[atorasu]	(n) (1) Atlas
+アトリエ	[atorie]	(n) studio (fre: atelier)
+アド	[ado]	(n) (1) ad
+アドバイザー	[adobaiza-]	(n) adviser
+アドバイス	[adobaisu]	(n,vs) advice
+アドバンテージ	[adobante-ji]	(n) advantage
+アドベンチャー	[adobencha-]	(n) adventure
+アドリブ	[adoribu]	(n,adj-no) ad lib (lat:)
+アドレス	[adoresu]	(n) (1) address
+アドレナリン	[adorenarin]	(n) adrenalin
+アナ	[ana]	(n) (abbr) announcer
+アナウンサー	[anaunsa-]	(n) announcer
+アナウンス	[anaunsu]	(n) (1) (abbr) (See アナウンスメント) announcement
+アナリスト	[anarisuto]	(n) analyst
+アナログ	[anarogu]	(adj-na,n,adj-no) analog
+アニマル	[animaru]	(n) animal
+アニメ	[anime]	(n,adj-no) (1) animated film
+アニメーション	[anime-shon]	(n,adj-no) (1) animation
+アバウト	[abauto]	(adj-na) (1) approximate (number) (eng: about)
+アパート	[apa-to]	(n) (1) (abbr) (See アパートメントハウス) apartment building
+アピール	[api-ru]	(n,vs) (1) appeal (e.g. to public opinion)
+アフィリエイト	[afirieito]	(n) affiliate
+アフター	[afuta-]	(n) after
+アフターヌーン	[afuta-nu-n]	(n) (See 午後) afternoon
+アプリ	[apuri]	(n) (abbr) {comp} (See アプリケーションプログラム) app
+アプローチ	[apuro-chi]	(n,vs) (1) approach
+アベック	[abekku]	(n) a couple (of lovers, etc.) (fre: avec)
+アベニュー	[abenyu-]	(n) avenue
+アマ	[ama]	(n) (abbr) (See アマチュア) amateur
+アマチュア	[amachua]	(n,adj-no) amateur
+アミューズメント	[amyu-zumento]	(n) amusement
+アメーバ	[ame-ba]	(n,adj-no) amoeba
+アメダス	[amedasu]	(n) Automated Meteorological Data Acquisition System
+アメフト	[amefuto]	(n) (abbr) (See アメリカンフットボール) American football
+アメリカン	[amerikan]	(n,adj-f) (1) American
+アラカルト	[arakaruto]	(n) à la carte (fre:)
+アラブ	[arabu]	(n,adj-no) Arab
+アリーナ	[ari-na]	(n) arena
+アリア	[aria]	(n) {music} aria (ita:)
+アリバイ	[aribai]	(n) alibi
+アルカディア	[arukadia]	(n,adj-no) arcadia
+アルカリ	[arukari]	(n) alkali (dut:)
+アルコール	[aruko-ru]	(n,adj-no) alcohol
+アルゴリズム	[arugorizumu]	(n,adj-no) {comp} algorithm
+アルツハイマー	[arutsuhaima-]	(n) Alzheimer (disease)
+アルデヒド	[arudehido]	(n) aldehyde
+アルト	[aruto]	(n) alto (ita:)
+アルバイト	[arubaito]	(n,vs) (1) (See パート・3,パートタイム) part-time job (ger: Arbeit)
+アルバム	[arubamu]	(n) album
+アルパイン	[arupain]	(n) alpine
+アルファベット	[arufabetto]	(n,adj-no) alphabet
+アルプス	[arupusu]	(n,adj-no) alps
+アルミ	[arumi]	(n) (abbr) (See アルミニウム) aluminum (Al)
+アルミニウム	[aruminiumu]	(n,adj-no) aluminum (Al)
+アレルギー	[arerugi-]	(n,adj-no) allergy (ger: Allergie)
+アレンジ	[arenji]	(vs) (1) to arrange
+アロー	[aro-]	(n) arrow
+アロハ	[aroha]	(int) (1) aloha (haw:)
+アワー	[awa-]	(n) hour
+アンカー	[anka-]	(n) (1) anchor
+アングラ	[angura]	(n) (abbr) (See アンダーグラウンド) underground
+アングル	[anguru]	(n) angle
+アンケート	[anke-to]	(n) questionnaire (fre: enquête)
+アンコール	[anko-ru]	(n,vs) encore
+アンサンブル	[ansanburu]	(n,vs,adj-no) ensemble
+アンソロジー	[ansoroji-]	(n) anthology
+アンダー	[anda-]	(adj-f) (1) (ant: オーバー・2) under
+アンダーライン	[anda-rain]	(n) underline
+アンチ	[anchi]	(n,adj-no) (1) anti-
+アンティーク	[anti-ku]	(n,adj-na) antique (fre:)
+アンテナ	[antena]	(n) (1) antenna
+アンド	[ando]	(n) (1) and
+アンドロイド	[andoroido]	(n) android
+アンバランス	[anbaransu]	(adj-na) (1) unbalanced
+アンフェア	[anfea]	(adj-na) unfair
+アンプ	[anpu]	(n) (1) amp
+アンモニア	[anmonia]	(n,adj-no) ammonia
+イーグル	[i-guru]	(n) eagle (bird of prey, Accipitridae family)
+イージー	[i-ji-]	(adj-na,n) easy
+イースター	[i-suta-]	(n) Easter
+イースト	[i-suto]	(n) (1) east
+イエス	[iesu]	(n) (1) Jesus (lat:)
+イエロー	[iero-]	(adj-na,n) yellow
+イオン	[ion]	(n,adj-no) ion
+イクラ	[ikura]	(n) (See 筋子) salted salmon roe (i.e. individual mature eggs) (rus: ikra)
+イコール	[iko-ru]	(adj-na) (1) equal
+イスタンブール	[isutanbu-ru]	(n) Istanbul
+イスラム	[isuramu]	(n,adj-no) Islam
+イズム	[izumu]	(n) (1) (イズム only) ism
+イット	[itto]	"(n) ""it"""
+イデオロギー	[ideorogi-]	(n,adj-no) ideology (ger: Ideologie)
+イナバウアー	[inabaua-]	(n) Ina Bauer (figure skating technique first performed in 1957 by West German skater Ina Bauer)
+イニング	[iningu]	(n) inning
+イノベーション	[inobe-shon]	(n) innovation
+イブ	[ibu]	(n) eve (esp. Christmas Eve)
+イブニング	[ibuningu]	(n) evening
+イベント	[ibento]	(n) event
+イメージ	[ime-ji]	(n,vs) (1) (See イメージアップ) (one's) image
+イヤホン	[iyahon]	(n) earphone
+イヤリング	[iyaringu]	(n) earring
+イラク	[iraku]	(n) (also written as 伊拉久) Iraq
+イラスト	[irasuto]	(n) (abbr) (See イラストレーション) illustration
+イラストレーター	[irasutore-ta-]	(n) illustrator
+イリノイ	[irinoi]	(n) Illinois
+イリュージョン	[iryu-jon]	(n) illusion
+イルミネーション	[irumine-shon]	(n) illumination
+イレブン	[irebun]	(n) eleven
+イン	[in]	(n) (1) in
+インク	[inku]	(n,adj-no) ink (dut: inkt)
+イングランド	[ingurando]	(n,adj-no) (also written as 英蘭) England
+インサイダー	[insaida-]	(n) insider
+インスタント	[insutanto]	(adj-na,n) instant
+インストラクター	[insutorakuta-]	(n) instructor
+インスピレーション	[insupire-shon]	(n) inspiration
+インスリン	[insurin]	(n) insulin
+インセンティブ	[insentibu]	(n) incentive
+インター	[inta-]	(n) (1) (abbr) (See インターチェンジ) interchange
+インターナショナル	[inta-nashonaru]	(adj-na,n) international
+インターネット	[inta-netto]	(n,adj-no) {comp} Internet
+インターン	[inta-n]	(n) (See 研修医) intern
+インタビュー	[intabyu-]	(n,vs) interview (i.e. television, newspaper, etc.)
+インタラクティブ	[intarakutibu]	(adj-na,n) interactive
+インダストリアル	[indasutoriaru]	(adj-na,n) industrial
+インチキ	[inchiki]	(adj-na,n,vs) (1) cheating
+インテグレーション	[integure-shon]	(n) integration
+インテリ	[interi]	(n,adj-no) (1) (See 知識人) intellectual
+インテリア	[interia]	(n) (1) interior (of building, room, vehicle, etc.)
+インテリジェンス	[interijensu]	(n) intelligence
+インテリジェント	[interijento]	(adj-na,n) intelligent
+インテル	[interu]	(n) (1) {comp} Intel (chip manufacturer)
+インディアナ	[indiana]	(n) Indiana
+インディアン	[indian]	(n) Indian
+インディペンデント	[indipendento]	(adj-na,n) independent
+インデックス	[indekkusu]	(n) index
+イントネーション	[intone-shon]	(n) intonation
+イントロ	[intoro]	(n) (abbr) (See イントロダクション) intro
+インドア	[indoa]	(n) indoor
+インバーター	[inba-ta-]	(n) {comp} inverter
+インパクト	[inpakuto]	(n) impact
+インフォメーション	[infome-shon]	(n) information
+インフラ	[infura]	(n) (abbr) (See インフラストラクチャー) infrastructure
+インフルエンザ	[infuruenza]	(n,adj-no) influenza
+インフレ	[infure]	(n,adj-no) (abbr) (See インフレーション) inflation
+インプット	[inputto]	(n,vs) (See アウトプット) input
+インペリアル	[inperiaru]	(adj-no) imperial
+インポート	[inpo-to]	(n,vs) import
+ウーマン	[u-man]	(n,adj-no) woman
+ウール	[u-ru]	(n) wool
+ウィーク	[wi-ku]	(n) (1) week
+ウィークエンド	[wi-kuendo]	(n) weekend
+ウィークリー	[wi-kuri-]	(n,adv) weekly
+ウィジェット	[wijetto]	(n) widget
+ウィンター	[winta-]	(n) winter
+ウィンドウ	[windou]	(n) (1) {comp} window
+ウイスキー	[uisuki-]	(n) (also written as ウ井スキー) whisky
+ウイルス	[uirusu]	(n) (1) virus (lat:, ger:)
+ウインカー	[uinka-]	(n) (1) Winker (automobile)
+ウインク	[uinku]	(n,vs) wink
+ウイング	[uingu]	(n) wing
+ウインタースポーツ	[uinta-supo-tsu]	(n) winter sports
+ウインド	[uindo]	(n) wind
+ウェー	[we-]	(n) way
+ウェールズ	[we-ruzu]	(n) Wales
+ウェイト	[weito]	(n) (1) wait
+ウェイトレス	[weitoresu]	(n) waitress
+ウェディングドレス	[wedingudoresu]	(n) wedding dress
+ウェブ	[webu]	(n,adj-no) (1) web
+ウェブサイト	[webusaito]	(n) {comp} web site
+ウェブページ	[webupe-ji]	(n) {comp} Web page
+ウェブログ	[weburogu]	(n) (See ブログ) weblog
+ウェルカム	[werukamu]	(n) welcome
+ウエーブ	[ue-bu]	(n,vs) (1) wave (on water)
+ウエア	[uea]	(n,suf) (1) -ware
+ウエスタン	[uesutan]	(n) Western
+ウエスト	[uesuto]	(n) (1) waist
+ウエット	[uetto]	(adj-na,n) wet
+ウォッカ	[wokka]	(n) vodka (rus:)
+ウォッチング	[wocchingu]	(n) watching
+ウォン	[won]	(n) won (unit of Korean currency) (kor:)
+ウクレレ	[ukurere]	(n) ukulele
+ウッド	[uddo]	(n) wood
+ウラニウム	[uraniumu]	(n) uranium (U) (ger: Uran)
+ウルトラ	[urutora]	(n) ultra
+ウルフ	[urufu]	(n) wolf
+エージェンシー	[e-jenshi-]	(n) agency
+エージェント	[e-jento]	(n) agent
+エース	[e-su]	(n) ace
+エール	[e-ru]	(n) (1) yell
+エア	[ea]	(n) air
+エアコン	[eakon]	(n,adj-no) (1) (abbr) (See エアコンディショナー) air-conditioner
+エアゾール	[eazo-ru]	(n) aerosol
+エアバッグ	[eabaggu]	(n) air bag
+エアメール	[eame-ru]	(n) air mail
+エアロビクス	[earobikusu]	(n) aerobics
+エイト	[eito]	(n) eight
+エイプリルフール	[eipurirufu-ru]	(n) April fool
+エイリアン	[eirian]	(n) alien
+エキサイティング	[ekisaitingu]	(adj-na,n) exciting
+エキサイト	[ekisaito]	(n,vs) excite
+エキスパート	[ekisupa-to]	(n) expert
+エキスポ	[ekisupo]	(n) expo
+エキゾチック	[ekizochikku]	(adj-na,n) exotic
+エクステンション	[ekusutenshon]	(n) extension
+エクストラ	[ekusutora]	(n) (1) (esp. エキストラ) extra (e.g. in a film)
+エクスプレス	[ekusupuresu]	(n) express
+エクスペリエンス	[ekusuperiensu]	(n) experience
+エグゼクティブ	[eguzekutibu]	(n) executive
+エコー	[eko-]	(n,vs) (1) echo
+エコノミー	[ekonomi-]	(n) economy
+エコノミスト	[ekonomisuto]	(n) economist
+エコロジー	[ekoroji-]	(n) ecology
+エゴ	[ego]	(n) (1) ego (lat:)
+エスカレーター	[esukare-ta-]	(n) escalator
+エスカレート	[esukare-to]	(n,vs) escalate
+エスコート	[esuko-to]	(n,vs) escort
+エステート	[esute-to]	(n) estate
+エステティック	[esutetikku]	(adj-f) esthetic (fre: esthetique)
+エステティックサロン	[esutetikkusaron]	(n) beauty salon (wasei: esthetic salon)
+エステル	[esuteru]	(n) ester
+エストニア	[esutonia]	(n) Estonia
+エストロゲン	[esutorogen]	(n) estrogen
+エスニック	[esunikku]	(adj-na,n) ethnic
+エスプリ	[esupuri]	(n) (1) spirit (fre: esprit)
+エチケット	[echiketto]	(n) etiquette (fre:)
+エッジ	[ejji]	(n) edge
+エッセイ	[essei]	(n,adj-no) essay
+エッセイスト	[esseisuto]	(n) essayist
+エッセンス	[essensu]	(n) essence
+エッチング	[ecchingu]	(n,vs) etching
+エディション	[edishon]	(n) edition
+エディター	[edita-]	(n) {comp} editor
+エディット	[editto]	(n) edit
+エディンバラ	[edinbara]	(n) Edinburgh
+エデン	[eden]	(n) Eden
+エナジー	[enaji-]	(n) (See エネルギー・1) energy
+エナメル	[enameru]	(n) enamel
+エネ	[ene]	(n) (abbr) energy
+エネルギー	[enerugi-]	(n) (1) (See エナジー) energy (ger: Energie)
+エネルギッシュ	[enerugisshu]	(adj-na) energetic (ger: Energisch)
+エバー	[eba-]	(adv) ever
+エピソード	[episo-do]	(n) episode
+エピック	[epikku]	(n) epic
+エプロン	[epuron]	(n) apron
+エペ	[epe]	(n) (See レイピア) epee (fre: epee)
+エポック	[epokku]	(n) epoch
+エメラルド	[emerarudo]	(n) emerald
+エラー	[era-]	(n) (See ミス・1) error
+エリート	[eri-to]	(n,adj-no) elite (fre:)
+エリア	[eria]	(n) area
+エルサルバドル	[erusarubadoru]	(n) El Salvador
+エレガンス	[eregansu]	(adj-na) elegance
+エレガント	[ereganto]	(adj-na,n) elegant
+エレキ	[ereki]	(n) (1) (abbr) (also written as 越歴 and 越歴機) (See エレキテル・2) electricity
+エレキギター	[erekigita-]	(n) (col) (See エレクトリックギター) electric guitar
+エレクトリック	[erekutorikku]	(adj-na,n) electric
+エレクトロニクス	[erekutoronikusu]	(n) electronics
+エレベーター	[erebe-ta-]	(n) (1) elevator
+エロ	[ero]	(adj-na,n,adj-no) (1) erotic
+エロス	[erosu]	(n) (1) sexual desire
+エロチック	[erochikku]	(adj-na,n) erotic
+エンジェル	[enjeru]	(n) angel
+エンジニア	[enjinia]	(n) engineer
+エンジニアリング	[enjiniaringu]	(n) engineering
+エンジョイ	[enjoi]	(n,vs) enjoy
+エンジン	[enjin]	(n) engine
+エンターテインメント	[enta-teinmento]	(n) entertainment
+エンタープライズ	[enta-puraizu]	(n) enterprise
+エンディング	[endingu]	(n) ending
+エントリー	[entori-]	(n,vs) entry
+エンド	[endo]	(n) end
+エンドレス	[endoresu]	(adj-na) endless
+エンブレム	[enburemu]	(n) emblem
+オーエー	[o-e-]	(n) (abbr) {comp} OA
+オーガ	[o-ga]	(n) (1) ogre
+オーク	[o-ku]	(n) (1) oak
+オークション	[o-kushon]	(n) auction
+オークス	[o-kusu]	(n) oaks
+オーケストラ	[o-kesutora]	(n) orchestra
+オーシャン	[o-shan]	(n) ocean
+オーソドックス	[o-sodokkusu]	(adj-na,n) orthodox
+オーダー	[o-da-]	(n,vs) order
+オーダーメイド	[o-da-meido]	(n) made-to-order (wasei: order made)
+オーチャード	[o-cha-do]	(n) orchard
+オーディオ	[o-dio]	(n) audio
+オーディション	[o-dishon]	(n) audition
+オート	[o-to]	(n) (1) auto
+オートキャンプ	[o-tokyanpu]	(n) motor home camping (wasei:)
+オートクチュール	[o-tokuchu-ru]	(n) haute couture (fre:)
+オートバイ	[o-tobai]	(n) motorcycle (wasei: auto-bike)
+オートマチック	[o-tomachikku]	(adj-na,adj-no,n) automatic
+オートメーション	[o-tome-shon]	(n) automation
+オートロック	[o-torokku]	(n) self-locking (wasei: autolock)
+オード	[o-do]	(n) ode
+オードブル	[o-doburu]	(n) hors d'oeuvre (fre:)
+オーナー	[o-na-]	(n) owner
+オーバー	[o-ba-]	(adj-na,n,vs) (1) (abbr) overcoat
+オーバーステップ	[o-ba-suteppu]	(n) overstep
+オーバーヒート	[o-ba-hi-to]	(n,vs) overheat
+オーバーラップ	[o-ba-rappu]	(n,vs) overlap
+オーバーラン	[o-ba-ran]	(n,vs) (1) {baseb} overrun
+オーブン	[o-bun]	(n) oven
+オープニング	[o-puningu]	(n) opening
+オープン	[o-pun]	(adj-na,n,vs) open
+オープンカー	[o-punka-]	(n) open-top car (wasei: open car)
+オープンセット	[o-punsetto]	(n) open set
+オーボエ	[o-boe]	(n) oboe (ita:)
+オーラ	[o-ra]	(n) aura
+オール	[o-ru]	(n) (1) oar
+オールスターキャスト	[o-rusuta-kyasuto]	(n) all-star cast
+オールドガード	[o-rudoga-do]	(n) old guard
+オールナイト	[o-runaito]	(n) all-night
+オールマイティー	[o-rumaiti-]	(adj-na,n) almighty
+オールラウンド	[o-ruraundo]	(adj-na) all-round
+オーロラ	[o-rora]	(n) {astron} (See 極光・きょっこう) aurora
+オアシス	[oashisu]	(n) (1) oasis
+オイディプス	[oidipusu]	(n) Oedipus
+オイル	[oiru]	(n) oil
+オイルフェンス	[oirufensu]	(n) oil fence
+オカリナ	[okarina]	(n) ocarina (type of flute) (ita:)
+オカルト	[okaruto]	(adj-na,adj-no) occult
+オクターブ	[okuta-bu]	(n) octave (fre:)
+オクラ	[okura]	(n) okra (herb) (Abelmoschus esculentus)
+オクラホマ	[okurahoma]	(n) Oklahoma
+オケ	[oke]	(n) (abbr) (See オーケストラ) orchestra
+オスカー	[osuka-]	(n) Oscar
+オセアニア	[oseania]	(n) Oceania
+オゾン	[ozon]	(n) ozone
+オゾンホール	[ozonho-ru]	(n) ozone hole
+オタク	[otaku]	(n) (col) (See 御宅・4) geek
+オタワ	[otawa]	(n) Ottawa
+オックスフォード	[okkusufo-do]	(n) (also 牛津) Oxford
+オドオド	[odoodo]	(adv,adv-to,vs) (on-mim) coweringly
+オニオン	[onion]	(n) (See 玉ねぎ) onion (Allium cepa)
+オハイオ	[ohaio]	(n) Ohio
+オピニオン	[opinion]	(n) opinion
+オピニオンリーダー	[opinionri-da-]	(n) opinion leader
+オフ	[ofu]	(n,vs) (1) switching off (e.g. electricity)
+オフィシャル	[ofisharu]	(adj-na,n) official
+オフィス	[ofisu]	(n) office
+オフサイド	[ofusaido]	(n) off-side
+オフシーズン	[ofushi-zun]	(n) off-season
+オフレコ	[ofureko]	(n,adj-no) off-the-record
+オフロード	[ofuro-do]	(n) off-road
+オブザーバ	[obuza-ba]	(n) observer
+オブジェ	[obuje]	(n) (1) (abbr) objet d'art (fre:)
+オブラート	[obura-to]	(n) wafer (for wrapping powdered medicine) (dut: oblaat, ger: oblate)
+オプション	[opushon]	(n,vs,adj-no) (1) option
+オペ	[ope]	(n,vs) (abbr) (See オペレーション) operation
+オペラ	[opera]	(n) opera (ita:)
+オペレーション	[opere-shon]	(n) operation
+オペレーター	[opere-ta-]	(n) operator
+オペレッタ	[operetta]	(n) operetta (ita:)
+オムニバス	[omunibasu]	(n) omnibus
+オムレツ	[omuretsu]	(n) omelette
+オラクル	[orakuru]	(n) oracle
+オラトリオ	[oratorio]	(n) oratorio (ita:)
+オランウータン	[oran'u-tan]	(n) orangutan (Pongo pygmaeus)
+オリエンタリズム	[orientarizumu]	(n) orientalism
+オリエンタル	[orientaru]	(adj-na) (See オクシデンタル) oriental
+オリエンテーション	[oriente-shon]	(n) orientation
+オリエンテーリング	[oriente-ringu]	(n) orienteering
+オリエント	[oriento]	(n) (See オクシデント) Orient
+オリオン	[orion]	(n) Orion
+オリゴマー	[origoma-]	(n) oligomer
+オリジナリティー	[orijinariti-]	(n) originality
+オリジナル	[orijinaru]	(adj-no,n) (1) original
+オリンピック	[orinpikku]	(n) Olympics
+オルガスム	[orugasumu]	(n) orgasm (ger: Orgasmus)
+オルガン	[orugan]	(n) organ (musical instrument) (por: órgão)
+オルグ	[orugu]	(n,vs) (1) (abbr) (See オルガナイザー) organizer
+オルゴール	[orugo-ru]	(n) music box (dut: orgel)
+オレンジ	[orenji]	(n) orange
+オン	[on]	(n,vs) on
+オンエア	[on'ea]	(n,vs) on air
+オンス	[onsu]	(n) ounce
+オンパレード	[onpare-do]	(n) display (wasei: on parade)
+オンブズマン	[onbuzuman]	(n) ombudsman (swe:)
+オンライン	[onrain]	(n) {comp} online
+オンリー	[onri-]	(n) (1) only
+カー	[ka-]	(n) car
+カースト	[ka-suto]	(n) caste
+カーソル	[ka-soru]	(n) {comp} cursor
+カーチェイス	[ka-cheisu]	(n) car chase
+カーテン	[ka-ten]	(n) curtain
+カーディガン	[ka-digan]	(n) cardigan
+カート	[ka-to]	(n) (1) cart
+カートリッジ	[ka-torijji]	(n) cartridge
+カード	[ka-do]	(n) (1) card
+カードゲーム	[ka-doge-mu]	(n) card game
+カーニバル	[ka-nibaru]	(n) carnival
+カーネーション	[ka-ne-shon]	(n) carnation (Dianthus caryophyllus)
+カーフェリー	[ka-feri-]	(n) car ferry
+カーブ	[ka-bu]	(n,vs) (1) curve
+カーペット	[ka-petto]	(n) carpet
+カーボン	[ka-bon]	(n) carbon
+カーリング	[ka-ringu]	(n) curling
+カール	[ka-ru]	(n,vs) (1) curl
+カーレース	[ka-re-su]	(n) car race
+カーン	[ka-n]	(n) (1) kern
+カイト	[kaito]	(n) kite
+カウチポテト	[kauchipoteto]	(n) couch potato
+カウボーイ	[kaubo-i]	(n) cowboy
+カウンセラー	[kaunsera-]	(n) counselor
+カウンセリング	[kaunseringu]	(n) counseling
+カウンター	[kaunta-]	(n) (1) counter
+カウント	[kaunto]	(n,vs) count
+カオス	[kaosu]	(n) (カオス is from Greek: khaos) chaos
+カキコ	[kakiko]	(n) (abbr) (sl) (See 書き込み) post (to a BBS)
+カクテル	[kakuteru]	(n,adj-no) cocktail
+カサカサ	[kasakasa]	(adj-na,vs,adv,adv-to) (1) (on-mim) dry
+カジノ	[kajino]	(n) casino (fre:)
+カジュアル	[kajuaru]	(adj-na,n) casual
+カスタマー	[kasutama-]	(n) (See 顧客) customer
+カステラ	[kasutera]	(n) {food} castella (por: pao de Castella)
+カスバ	[kasuba]	(n) kasbah
+カセット	[kasetto]	(n) (1) cassette (tape)
+カセットテープ	[kasettote-pu]	(n) cassette tape
+カチカチ	[kachikachi]	(adv-to,adv) (1) (on-mim) ticktock
+カチューシャ	[kachu-sha]	"(n) (1) (named after a character in Tolstoy's novel ""Resurrection"") Alice band (rus: Katyusha)"
+カッター	[katta-]	(n) (1) cutter
+カット	[katto]	(n,vs) (1) cut
+カップ	[kappu]	(n) (1) (See コップ・1) cup (drinking vessel, measure, brassiere, prize, etc.)
+カップリングシュガー	[kappuringushuga-]	(n) coupling sugar
+カップル	[kappuru]	(n) couple
+カツ	[katsu]	(n) (abbr) (See カツレツ) cutlet (usu. crumbed and fried)
+カテーテル	[kate-teru]	(n) catheter (ger: Katheter, dut: katheter)
+カテゴリー	[kategori-]	(n) category (ger: Kategorie)
+カデンツ	[kadentsu]	(n) {music} cadence (ger: Kadenz)
+カトリシズム	[katorishizumu]	(n) Catholicism
+カトレヤ	[katoreya]	(n) cattleya (type of orchid) (lat:)
+カドミウム	[kadomiumu]	(n) cadmium (Cd)
+カヌー	[kanu-]	(n) (See カヤック,カナディアンカヌー) canoe
+カネロニー	[kaneroni-]	(n) canneloni (ita:)
+カバー	[kaba-]	(n,vs) (1) cover (e.g. book)
+カフェ	[kafe]	(n) (1) cafe (fre:)
+カフェイン	[kafein]	(n) caffeine (ger: Kaffein)
+カフェテリア	[kafeteria]	(n) cafeteria
+カフス	[kafusu]	(n) cuffs
+カブ	[kabu]	(n) cub
+カプセル	[kapuseru]	(n,adj-no) capsule (ger: Kapsel)
+カプラー	[kapura-]	(n) coupler
+カプリッチオ	[kapuricchio]	(n) {music} capriccio (ita:)
+カマーバンド	[kama-bando]	(n) cummerbund
+カム	[kamu]	(n) cam
+カムバック	[kamubakku]	(n,vs) comeback
+カメラ	[kamera]	(n) camera
+カメラマン	[kameraman]	(n) cameraman
+カメレオン	[kamereon]	(n) chameleon
+カヤック	[kayakku]	(n,vs) kayak
+カラー	[kara-]	(n) (1) collar
+カラーコーディネーター	[kara-ko-dine-ta-]	(n) color coordinator
+カラード	[kara-do]	(n) colored
+カラチ	[karachi]	(n) Karachi
+カラット	[karatto]	(n) carat
+カラフル	[karafuru]	(adj-na,n) colorful
+カリウム	[kariumu]	(n,adj-no) potassium (K) (ger: kalium)
+カリキュラム	[karikyuramu]	(n) curriculum
+カリスマ	[karisuma]	(n,adj-f) (1) charisma (i.e. attractiveness, charm) (ger: Charisma)
+カリフォルニア	[kariforunia]	(n) California
+カルガリー	[karugari-]	(n) Calgary
+カルキ	[karuki]	(n) (abbr) (See クロールカルキ) chlorinated lime (ger: Kalk, dut: kalk)
+カルシウム	[karushiumu]	(n) calcium (Ca)
+カルダモン	[karudamon]	(n) cardamom
+カルチャー	[karucha-]	(n) culture
+カルチャーショック	[karucha-shokku]	(n) culture shock
+カルチャーセンター	[karucha-senta-]	(n) culture center
+カルテ	[karute]	(n) (1) patient's chart (ger: Karte)
+カルテット	[karutetto]	(n) quartet (ita: quartetto)
+カルテル	[karuteru]	(n) cartel (ger: Kartell)
+カルデラ	[karudera]	(n) caldera
+カルバドス	[karubadosu]	(n) calvados (fre:)
+カルピス	[karupisu]	(n) (1) Calpis (Japanese milk-based soft drink)
+カルメラ	[karumera]	(n) honeycomb toffee (por: caramelo)
+カレーライス	[kare-raisu]	(n) curry and rice
+カレッジ	[karejji]	(n) college
+カレンシー	[karenshi-]	(n) currency
+カレンダー	[karenda-]	(n) (1) calendar
+カローラ	[karo-ra]	(n) corolla
+カロチン	[karochin]	(n) carotene
+カロライナ	[karoraina]	(n) Carolina
+カロリー	[karori-]	(n,adj-no) calorie
+カンカン	[kankan]	(n) can-can (fre: cancan)
+カンガルー	[kangaru-]	(n) kangaroo
+カンザス	[kanzasu]	(n) Kansas
+カンタータ	[kanta-ta]	(n) {music} cantata (ita:)
+カンツォーネ	[kantsuxo-ne]	(n) {music} canzone (ita:)
+カント	[kanto]	(n) (1) Kant
+カンニング	[kan'ningu]	(n,vs) cheating (wasei: cunning)
+カンパ	[kanpa]	(n,vs) (1) (abbr) (See カンパニア) fund raising campaign (rus: kampanya)
+カンパニー	[kanpani-]	(n) (1) company (i.e. business)
+カンフル	[kanfuru]	(n) camphor (dut: kamfer)
+ガーゼ	[ga-ze]	(n) gauze (ger: Gaze)
+ガーディアン	[ga-dian]	(n) guardian
+ガーデン	[ga-den]	(n) garden
+ガード	[ga-do]	(n,vs) (1) guard
+ガードマン	[ga-doman]	(n) security guard (wasei: guardman)
+ガードレール	[ga-dore-ru]	(n) guardrail
+ガール	[ga-ru]	(n) girl
+ガールフレンド	[ga-rufurendo]	(n) girl friend
+ガイ	[gai]	(n) guy
+ガイド	[gaido]	(n,vs) guide
+ガイドブック	[gaidobukku]	(n) guidebook
+ガウシアン	[gaushian]	(n) Gaussian
+ガウン	[gaun]	(n) (1) gown
+ガシガシ	[gashigashi]	(adv,adv-to) (on-mim) boisterously
+ガジェット	[gajetto]	(n) gadget
+ガスタービン	[gasuta-bin]	(n) gas turbine
+ガストアルバイター	[gasutoarubaita-]	(n) foreign worker (ger: Gastarbeiter)
+ガスボンベ	[gasubonbe]	(n) gas cylinder (ger: Gasbombe)
+ガスマスク	[gasumasuku]	(n) gas mask
+ガソール	[gaso-ru]	(n) gasohol
+ガソリン	[gasorin]	(n) gasoline
+ガソリンスタンド	[gasorinsutando]	(n) gas station (wasei: gasoline stand)
+ガタガタ	[gatagata]	(adv,adv-to,vs) (1) (on-mim) rattle
+ガッツ	[gattsu]	(n) guts
+ガッツポーズ	[gattsupo-zu]	(n) triumphant pose assumed by an athlete (wasei: guts pose)
+ガット	[gatto]	(n) (1) gut (i.e. used to make violin strings)
+ガボット	[gabotto]	(n) gavotte (fre:)
+ガム	[gamu]	(n) (1) (abbr) (See チューインガム) chewing gum
+ガメラン	[gameran]	(n) gamelan (traditional Indonesian music ensemble) (ind:)
+ガリウム	[gariumu]	(n,adj-no) gallium (Ga)
+ガリバー	[gariba-]	(n) (1) Gulliver
+ガリレオ	[garireo]	(n) Galileo
+ガレージ	[gare-ji]	(n) garage (at house)
+ガロン	[garon]	(n) gallon
+ガン	[gan]	(n) gun
+ガンガン	[gangan]	(adv,vs) (col) (on-mim) sound of large bell
+キー	[ki-]	(n) key (lock, keyboard, piano, clue, island, cay, etc.)
+キーステーション	[ki-sute-shon]	(n) key station
+キーパー	[ki-pa-]	(n) keeper
+キープ	[ki-pu]	(vs) (1) to keep
+キーホルダー	[ki-horuda-]	(n) (1) keychain (wasei: key holder)
+キーボード	[ki-bo-do]	(n) keyboard
+キーポイント	[ki-pointo]	(n) key point
+キーマン	[ki-man]	(n) keyman
+キール	[ki-ru]	(n) keel
+キーワード	[ki-wa-do]	(n) (1) keyword
+キウイ	[kiui]	(n) (1) kiwi (Apteryx spp.)
+キオスク	[kiosuku]	(n) kiosk
+キス	[kisu]	(n,vs) kiss
+キック	[kikku]	(n,vs) kick
+キックオフ	[kikkuofu]	(n) kickoff
+キックボクシング	[kikkubokushingu]	(n) kickboxing
+キッズビジネス	[kizzubijinesu]	(n) kids' business
+キッチン	[kicchin]	(n) (1) kitchen
+キット	[kitto]	(n) kit
+キッド	[kiddo]	(n) kid
+キップ	[kippu]	(n) kip
+キネシオロジー	[kineshioroji-]	(n) kinesiology
+キノホルム	[kinohorumu]	(n) chinoform
+キメラ	[kimera]	(n) (1) chimera (mythological)
+キャスター	[kyasuta-]	(n) (1) caster
+キャスティング	[kyasutingu]	(n) casting
+キャスト	[kyasuto]	(n,vs) (1) cast (play, film, etc.)
+キャタピラー	[kyatapira-]	(n) caterpillar
+キャッシュ	[kyasshu]	(n) (1) cache
+キャッシュカード	[kyasshuka-do]	(n) cash card
+キャッシング	[kyasshingu]	(n) (1) caching
+キャッチ	[kyacchi]	(n,vs) (1) catch
+キャッチフレーズ	[kyacchifure-zu]	(n) catchphrase
+キャッチャー	[kyaccha-]	(n) catcher
+キャッツアイ	[kyattsuai]	(n) (1) (See 猫目石) cat's-eye (semiprecious stone)
+キャットウォーク	[kyattowo-ku]	(n) catwalk
+キャップ	[kyappu]	(n) (1) cap
+キャディー	[kyadi-]	(n) caddie
+キャバレー	[kyabare-]	(n) cabaret (fre:)
+キャビア	[kyabia]	(n) caviar
+キャビネット	[kyabinetto]	(n) cabinet
+キャビン	[kyabin]	(n) cabin
+キャピタリズム	[kyapitarizumu]	(n) capitalism
+キャピタルゲイン	[kyapitarugein]	(n) capital gain
+キャブレター	[kyabureta-]	(n) carburetor
+キャプション	[kyapushon]	(n) caption (photo explanation, video subtitle, headline)
+キャプテン	[kyaputen]	(n) captain
+キャベツ	[kyabetsu]	(n) cabbage (Brassica oleracea)
+キャメル	[kyameru]	(n) camel
+キャラクター	[kyarakuta-]	(n) character
+キャラバン	[kyaraban]	(n) (1) caravan
+キャラメル	[kyarameru]	(n) (1) (キャラメル only) caramel (soft candy)
+キャリー	[kyari-]	(n) {comp} carry
+キャリア	[kyaria]	(n) (1) career
+キャロル	[kyaroru]	(n) carol
+キャンセル	[kyanseru]	(n,vs) cancellation (eng: cancel)
+キャンディ	[kyandi]	(n) candy
+キャンドル	[kyandoru]	(n) candle
+キャンバス	[kyanbasu]	(n) (1) canvas
+キャンパー	[kyanpa-]	(n) camper
+キャンパス	[kyanpasu]	(n) campus
+キャンピング	[kyanpingu]	(n) camping
+キャンピングカー	[kyanpinguka-]	(n) mobile home (wasei: camping car)
+キャンプ	[kyanpu]	(n,vs) camp
+キャンプイン	[kyanpuin]	(n) camp in
+キャンベラ	[kyanbera]	(n) Canberra
+キャンペーン	[kyanpe-n]	(n) (1) promotion (e.g. sales, etc.)
+キュー	[kyu-]	(n) (1) queue
+キュート	[kyu-to]	(adj-na) cute
+キューピッド	[kyu-piddo]	(n) Cupid
+キュリー	[kyuri-]	(n) curie (unit of radioactivity)
+キュレーター	[kyure-ta-]	(n) curator
+キュロット	[kyurotto]	(n) culotte (fre:)
+キョロキョロ	[kyorokyoro]	(vs,adv-to,adv,n) (on-mim) looking around restlessly
+キラー	[kira-]	(n) killer
+キリル	[kiriru]	(n) Cyrillic
+キル	[kiru]	(n) kill
+キルビメーター	[kirubime-ta-]	(n) curvimeter (fre:)
+キロ	[kiro]	(pref) (1) kilo- (fre:)
+キロワット	[kirowatto]	(n) kilowatt
+キンキーブーツ	[kinki-bu-tsu]	(n) kinky boots
+キング	[kingu]	(n) king
+キングメーカー	[kingume-ka-]	(n) kingmaker
+ギア	[gia]	(n) gear
+ギガ	[giga]	(n,pref) giga-
+ギター	[gita-]	(n) guitar
+ギタリスト	[gitarisuto]	(n) guitarist
+ギフト	[gifuto]	(n) gift
+ギブアップ	[gibuappu]	(n,vs) give up
+ギプス	[gipusu]	(n) (1) (abbr) (See ギプス包帯) plaster cast
+ギャグ	[gyagu]	(n) joke
+ギャップ	[gyappu]	(n) (1) gap
+ギャラ	[gyara]	(n) (abbr) (See ギャランティー・2) fee paid to performing artists, etc.
+ギャラリー	[gyarari-]	(n) (1) (See 廊下,回廊) gallery
+ギャル	[gyaru]	(n) (1) gyaru (eng: gal)
+ギャルソン	[gyaruson]	(n) (1) (male) waiter (fre: garçon)
+ギャロッピングインフレ	[gyaroppinguinfure]	(n) galloping inflation
+ギャング	[gyangu]	(n) (1) gang
+ギャンブラー	[gyanbura-]	(n) gambler
+ギャンブル	[gyanburu]	(n) gambling
+ギラギラ	[giragira]	(adv,n,vs,adv-to) (1) (on-mim) glare
+ギルド	[girudo]	(n) guild
+ギロチン	[girochin]	(n) guillotine (fre:)
+クーキー	[ku-ki-]	(n) (1) kooky
+クーデター	[ku-deta-]	(n) coup d'état (fre:)
+クーペ	[ku-pe]	(n) coupe (fre:)
+クーポン	[ku-pon]	(n) coupon (fre:)
+クーラー	[ku-ra-]	(n) cooler
+クーリングオフ	[ku-ringuofu]	(n) cooling-off (period)
+クール	[ku-ru]	(adj-na) (1) cool (temperature, color, etc.)
+クイーン	[kui-n]	(n) queen
+クイーンズイングリッシュ	[kui-nzuingurisshu]	(n) Queen's English
+クイズ	[kuizu]	(n) quiz
+クイック	[kuikku]	(n) quick
+クインテット	[kuintetto]	(n) quintet (ita: quintetto)
+クエーカー	[kue-ka-]	(n) Quaker
+クエーサー	[kue-sa-]	(n) {astron} quasar
+クオート	[kuo-to]	(n) (1) quart
+クオリティ	[kuoriti]	(n) quality
+クッキー	[kukki-]	(n) (1) cookie
+クッキング	[kukkingu]	(n) cooking
+クッション	[kusshon]	(n) cushion
+クラーク	[kura-ku]	(n) (1) clerk
+クライアント	[kuraianto]	(n) client
+クライシス	[kuraishisu]	(n) crisis
+クライマックス	[kuraimakkusu]	(n) climax
+クライミング	[kuraimingu]	(n) climbing
+クライムストーリー	[kuraimusuto-ri-]	(n) crime story
+クラウン	[kuraun]	(n) (1) crown
+クラクション	[kurakushon]	(n) Klaxon
+クラシカル	[kurashikaru]	(adj-na,n) classical
+クラシック	[kurashikku]	(n) (1) (abbr) (See クラシック音楽) classical music
+クラス	[kurasu]	(n) class
+クラスメイト	[kurasumeito]	(n) classmate
+クラッカー	[kurakka-]	(n) cracker
+クラック	[kurakku]	(n) crack
+クラッシュ	[kurasshu]	(n,vs) crash
+クラッチ	[kuracchi]	(n) clutch
+クラフト	[kurafuto]	(n) craft
+クラブ	[kurabu]	(n) (1) nightclub
+クラン	[kuran]	(n) clan
+クランク	[kuranku]	(n) crank
+クランクイン	[kurankuin]	(n,vs) start (of) filming (wasei: crank in)
+クリーク	[kuri-ku]	(n) (1) cleek (golf - type of fairway wood)
+クリーナー	[kuri-na-]	(n) cleaner
+クリーニング	[kuri-ningu]	(n,vs) cleaning
+クリーム	[kuri-mu]	(n) cream
+クリーン	[kuri-n]	(adj-na,n) clean
+クリーンアップトリオ	[kuri-n'apputorio]	(n) {baseb} third, fourth, and fifth batters (wasei: cleanup trio)
+クリーンヒット	[kuri-nhitto]	(n) clean hit
+クリエーター	[kurie-ta-]	(n) creator
+クリエーティブ	[kurie-tibu]	(adj-na) creative
+クリオール	[kurio-ru]	(n) creole
+クリケット	[kuriketto]	(n) cricket (game)
+クリスタル	[kurisutaru]	(n) crystal
+クリスチャン	[kurisuchan]	(n) Christian
+クリスマス	[kurisumasu]	(n) Christmas
+クリスマスイヴ	[kurisumasuivu]	(n) Christmas Eve
+クリスマスカード	[kurisumasuka-do]	(n) Christmas card
+クリスマスツリー	[kurisumasutsuri-]	(n) Christmas tree
+クリック	[kurikku]	(n,vs) click
+クリップ	[kurippu]	(n) (1) clip (paper, surgical, etc.)
+クリニック	[kurinikku]	(n) (1) clinic
+クリンチ	[kurinchi]	(n,vs) clinch
+クルー	[kuru-]	(n) crew
+クルーザー	[kuru-za-]	(n) cruiser (i.e. warship or cabin cruiser)
+クルージング	[kuru-jingu]	(n) cruising
+クルーズ	[kuru-zu]	(n) cruise
+クルス	[kurusu]	(n) cross sign (por: cruz)
+クルド	[kurudo]	(n) Kurd
+クレー	[kure-]	(n) clay
+クレーコート	[kure-ko-to]	(n) clay court (tennis)
+クレージー	[kure-ji-]	(adj-na) crazy
+クレーター	[kure-ta-]	(n) crater
+クレープ	[kure-pu]	(n) crepe (fre:)
+クレーム	[kure-mu]	(n) (1) claim (for compensation)
+クレーン	[kure-n]	(n) crane
+クレアチニンクリアランス	[kureachininkuriaransu]	(n) creatinine clearance
+クレオソート	[kureoso-to]	(n) creosote
+クレジット	[kurejitto]	(n) credit
+クレジットカード	[kurejittoka-do]	(n) credit card
+クレディビリティーギャップ	[kuredibiriti-gyappu]	(n) credibility gap
+クレンザー	[kurenza-]	(n) cleanser
+クレンジングクリーム	[kurenjingukuri-mu]	(n) cleansing cream
+クローク	[kuro-ku]	(n) (abbr) (See クロークルーム) cloakroom
+クローズ	[kuro-zu]	(n,vs) (1) close
+クローズアップ	[kuro-zuappu]	(n,vs) close-up
+クロール	[kuro-ru]	(n) (1) crawl
+クローン	[kuro-n]	(n,adj-no) (1) clone
+クロアチア	[kuroachia]	(n) Croatia
+クロス	[kurosu]	(n,vs) (1) cross
+クロスカントリー	[kurosukantori-]	(n) (1) cross-country (skiing)
+クロスワード	[kurosuwa-do]	(n) crossword
+クロック	[kurokku]	(n) clock
+クロニクル	[kuronikuru]	(n) chronicle
+クロノスコープ	[kuronosuko-pu]	(n) chronoscope
+クロム	[kuromu]	(n) chromium (Cr) (ger: Chrom, fre: chrome)
+クロレラ	[kurorera]	(n) chlorella (alga) (lat:)
+クワイア	[kuwaia]	(n) choir
+クワルテット	[kuwarutetto]	(n) quartet (ita: quartetto)
+グー	[gu-]	(adj-na) (1) good
+グール	[gu-ru]	(n) ghoul
+グアテマラ	[guatemara]	(n) Guatemala
+グダグダ	[gudaguda]	(adj-na,adj-no) (1) (on-mim) exhausted
+グッズ	[guzzu]	(n) goods
+グッド	[guddo]	(adj-na,n) good
+グライコ	[guraiko]	(n) (abbr) graphic equalizer
+グライダー	[guraida-]	(n) glider
+グラウンド	[guraundo]	(n) sports ground
+グラグラ	[guragura]	(adj-na,adv,n,vs) (1) (on-mim) loose, irregular movement
+グラス	[gurasu]	(n) (1) glass (drinking vessel)
+グラスファイバー	[gurasufaiba-]	(n) glass fiber
+グラタン	[guratan]	(n,adj-no) {food} gratin (fre:)
+グラチェ	[gurache]	(exp) thank you (ita: grazie)
+グラデーション	[gurade-shon]	(n) gradation
+グラビア	[gurabia]	(n) gravure
+グラフ	[gurafu]	(n) graph
+グラフィックス	[gurafikkusu]	(n) graphics
+グラフイック	[gurafuikku]	(n,adj-no) (1) graphic
+グラブ	[gurabu]	(n) (1) (See グローブ・1) glove (esp. sports)
+グラマー	[gurama-]	(adj-na,n) (1) glamour
+グラミー	[gurami-]	(n) Grammy (award)
+グランス	[guransu]	(n) glans (lat:)
+グランデ	[gurande]	(n) grand (ita: grande)
+グランド	[gurando]	(adj-no) (1) large (fre: grand)
+グランドピアノ	[gurandopiano]	(n) grand piano
+グランプリ	[guranpuri]	(n) Grand Prix (fre:)
+グリークラブ	[guri-kurabu]	(n) glee club
+グリーン	[guri-n]	(adj-na,n) green
+グリーンスクール	[guri-nsuku-ru]	(n) green school
+グリーンピース	[guri-npi-su]	(n) (1) green peas
+グリーンフィー	[guri-nfi-]	(n) green fee
+グリーンランド	[guri-nrando]	(n) Greenland
+グリコーゲン	[guriko-gen]	(n) glycogen
+グリップ	[gurippu]	(n) grip
+グリニッジ	[gurinijji]	(n) Greenwich (Mean Time)
+グリル	[guriru]	(n) (1) grill
+グルー	[guru-]	(n) (1) (See 接着剤) glue
+グループ	[guru-pu]	(n) group (usu. of people)
+グループホーム	[guru-puho-mu]	(n) group home
+グルメ	[gurume]	(n,adj-no) (1) fine food (fre: gourmet)
+グレー	[gure-]	(adj-na,n) (1) grey (gray)
+グレーゾーン	[gure-zo-n]	(n) gray zone
+グレート	[gure-to]	(adj-na) (1) great
+グレード	[gure-do]	(n) grade
+グレープフルーツ	[gure-pufuru-tsu]	(n) grapefruit
+グレコローマンスタイル	[gurekoro-mansutairu]	(n) Greco-Roman style
+グレゴリオ	[guregorio]	(n) Gregorian (calendar)
+グロ	[guro]	(adj-na,n) (abbr) grotesque
+グローバリズム	[guro-barizumu]	(n) globalism
+グローバル	[guro-baru]	(adj-na,n) global
+グローブ	[guro-bu]	(n) (1) (See グラブ・1) glove (esp. sports)
+グロテスク	[gurotesuku]	(adj-na,n) grotesque
+グロリア	[guroria]	(n) gloria (lat: gloria)
+ケーオー	[ke-o-]	(n,vs) KO
+ケーキ	[ke-ki]	(n) cake
+ケージ	[ke-ji]	(n) cage
+ケース	[ke-su]	(n) (1) case (e.g. receptacle, condition, event, legal action, letter style, etc.)
+ケーススタディー	[ke-susutadi-]	(n) case study
+ケースワーカー	[ke-suwa-ka-]	(n) caseworker
+ケーブル	[ke-buru]	(n) cable
+ケープ	[ke-pu]	(n) cape
+ケア	[kea]	(n,vs) (1) care
+ケチャップ	[kechappu]	(n) ketchup
+ケベック	[kebekku]	(n) Quebec (fre:)
+ケミカル	[kemikaru]	(n,adj-no) (1) chemical
+ケルン	[kerun]	(n) (1) Koeln
+ケロイド	[keroido]	(n,adj-no) keloid (ger:)
+ゲージ	[ge-ji]	(n) gauge
+ゲート	[ge-to]	(n) (1) gate (for entry, boarding, etc.)
+ゲートボール	[ge-tobo-ru]	(n) gate ball (game similar to croquet)
+ゲーム	[ge-mu]	(n) (See コンピュータゲーム) game
+ゲームセット	[ge-musetto]	(n) game and set
+ゲームセンター	[ge-musenta-]	(n) game arcade (wasei: game center)
+ゲイ	[gei]	(n) gay
+ゲイリブ	[geiribu]	(n) gay lib(eration)
+ゲイン	[gein]	(n) gain
+ゲシュタポ	[geshutapo]	(n) Gestapo (ger: Geheime Staatspolizei)
+ゲスト	[gesuto]	(n) guest
+ゲットー	[getto-]	(n) ghetto (ita:)
+ゲノム	[genomu]	(n) genome (ger: Genom)
+ゲバリスタ	[gebarisuta]	(n) Guevarista (spa:)
+ゲリラ	[gerira]	(n) (1) guerrilla
+ゲル	[geru]	(n) (1) (See ゾル) gel (ger: Gel)
+ゲレンデ	[gerende]	(n) ski slope (ger: Gelände)
+ゲン	[gen]	(n) gene (ger: Gen)
+コーキング	[ko-kingu]	(n,vs) caulking
+コークスクリュー	[ko-kusukuryu-]	(n) corkscrew
+コース	[ko-su]	(n) (1) course (route, trail, course of study, course of action, plan, option)
+コースター	[ko-suta-]	(n) (1) (abbr) (See ローラーコースター) roller coaster
+コーチ	[ko-chi]	(n,vs) coach
+コーティング	[ko-tingu]	(n,vs) coating
+コーディネーター	[ko-dine-ta-]	(n) coordinator
+コーディネート	[ko-dine-to]	(n,vs) (1) coordinate
+コート	[ko-to]	(n) (1) coat
+コード	[ko-do]	(n) (1) code
+コードレス	[ko-doresu]	(n) cordless
+コードレスホン	[ko-doresuhon]	(n) cordless phone
+コーナー	[ko-na-]	(n) (1) corner
+コーナリング	[ko-naringu]	(n) cornering
+コーヒーカップ	[ko-hi-kappu]	(n) coffee cup
+コーヒーショップ	[ko-hi-shoppu]	(n) coffee shop
+コープ	[ko-pu]	(n) coop
+コーポ	[ko-po]	(n) (abbr) (See コーポラス) apartment building
+コーポレーション	[ko-pore-shon]	(n) corporation
+コーポレートアイデンティティー	[ko-pore-toaidentiti-]	(n) corporate identity
+コーラ	[ko-ra]	(n) cola
+コーラス	[ko-rasu]	(n) chorus
+コーラン	[ko-ran]	(n,adj-no) Koran (ara: kuran)
+コール	[ko-ru]	(n,vs) (1) (telephone) call
+コールド	[ko-rudo]	(adj-f) (1) (ant: ホット) cold
+コールドゲーム	[ko-rudoge-mu]	(n) {baseb} called game
+コーン	[ko-n]	(n) (1) cone
+コーンスターチ	[ko-nsuta-chi]	(n) corn starch
+コア	[koa]	(n) core
+コアビタシオン	[koabitashion]	(n) cohabitation (fre:)
+コアラ	[koara]	(n) koala
+コイル	[koiru]	(n) coil
+コイン	[koin]	(n) (1) coin
+コインロッカー	[koinrokka-]	(n) coin-operated locker (wasei: coin locker)
+コカイン	[kokain]	(n) cocaine
+コギトエルゴスム	[kogitoerugosumu]	(exp) cogito, ergo sum (Descartes) (lat:)
+ココア	[kokoa]	(n) cocoa (beverage, cocoa solids)
+ココム	[kokomu]	(n) Coordinating Committee for Export to Communist Area
+コスタリカ	[kosutarika]	(n) Costa Rica
+コスチューム	[kosuchu-mu]	(n) costume
+コスト	[kosuto]	(n) cost
+コスプレ	[kosupure]	(n) (abbr) (See コスチュームプレー・1) cosplay (dressing in costume, esp. as a manga character, etc.)
+コスモ	[kosumo]	(n) cosmos
+コスモス	[kosumosu]	(n) cosmos
+コスモポリタン	[kosumoporitan]	(n) cosmopolitan
+コック	[kokku]	(n) (1) cook (dut: kok)
+コックス	[kokkusu]	(n) cox
+コックピット	[kokkupitto]	(n) cockpit
+コットン	[kotton]	(n) cotton
+コップ	[koppu]	(n) (1) (also written 洋盃 and 骨杯) glass (i.e. drinking vessel) (por: copo, dut: Kop)
+コニーデ	[koni-de]	(n) (See 成層火山・せいそうかざん) stratovolcano (ger: Konide)
+コニャック	[konyakku]	(n) cognac (fre:)
+コネ	[kone]	(n) (abbr) connection
+コネクション	[konekushon]	(n) connection
+コバルト	[kobaruto]	(n,adj-no) cobalt (Co)
+コバルトブルー	[kobarutoburu-]	(n) cobalt blue
+コピー	[kopi-]	(n,vs) (1) copy
+コピーライト	[kopi-raito]	(n) copyright
+コブラ	[kobura]	(n) cobra
+コペルニクス	[koperunikusu]	(n) Kopernikus
+コマ	[koma]	(n) (1) {astron} coma (of a comet)
+コマーシャル	[koma-sharu]	(n) commercial (e.g. TV)
+コマンド	[komando]	(n) (1) {comp} (computer) command
+コミカル	[komikaru]	(adj-na,n) comical
+コミック	[komikku]	(n) (1) comic books
+コミックス	[komikkusu]	(n) comics
+コミッショナー	[komisshona-]	(n) commissioner
+コミッション	[komisshon]	(n) commission
+コミット	[komitto]	(n,vs) commit
+コミュニケ	[komyunike]	(n) communiqué (fre:)
+コミュニケーション	[komyunike-shon]	(n) communication
+コミュニティ	[komyuniti]	(n) community
+コム	[komu]	(n) {comp} computer output microfilm system
+コメディー	[komedi-]	(n) comedy
+コメディアン	[komedian]	(n) comedian
+コメンテーター	[komente-ta-]	(n) commentator
+コメント	[komento]	(n,vs,adj-no) (1) comment
+コラージュ	[kora-ju]	(n) collage (fre:)
+コラール	[kora-ru]	(n) choral (ger:)
+コラボレーション	[korabore-shon]	(n) collaboration
+コラム	[koramu]	(n) column (e.g. in newspaper)
+コラムニスト	[koramunisuto]	(n) columnist
+コリー	[kori-]	(n) collie
+コリア	[koria]	(n) Korea
+コル	[koru]	(n) col (fre:)
+コルク	[koruku]	(n) cork (dut: kurk)
+コレクション	[korekushon]	(n) (1) collection
+コレクター	[korekuta-]	(n) (1) collector
+コレステロール	[koresutero-ru]	(n) cholesterol
+コロイド	[koroido]	(n) colloid
+コロシアム	[koroshiamu]	(n) Colosseum (lat:)
+コロッケ	[korokke]	(n) croquette (fre:)
+コロナ	[korona]	(n) corona
+コロニー	[koroni-]	(n) colony
+コロラド	[kororado]	(n) Colorado
+コロン	[koron]	(n) (1) colon
+コロンブスデー	[koronbusude-]	(n) Columbus Day
+コンクール	[konku-ru]	(n) competition (fre: concours)
+コングロマーチャント	[konguroma-chanto]	(n) (abbr) conglomerate merchant
+コンコース	[konko-su]	(n) concourse
+コンコルド	[konkorudo]	(n) (1) concord
+コンゴ	[kongo]	(n) Congo
+コンサート	[konsa-to]	(n) concert
+コンサルタント	[konsarutanto]	(n) consultant
+コンサルティング	[konsarutingu]	(n) consulting
+コンシューマー	[konshu-ma-]	(n) consumer
+コンスタント	[konsutanto]	(adj-na,n) constant
+コンセプト	[konseputo]	(n) (1) (See 概念・がいねん) concept
+コンセンサス	[konsensasu]	(n) consensus
+コンセント	[konsento]	(n) electrical outlet (wasei: concentric plug)
+コンソーシアム	[konso-shiamu]	(n) consortium
+コンタクト	[kontakuto]	(n,vs) (1) contact
+コンタクトレンズ	[kontakutorenzu]	(n) contact lens
+コンダクター	[kondakuta-]	(n) conductor
+コンチェルト	[koncheruto]	(n) {music} (See 協奏曲) concerto (ita:)
+コンチネンタル	[konchinentaru]	(n) continental
+コンテ	[konte]	(n) (1) (abbr) (See コンティニュイティ) continuity (esp. in film-making)
+コンテスト	[kontesuto]	(n) contest
+コンテナ	[kontena]	(n) container (e.g. shipping)
+コンテンポラリー	[kontenporari-]	(adj-na) contemporary
+コンディション	[kondishon]	(n) condition
+コンデンサー	[kondensa-]	(n) condenser (electrical component)
+コント	[konto]	(n) (1) tale (fre: conte)
+コントラ	[kontora]	(n) contra
+コントラスト	[kontorasuto]	(n) contrast
+コントラバス	[kontorabasu]	(n) double bass (ger: Kontrabass)
+コントローラー	[kontoro-ra-]	(n) controller
+コントロール	[kontoro-ru]	(n,vs) control
+コンドーム	[kondo-mu]	(n) condom
+コンドミニアム	[kondominiamu]	(n) condominium
+コンドル	[kondoru]	(n) (1) condor (incl. other New World vultures of family Cathartidae)
+コンバーター	[konba-ta-]	(n) converter
+コンバート	[konba-to]	(n,vs) convert
+コンバイン	[konbain]	(n) (abbr) (See コンバインハーベスター) combine
+コンパ	[konpa]	(n) (1) (sl) (abbr) (See コンパニー・2) party
+コンパクト	[konpakuto]	(adj-na) (1) compact
+コンパス	[konpasu]	(n) (1) pair of compasses (dut:)
+コンパニオン	[konpanion]	(n) (1) promotional model (at a trade show, etc.)
+コンビ	[konbi]	(n) (abbr) combination
+コンビナート	[konbina-to]	(n) industrial complex (rus: kombinat)
+コンビニ	[konbini]	(n) (abbr) convenience store
+コンビニエンス	[konbiniensu]	(n) convenience
+コンビネーション	[konbine-shon]	(n) combination
+コンピュータ	[konpyu-ta]	(n) computer
+コンピューターグラフィックス	[konpyu-ta-gurafikkusu]	(n) {comp} computer graphics
+コンピレーション	[konpire-shon]	(n) compilation
+コンフィギュレーション	[konfigyure-shon]	(n) {comp} configuration
+コンブリオ	[konburio]	(exp) {music} con brio (ita:)
+コンプレックス	[konpurekkusu]	(n) complex
+コンプレッサー	[konpuressa-]	(n) compressor
+コンベンション	[konbenshon]	(n) convention
+コンベンションセンター	[konbenshonsenta-]	(n) convention center
+コンペ	[konpe]	(n) (abbr) competition
+コンペティション	[konpetishon]	(n) competition
+コンボイ	[konboi]	(n) convoy
+コンポ	[konpo]	(n) (abbr) component
+コンポスト	[konposuto]	(n) compost
+コンマ	[konma]	(n) (1) comma
+ゴーカート	[go-ka-to]	(n) go-cart
+ゴーグル	[go-guru]	(n) goggles
+ゴーサイン	[go-sain]	(n) green light (wasei: go sign)
+ゴージャス	[go-jasu]	(adj-na,n) gorgeous
+ゴースト	[go-suto]	(n) ghost
+ゴーストタウン	[go-sutotaun]	(n) ghost town
+ゴール	[go-ru]	(n,vs) (1) {sports} goal
+ゴールイン	[go-ruin]	(n,vs) (1) reaching the winning post (wasei: goal in)
+ゴールキーパー	[go-ruki-pa-]	(n) goalkeeper
+ゴールデン	[go-ruden]	(adj-no) golden
+ゴールデンアワー	[go-ruden'awa-]	(n) prime time television (wasei: golden hour)
+ゴールデンウィーク	[go-rudenwi-ku]	(n) Golden Week (early-May holiday season in Japan)
+ゴールデンタイム	[go-rudentaimu]	(n) prime-time television (wasei: golden time)
+ゴールド	[go-rudo]	(adj-na,n) gold
+ゴールライン	[go-rurain]	(n) goal line
+ゴシック	[goshikku]	(n) (ゴチック is from fr: or de:) gothic
+ゴシップ	[goshippu]	(n) (1) gossip
+ゴスペル	[gosuperu]	(n) gospel
+ゴッドファーザー	[goddofa-za-]	(n) godfather
+ゴリラ	[gorira]	(n) gorilla (Gorilla spp., esp. western gorilla, Gorilla gorilla)
+ゴルジュ	[goruju]	(n) gorge (fre:)
+ゴルフ	[gorufu]	(n) golf
+ゴルファー	[gorufa-]	(n) golfer
+ゴロ	[goro]	(n) {baseb} (See 匍球) grounder
+ゴロゴロ	[gorogoro]	(adv,adv-to,vs) (1) (on-mim) thundering
+ゴング	[gongu]	(n) gong
+ゴンドラ	[gondora]	(n) gondola (ita:)
+サーカス	[sa-kasu]	(n) circus
+サーキット	[sa-kitto]	(n) circuit
+サークル	[sa-kuru]	(n) (1) group with a common interest (e.g. students)
+サーセン	[sa-sen]	(exp) (sl) (See すいません) sorry
+サーチ	[sa-chi]	(n,vs) search
+サーチライト	[sa-chiraito]	(n) searchlight
+サード	[sa-do]	(n) third (base, baseman, gear)
+サーバ	[sa-ba]	(n) {comp} server
+サービス	[sa-bisu]	(n,vs,adj-no) (1) service
+サービスエース	[sa-bisue-su]	(n) ace (tennis) (wasei: service ace)
+サービスエリア	[sa-bisueria]	(n) service area (usu. an area off a highway to buy gasoline, etc. for vehicles)
+サーファー	[sa-fa-]	(n) surfer
+サーフィン	[sa-fin]	(n,vs) surfing
+サーブ	[sa-bu]	(n,vs) (1) {sports} serve
+サーベイランス	[sa-beiransu]	(n) surveillance
+サーモン	[sa-mon]	(n) salmon
+サーロイン	[sa-roin]	(n) sirloin
+サイ	[sai]	(n) psi
+サイエンス	[saiensu]	(n) science
+サイクリング	[saikuringu]	(n) cycling
+サイクル	[saikuru]	(n) cycle
+サイクロン	[saikuron]	(n) cyclone
+サイズ	[saizu]	(n) size
+サイト	[saito]	(n) (1) site (usu. website)
+サイド	[saido]	(n) side
+サイドカー	[saidoka-]	(n) sidecar
+サイドビジネス	[saidobijinesu]	(n) side business
+サイレン	[sairen]	(n,adj-no) siren
+サイレント	[sairento]	(adj-na) (1) silent
+サイロ	[sairo]	(n) silo
+サイン	[sain]	(n,vs) (1) autograph
+サウジ	[sauji]	(n) Saudi
+サウジアラビア	[saujiarabia]	(n) Saudi Arabia
+サウスカロライナ	[sausukaroraina]	(n) South Carolina
+サウスポー	[sausupo-]	(n) southpaw
+サウナ	[sauna]	(n) sauna
+サウンド	[saundo]	(n) sound
+サクセス	[sakusesu]	(n) success
+サクソフォン	[sakusofon]	(n) saxophone
+サザンクロス	[sazankurosu]	(n) {astron} (See 南十字星・みなみじゅうじせい) Southern Cross (asterism formed with the brightest four stars of the constellation Crux)
+サスペンション	[sasupenshon]	(n) suspension (usu. vehicle)
+サスペンス	[sasupensu]	(n) suspense
+サスペンデットゲーム	[sasupendettoge-mu]	(n) suspended game
+サターン	[sata-n]	(n) (1) Saturn (god in Roman mythology)
+サッカー	[sakka-]	(n) (1) soccer
+サックス	[sakkusu]	(n) (abbr) (See サクソフォン) saxophone
+サッシ	[sasshi]	(n) sash
+サテライト	[sateraito]	(n) satellite
+サテン	[saten]	(n) satin (dut: satijn)
+サディスティック	[sadisutikku]	(adj-na) sadistic
+サド	[sado]	(n) (1) (abbr) (See サディスト) sadist
+サドル	[sadoru]	(n) saddle
+サドンデス	[sadondesu]	(n) (1) sudden death
+サニタリー	[sanitari-]	(n) (1) sanitary
+サハラ	[sahara]	(n) Sahara
+サバイバル	[sabaibaru]	(n) survival
+サバンナ	[saban'na]	(n) savanna
+サパー	[sapa-]	(n) supper
+サファイア	[safaia]	(n) sapphire
+サファリ	[safari]	(n) safari
+サファリラリー	[safarirari-]	(n) safari rally
+サブ	[sabu]	(n) (abbr) sub
+サブタイトル	[sabutaitoru]	(n) subtitle
+サブマリン	[sabumarin]	(n) submarine
+サプライ	[sapurai]	(n) supply
+サプライズ	[sapuraizu]	(n) surprise
+サプライヤー	[sapuraiya-]	(n) supplier
+サプリ	[sapuri]	(n) (abbr) (See サプリメント) supplement
+サポーター	[sapo-ta-]	(n) (1) supporter (e.g. wrist supporter)
+サポート	[sapo-to]	(n,vs) support
+サマー	[sama-]	(n) summer
+サマースクール	[sama-suku-ru]	(n) summer school
+サマライズ	[samaraizu]	(n) summarize
+サミット	[samitto]	(n) summit
+サム	[samu]	(n) (1) sum
+サラウンド	[saraundo]	(n) surround
+サラダ	[sarada]	(n) salad (por:)
+サラブレッド	[sarabureddo]	(n) thoroughbred
+サラリー	[sarari-]	(n) salary
+サラリーマン	[sarari-man]	(n) office worker (wasei: salary man)
+サリー	[sari-]	(n) sari
+サリン	[sarin]	(n) sarin (nerve gas)
+サルーン	[saru-n]	(n) saloon
+サルサ	[sarusa]	(n) salsa
+サルバルサン	[sarubarusan]	(n) Salvarsan (brand name of arsphenamine)
+サロゲートペア	[saroge-topea]	(n) surrogate pair (of characters)
+サロン	[saron]	(n) (1) salon (fre:)
+サンキュー	[sankyu-]	(exp) thank you
+サンクスギビングデー	[sankusugibingude-]	(n) Thanksgiving Day
+サンクチュアリー	[sankuchuari-]	(n) sanctuary
+サングラス	[sangurasu]	(n) sunglasses
+サンシャイン	[sanshain]	(n) sunshine
+サンスクリット	[sansukuritto]	(n) Sanskrit
+サンタクロース	[santakuro-su]	(n) Santa Claus
+サンタフェ	[santafe]	(n) Santa Fe
+サンダーバード	[sanda-ba-do]	(n) thunderbird (North-American indigenous mythical spirit bird)
+サンダル	[sandaru]	(n) sandal
+サンチュール	[sanchu-ru]	(n) belt (fre: ceinture)
+サンデー	[sande-]	(n) (1) sundae
+サンディエゴ	[sandiego]	(n) San Diego
+サントラ	[santora]	(n) (abbr) (See サウンドトラック) soundtrack
+サンド	[sando]	(n) (1) sand
+サンドイッチ	[sandoicchi]	(n) sandwich
+サンドペーパー	[sandope-pa-]	(n) sandpaper
+サンノゼ	[san'noze]	(n) San Jose
+サンバ	[sanba]	(n) samba (por:)
+サンフォライズ	[sanforaizu]	(n) Sanforized
+サンフランシスコ	[sanfuranshisuko]	(n) (also written as 桑港) San Francisco
+サンプラー	[sanpura-]	(n) (1) sampler
+サンプリング	[sanpuringu]	(n,vs) sampling
+サンプル	[sanpuru]	(n) (1) sample
+サンボ	[sanbo]	(n) (abbr) self-defence (defense) (type of wrestling) (rus: sambo)
+サンマイクロシステムズ	[sanmaikuroshisutemuzu]	(n) {comp} Sun Microsystems
+サンルーフ	[sanru-fu]	(n) sunroof
+サンローラン	[sanro-ran]	(n) (abbr) Yves Saint-Laurent
+ザイール	[zai-ru]	(n) (1) Zaire (now Democratic Republic of the Congo)
+ザラザラ	[zarazara]	(adv-to,vs,adj-no,n,adj-na) (1) (on-mim) rough (touch, voice, etc.)
+ザンビア	[zanbia]	(n) Zambia
+シーク	[shi-ku]	(n) (1) Sikh
+シークレット	[shi-kuretto]	(n) secret
+シークレットサービス	[shi-kurettosa-bisu]	(n) secret service
+シーズニング	[shi-zuningu]	(n) seasoning
+シーズン	[shi-zun]	(n,adj-no) season (fruits and vegetables, sporting, holidays)
+シーズンオフ	[shi-zun'ofu]	(n) off-season (wasei: season off)
+シーソーゲーム	[shi-so-ge-mu]	(n) seesaw game
+シーツ	[shi-tsu]	(n) sheet
+シート	[shi-to]	(n) (1) seat
+シートベルト	[shi-toberuto]	(n,vs) seat belt
+シード	[shi-do]	(n,vs) seed
+シーハイル	[shi-hairu]	"(exp) skiers' greeting meaning ""Good skiing!"" (ger: Ski Heil)"
+シーフード	[shi-fu-do]	(n) seafood
+シームレス	[shi-muresu]	(n) seamless
+シーリング	[shi-ringu]	(n) (1) ceiling
+シール	[shi-ru]	(n) (1) seal
+シールド	[shi-rudo]	(n,vs) shield
+シーレン	[shi-ren]	(n) sea-lane
+シーン	[shi-n]	(n,n-suf) scene
+シアター	[shiata-]	(n) theater
+シアトル	[shiatoru]	(n) Seattle
+シアン	[shian]	(n) cyan (dut:)
+シェーカー	[she-ka-]	(n) shaker
+シェーク	[she-ku]	(n,vs) shake
+シェーバー	[she-ba-]	(n) shaver
+シェア	[shea]	(n,vs) (1) share
+シェアリング	[shearingu]	(n) sharing
+シェイプ	[sheipu]	(n,vs) (See 形・かたち・1) shape
+シェイプアップ	[sheipuappu]	(n,vs) shape-up
+シェパード	[shepa-do]	(n) (1) shepherd
+シェフ	[shefu]	(n) chef (fre:)
+シェリー	[sheri-]	(n) sherry
+シェル	[sheru]	(n) {comp} shell
+シェルター	[sheruta-]	(n) shelter
+シエスタ	[shiesuta]	(n) siesta
+シオニスト	[shionisuto]	(n) Zionist
+シオニズム	[shionizumu]	(n) Zionism
+シカゴ	[shikago]	(n) Chicago
+シクラメン	[shikuramen]	(n) cyclamen (esp. species Cyclamen persicum) (lat:)
+シグナル	[shigunaru]	(n) signal
+シス	[shisu]	(n) (1) (See シストランス異性) cis
+シスター	[shisuta-]	(n) sister
+システム	[shisutemu]	(n,adj-no) system
+システムズ	[shisutemuzu]	(n) systems
+シソーラス	[shiso-rasu]	(n) thesaurus
+シチュー	[shichu-]	(n) stew
+シチュエーション	[shichue-shon]	(n) situation
+シック	[shikku]	(adj-na) (1) chic (fre:)
+シックスナイン	[shikkusunain]	(n) (1) 99.9999% (wasei: six nine)
+シップ	[shippu]	(n) ship
+シティ	[shiti]	(n) city
+シティーエアターミナル	[shiti-eata-minaru]	(n) city air terminal
+シトロン	[shitoron]	(n) citron (Citrus medica)
+シドニー	[shidoni-]	(n) Sydney
+シナモン	[shinamon]	(n) cinnamon
+シナリオ	[shinario]	(n) (1) script
+シナリオライター	[shinarioraita-]	(n) scenario writer
+シニア	[shinia]	(n) senior
+シニカル	[shinikaru]	(adj-na) cynical
+シネマ	[shinema]	(n) cinema (fre:)
+シノニム	[shinonimu]	(n) {comp} synonym (partic. in computing and technical contexts)
+シビア	[shibia]	(adj-na,n) severe
+シビック	[shibikku]	(n) civic
+シビリアンコントロール	[shibiriankontoro-ru]	(n) civilian control
+シフォン	[shifon]	(n,adj-no) chiffon (fre:)
+シフト	[shifuto]	(n,vs) shift
+シベリア	[shiberia]	(n,adj-no) (1) Siberia
+シミーズ	[shimi-zu]	(n) chemise (fre:)
+シミュレーション	[shimyure-shon]	(n,vs) {comp} simulation
+シミュレーター	[shimyure-ta-]	(n) simulator
+シャークスキン	[sha-kusukin]	(n) shark skin
+シャープ	[sha-pu]	(adj-na,n) (1) sharp
+シャープペンシル	[sha-pupenshiru]	(n) (See シャーペン) propelling pencil (wasei: sharp pencil)
+シャーベット	[sha-betto]	(n) sherbet
+シャーマン	[sha-man]	(n) (1) shaman
+シャーリング	[sha-ringu]	(n) shirring
+シャイ	[shai]	(adj-na,n) shy
+シャッター	[shatta-]	(n) (1) (See シャッターチャンス) camera shutter
+シャットアウト	[shattoauto]	(n,vs) (1) shutout
+シャッポ	[shappo]	(n) hat (fre: chapeau)
+シャツ	[shatsu]	(n) (1) (also written as 襯衣) shirt (underwear)
+シャトー	[shato-]	(n) castle (fre: chateau)
+シャトル	[shatoru]	(n) (1) (abbr) (See シャトルコック) shuttlecock
+シャトルバス	[shatorubasu]	(n) shuttle bus
+シャドー	[shado-]	(n) shadow
+シャフト	[shafuto]	(n) shaft
+シャベル	[shaberu]	(n) shovel
+シャルマン	[sharuman]	(adj-na,n) charming (fre: charmant)
+シャワー	[shawa-]	(n) shower
+シャン	[shan]	(adj-na,n) beautiful (ger: schön)
+シャンソン	[shanson]	(n) chanson (fre:)
+シャンティー	[shanti-]	(n) Chantilly (e.g. lace)
+シャンデリア	[shanderia]	(n) chandelier
+シャンプー	[shanpu-]	(n,vs) shampoo
+シュークリーム	[shu-kuri-mu]	(n) cream puff (fre: chou à la crème)
+シューズ	[shu-zu]	(n) shoes
+シュート	[shu-to]	(n,vs) (1) shoot
+シューベルト	[shu-beruto]	(n) Schubert
+シュール	[shu-ru]	(adj-na) (1) (poss. from シューリアル) surreal
+シュガー	[shuga-]	(n) sugar
+シュテムボーゲン	[shutemubo-gen]	(n) stem turn in skiing (ger: Stemmbogen)
+シュトゥルムウントドラング	[shutoxurumuuntodorangu]	(exp) Sturm und Drang (ger:)
+シュナップス	[shunappusu]	(n) liquor (ger: Schnaps)
+シュプレヒコール	[shupurehiko-ru]	(n) speaking in chorus, unison (ger: Sprechchor)
+シュミットカメラ	[shumittokamera]	(n) Schmidt camera
+シュルレアリスム	[shururearisumu]	(n) surrealism (fre: surréalisme)
+シュレッダー	[shuredda-]	(n) shredder
+ショー	[sho-]	(n) show
+ショーウインドー	[sho-uindo-]	(n) display (show) window
+ショーケース	[sho-ke-su]	(n) showcase
+ショーツ	[sho-tsu]	(n) (1) shorts
+ショート	[sho-to]	(adj-na,n) (1) (ant: ロング) short
+ショートカット	[sho-tokatto]	(n,vs) (1) shortcut
+ショートステイ	[sho-tosutei]	(n) short stay
+ショートパンツ	[sho-topantsu]	(n) short pants
+ショール	[sho-ru]	(n) shawl
+ショールーム	[sho-ru-mu]	(n) showroom
+ショッキング	[shokkingu]	(adj-na,n) shocking
+ショック	[shokku]	(adj-na,n) (1) shock (psychological)
+ショット	[shotto]	(n) (1) shot (in films)
+ショッピング	[shoppingu]	(n,vs) shopping
+ショッピングモール	[shoppingumo-ru]	(n) shopping mall
+ショップ	[shoppu]	(n) shop
+ショパン	[shopan]	(n) Chopin
+ショルダーバッグ	[shoruda-baggu]	(n) shoulder bag
+シリーズ	[shiri-zu]	(n,n-suf) series
+シリアス	[shiriasu]	(adj-na,n) serious
+シリウス	[shiriusu]	(n) {astron} Sirius (star in the constellation Canis Major) (lat:)
+シリコーン	[shiriko-n]	(n) silicone
+シリコン	[shirikon]	(n) (1) silicon
+シリンジ	[shirinji]	(n) syringe
+シリンダー	[shirinda-]	(n) cylinder
+シルエッター	[shiruetta-]	(n) silhouetter
+シルエット	[shiruetto]	(n) silhouette (fre:)
+シルク	[shiruku]	(n) silk
+シルクロード	[shirukuro-do]	(n) Silk Road
+シルバー	[shiruba-]	(adj-na,n) (1) silver
+シロップ	[shiroppu]	(n) syrup (dut: siroop)
+シン	[shin]	(adj-no) (1) (See シンクライアント) thin
+シンカー	[shinka-]	(n) sinker
+シンガー	[shinga-]	(n) singer
+シンガーソングライター	[shinga-songuraita-]	(n) singer-songwriter
+シンク	[shinku]	(n) (1) sink
+シンクタンク	[shinkutanku]	(n) think tank
+シンクロ	[shinkuro]	(n,vs) (1) (abbr) synchronize
+シンクロナイズ	[shinkuronaizu]	(n,vs) synchronize
+シングル	[shinguru]	(n,adj-no) (1) (See ダブル・1) single
+シングルス	[shingurusu]	(n) singles
+シンジケート	[shinjike-to]	(n) syndicate
+シンセサイザー	[shinsesaiza-]	(n) synthesizer
+シンドローム	[shindoro-mu]	(n) syndrome
+シンナー	[shin'na-]	(n) (paint) thinner
+シンパ	[shinpa]	(n) (abbr) (See シンパサイザー) (Communist, union, etc.) sympathizer
+シンフォニー	[shinfoni-]	(n) symphony
+シンプル	[shinpuru]	(adj-na,n) simple
+シンボリスト	[shinborisuto]	(n) symbolist
+シンボリック	[shinborikku]	(adj-na) symbolic
+シンボル	[shinboru]	(n,adj-no) symbol
+シンポ	[shinpo]	(n) (1) sympathetic
+シンポジウム	[shinpojiumu]	(n) symposium
+ジープ	[ji-pu]	(n) jeep
+ジーン	[ji-n]	(n) gene
+ジーンズ	[ji-nzu]	(n) jeans
+ジェスイット	[jesuitto]	(n) Jesuit
+ジェスチャー	[jesucha-]	(n) (1) (abbr) gesture
+ジェット	[jetto]	(n) jet
+ジェットコースター	[jettoko-suta-]	(n) roller coaster (wasei: jet coaster)
+ジェネレーション	[jenere-shon]	(n) generation
+ジェノサイド	[jenosaido]	(n) genocide
+ジェラシー	[jerashi-]	(n) jealousy
+ジェロントクラシー	[jerontokurashi-]	(n) gerontocracy
+ジェンダー	[jenda-]	(n) gender
+ジグザグ	[jiguzagu]	(adj-na,n,adj-no) zig-zag
+ジグソーパズル	[jiguso-pazuru]	(n) jigsaw puzzle
+ジストロフィー	[jisutorofi-]	(n) dystrophy
+ジハード	[jiha-do]	(n) jihad (ara:)
+ジバンシー	[jibanshi-]	(n) Givenchy
+ジパング	[jipangu]	(n) Zipangu (the name for Japan used by Marco Polo) (ita:)
+ジブ	[jibu]	(n) jib
+ジプシー	[jipushi-]	(n) (sens) (See ロマ) gypsy
+ジム	[jimu]	(n) gym
+ジャー	[ja-]	(n) (1) vacuum bottle
+ジャーク	[ja-ku]	(n) jerk
+ジャージー	[ja-ji-]	(n) jersey
+ジャーナリスト	[ja-narisuto]	(n) journalist
+ジャーナリズム	[ja-narizumu]	(n) journalism
+ジャーナル	[ja-naru]	(n) {comp} journal
+ジャイロスコープ	[jairosuko-pu]	(n) gyroscope
+ジャカルタ	[jakaruta]	(n) Jakarta
+ジャガー	[jaga-]	(n) jaguar (Panthera onca)
+ジャケット	[jaketto]	(n) (1) jacket
+ジャスト	[jasuto]	(n) just
+ジャスミン	[jasumin]	(n) jasmine
+ジャズ	[jazu]	(n) jazz
+ジャズメン	[jazumen]	(n) jazzmen
+ジャッキ	[jakki]	(n) jack
+ジャック	[jakku]	(n) (1) jack
+ジャッジ	[jajji]	(n) judge
+ジャパニーズ	[japani-zu]	(n) Japanese (people, language)
+ジャパン	[japan]	(n) (orig. from じっぽん (日本)) (See 日本・にほん) Japan
+ジャパンカップ	[japankappu]	(n) Japan Cup
+ジャブ	[jabu]	(n) jab (esp. in boxing)
+ジャポニカ	[japonika]	(n) Japonica
+ジャム	[jamu]	(n) jam
+ジャンキー	[janki-]	(n) junkie
+ジャンクション	[jankushon]	(n) junction
+ジャングル	[janguru]	(n) jungle
+ジャンパー	[janpa-]	(n) (1) jacket
+ジャンプ	[janpu]	(n,vs) jump
+ジャンボ	[janbo]	(adj-na,n) jumbo
+ジャンル	[janru]	(n) genre (fre:)
+ジュークボックス	[ju-kubokkusu]	(n) juke-box
+ジュース	[ju-su]	(n) (1) juice
+ジュール	[ju-ru]	(n) joule
+ジューンブライド	[ju-nburaido]	(n) June bride
+ジュエリー	[jueri-]	(n) jewelry
+ジュニア	[junia]	(n,adj-f) junior
+ジュニアウエルター	[juniaueruta-]	(n) junior welter (weight)
+ジュビリー	[jubiri-]	(n) jubilee
+ジュピター	[jupita-]	(n) Jupiter (lat:)
+ジュラルミン	[jurarumin]	(n) duralumin
+ジュリー	[juri-]	(n) (See 陪審) jury
+ジョーカー	[jo-ka-]	(n) joker
+ジョーク	[jo-ku]	(n) joke
+ジョーズ	[jo-zu]	(n) (1) Jaws (film)
+ジョイ	[joi]	(n) joy
+ジョギング	[jogingu]	(n) jogging
+ジョッキ	[jokki]	(n) (1) beer mug
+ジラフ	[jirafu]	(n) giraffe
+ジレンマ	[jirenma]	(n,adj-no) dilemma
+ジワジワ	[jiwajiwa]	(adv,adv-to) (1) (on-mim) slowly (but steadily)
+ジン	[jin]	(n) gin
+ジンクス	[jinkusu]	(n) jinx
+ジンバブエ	[jinbabue]	(n) Zimbabwe
+スーツ	[su-tsu]	(n) suit
+スーツケース	[su-tsuke-su]	(n) suitcase
+スーパー	[su-pa-]	(n) (1) super
+スーパースター	[su-pa-suta-]	(n) superstar
+スーパーチェーン	[su-pa-che-n]	(n) (abbr) supermarket chain
+スーパーバイザ	[su-pa-baiza]	(n) superviser
+スーパーボウル	[su-pa-bouru]	(n) Super Bowl
+スーパーマーケット	[su-pa-ma-ketto]	(n) supermarket
+スーパーマン	[su-pa-man]	(n) superman
+スープ	[su-pu]	(n) (Western) soup
+スイート	[sui-to]	(n,adj-na) (1) sweet
+スイーパー	[sui-pa-]	(n) sweeper
+スイッチ	[suicchi]	(n,vs) switch
+スイマー	[suima-]	(n) swimmer
+スイミングクラブ	[suimingukurabu]	(n) swimming club
+スイング	[suingu]	(n,vs) swing
+スカート	[suka-to]	(n) skirt
+スカーフ	[suka-fu]	(n) scarf
+スカーレット	[suka-retto]	(n) scarlet
+スカイ	[sukai]	(n) sky
+スカイライン	[sukairain]	(n) (1) skyline
+スカウト	[sukauto]	(n,vs) scout
+スカッシュ	[sukasshu]	(n) squash
+スカラシップ	[sukarashippu]	(n) scholarship
+スカル	[sukaru]	(n) scull (boat)
+スカンク	[sukanku]	(n,adj-no) (1) (スカンク only) skunk (animal)
+スキー	[suki-]	(n) (1) skiing
+スキーヤー	[suki-ya-]	(n) skier
+スキッパー	[sukippa-]	(n) skipper
+スキャナー	[sukyana-]	(n) scanner
+スキャン	[sukyan]	(n,vs) scan
+スキャンダラス	[sukyandarasu]	(adj-na) scandalous
+スキャンダル	[sukyandaru]	(n) scandal
+スキューバ	[sukyu-ba]	(n) scuba
+スキン	[sukin]	(n) (1) skin
+スキンケア	[sukinkea]	(n) skin care
+スキンシップ	[sukinshippu]	(n) (1) child-rearing with frequent physical contact (wasei: skinship)
+スクーター	[suku-ta-]	(n) scooter
+スクープ	[suku-pu]	(n,vs) scoop
+スクール	[suku-ru]	(n) school
+スクイズ	[sukuizu]	(n,vs) (1) {baseb} squeeze (play)
+スクエア	[sukuea]	(n) (1) square
+スクラップ	[sukurappu]	(n,vs) scrap
+スクラム	[sukuramu]	(n) (1) scrum
+スクランブル	[sukuranburu]	(n,vs) scramble
+スクリーン	[sukuri-n]	(n) screen
+スクリプター	[sukuriputa-]	(n) scripter
+スクリュー	[sukuryu-]	(n) (1) screw
+スケーター	[suke-ta-]	(n) skater
+スケーティング	[suke-tingu]	(n) skating
+スケート	[suke-to]	(n,vs) skating (esp. ice)
+スケートリンク	[suke-torinku]	(n) skating rink
+スケープゴート	[suke-pugo-to]	(n) scapegoat
+スケール	[suke-ru]	(n) scale
+スケジュール	[sukeju-ru]	(n,vs) schedule
+スケッチ	[sukecchi]	(n,vs,adj-no) sketch
+スケッチブック	[sukecchibukku]	(n) sketchbook
+スコーカー	[suko-ka-]	(n) squawker
+スコープ	[suko-pu]	(n) scope
+スコール	[suko-ru]	(n) (1) squall
+スコア	[sukoa]	(n) score
+スコアボード	[sukoabo-do]	(n) scoreboard
+スコッチ	[sukocchi]	(n) (1) (abbr) (See スコッチウイスキー) Scotch
+スコットランド	[sukottorando]	(n) (1) Scotland
+スコップ	[sukoppu]	(n) (1) shovel (dut: schop)
+スター	[suta-]	(n) (1) star (cinema, sports, etc.)
+スターズアンドストライプス	[suta-zuandosutoraipusu]	(n) Stars and Stripes
+スターター	[suta-ta-]	(n) starter
+スタート	[suta-to]	(n,vs) start
+スタートライン	[suta-torain]	(n) start line
+スターリングエンジン	[suta-ringuenjin]	(n) Sterling engine
+スタイミー	[sutaimi-]	(n) stymie (golf)
+スタイリスト	[sutairisuto]	(n) stylist
+スタイリング	[sutairingu]	(n) styling
+スタイル	[sutairu]	(n) (1) figure
+スタジアム	[sutajiamu]	(n) stadium
+スタジオ	[sutajio]	(n) studio
+スタッフ	[sutaffu]	(n,adj-no) (1) staff
+スタブ	[sutabu]	(n) stub
+スタミナ	[sutamina]	(n,adj-no) stamina
+スタメン	[sutamen]	(n) (abbr) starting member
+スタン	[sutan]	(n) stun
+スタンガン	[sutangan]	(n) stun gun
+スタンス	[sutansu]	(n) (1) stance
+スタンダード	[sutanda-do]	(adj-na,n) standard
+スタンド	[sutando]	(n) (1) stands
+スタンフォード	[sutanfo-do]	(n) Stanford
+スタンプ	[sutanpu]	(n) (1) (See シャチハタ) stamp
+スチーム	[suchi-mu]	(n) steam
+スチール	[suchi-ru]	(n) (1) (スチール only) steel
+スチュワーデス	[suchuwa-desu]	(n) stewardess
+ステーキ	[sute-ki]	(n) steak
+ステーション	[sute-shon]	(n) station
+ステージ	[sute-ji]	(n) (1) stage
+ステータス	[sute-tasu]	(n) status
+ステート	[sute-to]	(n) state
+ステートアマ	[sute-toama]	(n) (abbr) (See ステートアマチュア) state amateur (government-funded sportsperson in training)
+ステートメント	[sute-tomento]	(n) statement
+スティック	[sutikku]	(n) stick
+スティンガー	[sutinga-]	(n) stinger
+ステッカー	[sutekka-]	(n) (1) sticker
+ステッキ	[sutekki]	(n) (1) stick
+ステップ	[suteppu]	(n,vs) (1) step
+ステルス	[suterusu]	(n) stealth
+ステレオ	[sutereo]	(n) stereo
+ステレオタイプ	[sutereotaipu]	(n,adj-na) stereotype
+ステロイド	[suteroido]	(n) steroid
+ステンドグラス	[sutendogurasu]	(n) stained glass
+ステンレス	[sutenresu]	(n) (abbr) (See ステンレス鋼) stainless steel
+スト	[suto]	(n) (abbr) (See ストライキ) strike (i.e. industrial action)
+ストーブ	[suto-bu]	(n) (room) heater
+ストーム	[suto-mu]	(n) storm
+ストーリー	[suto-ri-]	(n) story
+ストール	[suto-ru]	(n) (1) stole
+ストーンウォッシュ	[suto-nwosshu]	(n) stone wash
+ストア	[sutoa]	(n) (1) store
+ストイチズム	[sutoichizumu]	(n) Stoicism
+ストイック	[sutoikku]	(adj-na,n) Stoic
+ストッキング	[sutokkingu]	(n) stockings
+ストック	[sutokku]	(n,vs) (1) stock
+ストックホルム	[sutokkuhorumu]	(n) Stockholm
+ストッパー	[sutoppa-]	(n) stopper
+ストップ	[sutoppu]	(n,vs) stop
+ストップウォッチ	[sutoppuwocchi]	(n) stopwatch
+ストライカー	[sutoraika-]	(n) striker
+ストライキ	[sutoraiki]	(n,vs) strike (i.e. industrial action)
+ストライク	[sutoraiku]	(n) {sports} strike (e.g. in baseball, bowling)
+ストライプ	[sutoraipu]	(n) stripe
+ストリーカー	[sutori-ka-]	(n) streaker
+ストリート	[sutori-to]	(n) street
+ストリッパー	[sutorippa-]	(n) stripper
+ストリップ	[sutorippu]	(n) (1) (abbr) (See ストリップショー) strip show
+ストレート	[sutore-to]	(adj-na,n) (1) straight
+ストレス	[sutoresu]	(n) stress
+ストレッチ	[sutorecchi]	(n) stretch
+ストロー	[sutoro-]	(n) (1) drinking straw
+ストローク	[sutoro-ku]	(n) stroke
+ストロベリー	[sutoroberi-]	(n) strawberry
+ストロボ	[sutorobo]	(n,adj-no) stroboscope (wasei: strobo)
+ストロンチウム	[sutoronchiumu]	(n) strontium (Sr)
+スナック	[sunakku]	(n) (1) snack
+スナッチ	[sunacchi]	(n) snatch
+スナップ	[sunappu]	(n) (1) snap (e.g. of the wrist in baseball)
+スニーカー	[suni-ka-]	(n) sneaker
+スヌーカー	[sunu-ka-]	(n) snooker
+スヌーピー	[sunu-pi-]	(n) snoopy
+スネーク	[sune-ku]	(n) snake
+スノー	[suno-]	(n) snow
+スノーボート	[suno-bo-to]	(n) snow boat
+スパーク	[supa-ku]	(n,vs) (1) spark
+スパート	[supa-to]	(n,vs) spurt
+スパーリング	[supa-ringu]	(n,vs) sparring
+スパイ	[supai]	(n,vs) spy
+スパイク	[supaiku]	(n,vs) (1) spike
+スパイス	[supaisu]	(n,vs) (See 香辛料・こうしんりょう) spice
+スパイラル	[supairaru]	(n) spiral
+スパゲティ	[supageti]	(n) spaghetti (ita:)
+スパッタリング	[supattaringu]	(n) (1) ink spattering
+スパッツ	[supattsu]	(n) gaiters
+スパム	[supamu]	(n) (1) Spam (trademarked luncheon meat, made mostly from ham)
+スパン	[supan]	(n) span
+スピーカー	[supi-ka-]	(n) speaker
+スピーチ	[supi-chi]	(n) speech
+スピーディー	[supi-di-]	(adj-na,n) speedy
+スピード	[supi-do]	(n) speed
+スピードアップ	[supi-doappu]	(n,vs) speed up
+スピードウェイ	[supi-dowei]	(n) speedway
+スピア	[supia]	(n) spear
+スピリット	[supiritto]	(n) spirit
+スピルリナ	[supirurina]	(n) Spirulina (algae)
+スピン	[supin]	(n,vs) spin
+スプーン	[supu-n]	(n) spoon
+スプラッシャー	[supurassha-]	(n) splasher
+スプリット	[supuritto]	(n) split
+スプリンクラー	[supurinkura-]	(n) sprinkler
+スプリング	[supuringu]	(n) spring
+スプリンター	[supurinta-]	(n) sprinter
+スプリント	[supurinto]	(n) (1) sprint
+スプレー	[supure-]	(n,vs) (1) spray
+スペーシング	[supe-shingu]	(n) spacing
+スペース	[supe-su]	(n) space (room, area, outer space)
+スペースシャトル	[supe-sushatoru]	(n) space shuttle
+スペア	[supea]	(n) (1) spare
+スペクタクル	[supekutakuru]	(n) spectacle
+スペクトル	[supekutoru]	(n) spectrum (radio, etc.) (fre: spectre)
+スペシャリスト	[supesharisuto]	(n) specialist
+スペシャル	[supesharu]	(adj-na,n) special
+スペル	[superu]	(n) (abbr) (See スペリング) spelling
+スペンサージャケット	[supensa-jaketto]	(n) spencer jacket
+スポーク	[supo-ku]	(n) spoke
+スポークスマン	[supo-kusuman]	(n) spokesman
+スポーツ	[supo-tsu]	(n,adj-no) sport
+スポーツカー	[supo-tsuka-]	(n) sports car
+スポーツマン	[supo-tsuman]	(n) sportsman
+スポーティ	[supo-ti]	(adj-na) sporty (esp. garments, accessories, etc.)
+スポット	[supotto]	(n,adj-no) (1) spot
+スポットライト	[supottoraito]	(n) spotlight
+スポンサー	[suponsa-]	(n) sponsor
+スポンジ	[suponji]	(n) sponge
+スポンジケーキ	[suponjike-ki]	(n) sponge cake
+スマート	[suma-to]	(adj-na,n) (1) smart
+スマイル	[sumairu]	(n) smile
+スマッシュ	[sumasshu]	(n,vs) smash
+スムーズ	[sumu-zu]	(adj-na,n) smooth
+スモーカー	[sumo-ka-]	(n) smoker
+スモッグ	[sumoggu]	(n,adj-no) smog
+スライス	[suraisu]	(n,vs) slice
+スライダー	[suraida-]	(n) (1) {baseb} slider
+スライド	[suraido]	(n) (1) slide
+スラスラ	[surasura]	(adv,adv-to) (on-mim) smoothly
+スラック	[surakku]	(n) slack
+スラックス	[surakkusu]	(n) slacks
+スラローム	[suraro-mu]	(n) slalom (nor:)
+スランプ	[suranpu]	(n) slump
+スリーサイズ	[suri-saizu]	(n) bust-waist-hip measurements (wasei: three size)
+スリット	[suritto]	(n) slit
+スリッパ	[surippa]	(n) slipper
+スリップ	[surippu]	(n,vs) (1) slip (i.e. slide)
+スリム	[surimu]	(adj-na,n) slim
+スリラー	[surira-]	(n) thriller (movie, story)
+スリリング	[suriringu]	(adj-na,n) thrilling
+スリル	[suriru]	(n) thrill
+スルー	[suru-]	(n,vs) (1) (col) ignoring
+スレート	[sure-to]	(n,adj-no) slate
+スレイブ	[sureibu]	(n) slave
+スレンダー	[surenda-]	(adj-na) slender
+スロー	[suro-]	(adj-na) (1) slow
+スローガン	[suro-gan]	(n) slogan
+スロープ	[suro-pu]	(n) slope
+スロット	[surotto]	(n) slot
+スロバキア	[surobakia]	(n) Slovakia
+スロベニア	[surobenia]	(n) Slovenia
+スワップ	[suwappu]	(n,vs) swap
+スワン	[suwan]	(n) swan
+ズーム	[zu-mu]	(n) zoom
+ズームレンズ	[zu-murenzu]	(n) zoom lens
+ズボン	[zubon]	(n) (also written as 洋袴 and 段袋 during the Meiji period) trousers (fre: jupon)
+セーター	[se-ta-]	(n) sweater
+セーフ	[se-fu]	(n) safe
+セーフティードライブ	[se-futi-doraibu]	(n) driving safely (wasei: safety drive)
+セーブ	[se-bu]	(n,vs) (1) save
+セール	[se-ru]	(n) sale
+セールス	[se-rusu]	(n,vs) (1) sales
+セールスマン	[se-rusuman]	(n) salesman
+セイバー	[seiba-]	(n) (サーブル is usu. in fencing; サーベル in cavalry) sabre (fre:, dut: sabel)
+セオリー	[seori-]	(n) theory
+セカンド	[sekando]	(n) (1) second
+セキュリティ	[sekyuriti]	(n) security
+セクシー	[sekushi-]	(adj-na,n) sexy
+セクション	[sekushon]	(n) section
+セクター	[sekuta-]	(n) sector
+セクハラ	[sekuhara]	(n) (abbr) (See セクシュアルハラスメント) sexual harassment
+セシウム	[seshiumu]	(n) cesium (Cs)
+セゾン	[sezon]	(n) season (fre: saison)
+セダン	[sedan]	(n) sedan
+セックス	[sekkusu]	(n,vs) sexual intercourse
+セッション	[sesshon]	(n) (1) session
+セッティング	[settingu]	(n,vs) (1) setting
+セット	[setto]	(n,vs) (1) set
+セピア	[sepia]	(n) sepia
+セブン	[sebun]	(n) seven
+セミコロン	[semikoron]	(n) semicolon
+セミナー	[semina-]	(n) (ゼミナール is from German) seminar
+セメント	[semento]	(n) cement
+セラ	[sera]	(n) sera
+セラー	[sera-]	(n) (1) seller
+セラピー	[serapi-]	(n) therapy
+セラミック	[seramikku]	(n,adj-f) ceramic
+セリウム	[seriumu]	(n) cerium (Ce)
+セリフ	[serifu]	(n) serif
+セル	[seru]	(n) (1) cell
+セルフ	[serufu]	(n) self
+セルフサービス	[serufusa-bisu]	(n) self-service
+セルロイド	[seruroido]	(n) celluloid
+セレクション	[serekushon]	(n) selection
+セレクト	[serekuto]	(n,vs) select
+セレナーデ	[serena-de]	(n,vs) serenade (fre:, ger:)
+セレモニー	[seremoni-]	(n) ceremony
+セロテープ	[serote-pu]	(n) cellophane tape
+セロハンテープ	[serohante-pu]	(n) cellophane tape
+セロリ	[serori]	(n) celery
+セン	[sen]	(n-suf) stopper
+センサー	[sensa-]	(n) sensor
+センス	[sensu]	(n) taste (in fashion, music, etc.) (eng: sense)
+センセーショナル	[sense-shonaru]	(adj-na,n) sensational
+センセーション	[sense-shon]	(n) sensation
+センター	[senta-]	(n) centre
+センタリング	[sentaringu]	(n,vs) centering
+センチ	[senchi]	(n) (1) centimeter
+センチメンタル	[senchimentaru]	(adj-na,n) sentimental
+ゼネコン	[zenekon]	(n) (abbr) (See ゼネラルコントラクター) general contractor
+ゼネスト	[zenesuto]	(n) (abbr) general strike
+ゼネラルマネージャー	[zenerarumane-ja-]	(n) general manager
+ゼミ	[zemi]	(n) (abbr) (See ゼミナール) seminar
+ゼラチン	[zerachin]	(n,adj-no) gelatin
+ゼリー	[zeri-]	(n) (1) (also written as 車厘) jello
+ゼロックス	[zerokkusu]	(n) Xerox
+ソーイングセット	[so-ingusetto]	(n) sewing kit
+ソーシャルワーカー	[so-sharuwa-ka-]	(n) social worker
+ソース	[so-su]	(n) (1) sauce (esp. Worcestershire sauce)
+ソープ	[so-pu]	(n) (1) soap
+ソープランド	[so-purando]	(n) brothel where one can bathe with the prostitutes (wasei: soapland)
+ソーラー	[so-ra-]	(n) solar
+ソサエティ	[sosaeti]	(n) society
+ソックス	[sokkusu]	(n) socks
+ソナタ	[sonata]	(n) {music} sonata (ita:)
+ソファ	[sofa]	(n) sofa
+ソフト	[sofuto]	(adj-na,adj-no) (1) (ant: ハード・1) soft
+ソフトウェア	[sofutowea]	(n) software
+ソフトドリンク	[sofutodorinku]	(n) soft drink
+ソフトボール	[sofutobo-ru]	(n) softball
+ソプラノ	[sopurano]	(n) soprano (ita:)
+ソユーズ	[soyu-zu]	(n) Soyuz (Russian spacecraft)
+ソリスト	[sorisuto]	(n) {music} soloist (fre: soliste)
+ソル	[soru]	(n) Sol
+ソロ	[soro]	(n,adj-no) solo (ita:)
+ソング	[songu]	(n) (1) song
+ゾーン	[zo-n]	(n) zone
+ターゲット	[ta-getto]	(n) target
+タービン	[ta-bin]	(n) turbine
+ターボ	[ta-bo]	(n) turbo
+ターミナル	[ta-minaru]	(n) terminal
+タール	[ta-ru]	(n) tar
+ターン	[ta-n]	(n,vs) turn
+タイ	[tai]	(n) tie
+タイアップ	[taiappu]	(n,vs) tie-up
+タイゲーム	[taige-mu]	(n) tie game
+タイツ	[taitsu]	(n) tights
+タイト	[taito]	(adj-na,n) tight
+タイトル	[taitoru]	(n) title
+タイピスト	[taipisuto]	(n) typist
+タイプ	[taipu]	(n,vs) (1) type
+タイプライター	[taipuraita-]	(n) typewriter
+タイマー	[taima-]	(n) {comp} timer
+タイミング	[taimingu]	(n) timing
+タイム	[taimu]	(n) (1) time
+タイムスタンプ	[taimusutanpu]	(n) (1) time-stamp
+タイムズ	[taimuzu]	(n) times
+タイムセール	[taimuse-ru]	(n) special offers available for a limited time of the day (wasei: time sale)
+タイムマシン	[taimumashin]	(n) time machine
+タイムリー	[taimuri-]	(adj-na) (1) timely
+タイヤ	[taiya]	(n) tire
+タイル	[tairu]	(n) (1) tile
+タウン	[taun]	(n) town
+タオル	[taoru]	(n) towel
+タキシード	[takishi-do]	(n) tuxedo
+タクシー	[takushi-]	(n) taxi
+タグ	[tagu]	(n) (1) tag
+タグボート	[tagubo-to]	(n) tugboat
+タスク	[tasuku]	(n) task
+タック	[takku]	(n) tuck
+タッチ	[tacchi]	(n,n-suf,vs) (1) touch
+タップ	[tappu]	(n) (1) tap
+タトゥー	[tatoxu-]	(n,vs) tattoo
+タフ	[tafu]	(adj-na,n) tough
+タブー	[tabu-]	(n) taboo
+タブロイド	[taburoido]	(n) tabloid
+タリウム	[tariumu]	(n,adj-no) thallium (Tl)
+タルク	[taruku]	(n) talc
+タレント	[tarento]	(n) (1) star (esp. television) (eng: talent)
+タワー	[tawa-]	(n) tower
+タン	[tan]	(n) {food} tongue of beef, pork, etc.
+タンカー	[tanka-]	(n) tanker
+タンク	[tanku]	(n) (1) tank (of liquid)
+タンクローリ	[tankuro-ri]	(n) tanker (wasei: tank lorry)
+タンザニア	[tanzania]	(n) Tanzania
+タンデム	[tandemu]	(n) tandem
+ダーク	[da-ku]	(adj-na,n) dark
+ダーリン	[da-rin]	(n) darling
+ダイアグラム	[daiaguramu]	(n) diagram
+ダイエット	[daietto]	(n,vs) (1) diet
+ダイオード	[daio-do]	(n) diode
+ダイジェスト	[daijesuto]	(n,vs) digest
+ダイナースクラブ	[daina-sukurabu]	(n) Diner's Club (credit card)
+ダイナマイト	[dainamaito]	(n) dynamite
+ダイナミクス	[dainamikusu]	(n) dynamics
+ダイナミズム	[dainamizumu]	(n) dynamism
+ダイナミック	[dainamikku]	(adj-na,n) dynamic
+ダイニング	[dainingu]	(n) (1) dining
+ダイビング	[daibingu]	(n,vs) diving
+ダイヤ	[daiya]	(n) (1) (abbr) (See ダイヤモンド) diamond
+ダイヤモンド	[daiyamondo]	(n) diamond
+ダイヤル	[daiyaru]	(n,vs) dial
+ダイレクト	[dairekuto]	(adj-na,n) direct
+ダウン	[daun]	(n,vs) (1) down (opposite of up)
+ダウンサイジング	[daunsaijingu]	(n,vs) (1) downsizing
+ダウンタウン	[dauntaun]	(n) downtown
+ダウンロード	[daunro-do]	(n,vs) {comp} download
+ダカ	[daka]	(n) daka-
+ダクト	[dakuto]	(n) duct
+ダッシュ	[dasshu]	(n,vs) dash
+ダビング	[dabingu]	(n,vs) (1) (See 吹き替え) dubbing
+ダブル	[daburu]	"(n,adj-no) (1) (sometimes written as ""Ｗ"") (See シングル・1) double"
+ダミー	[dami-]	(n) dummy
+ダメージ	[dame-ji]	(n) damage
+ダンク	[danku]	(n) dunk
+ダンサー	[dansa-]	(n) dancer
+ダンシング	[danshingu]	(n) dancing
+ダンス	[dansu]	(n,vs) dance
+ダンスホール	[dansuho-ru]	(n) dance hall
+ダンピング	[danpingu]	(n) dumping
+ダンプ	[danpu]	(n,vs) (1) dump
+ダンプカー	[danpuka-]	(n) dump truck (wasei: dump car)
+チーズ	[chi-zu]	(n) (1) (See 乾酪) cheese
+チーズケーキ	[chi-zuke-ki]	(n) cheese cake
+チーフ	[chi-fu]	(n) chief
+チーム	[chi-mu]	(n) team
+チームワーク	[chi-muwa-ku]	(n) teamwork
+チア	[chia]	(n) (1) (See 声援) cheer
+チアガール	[chiaga-ru]	(n) cheerleader (wasei: cheer girl)
+チェ	[che]	(int) shoot
+チェーン	[che-n]	(n) (1) chain (bicycle, measuring, tire, etc.)
+チェア	[chea]	(n) chair
+チェアマン	[cheaman]	(n) chairman
+チェコ	[cheko]	(n) Czech Republic
+チェコスロバキア	[chekosurobakia]	(n) Czechoslovakia
+チェス	[chesu]	(n) chess
+チェチェン	[chechen]	(n) Chechin
+チェッカー	[chekka-]	(n) checker
+チェック	[chekku]	(n,adj-no) (1) check
+チェックアウト	[chekkuauto]	(n,vs) check-out
+チェックイン	[chekkuin]	(n,vs) check-in
+チェリー	[cheri-]	(n) cherry
+チェロ	[chero]	(n) cello
+チェンジ	[chenji]	(n,vs) change
+チェンジャー	[chenja-]	(n) changer
+チェンバロ	[chenbaro]	(n) cembalo (ita:)
+チキン	[chikin]	(n,adj-na) (1) chicken
+チケット	[chiketto]	(n) ticket
+チタン	[chitan]	(n) titanium (Ti) (ger: Titan)
+チップ	[chippu]	(n) (1) gratuity
+チャージ	[cha-ji]	(n,vs) (1) charge (electrical)
+チャーター	[cha-ta-]	(n,vs) charter
+チャーチ	[cha-chi]	(n) church
+チャート	[cha-to]	(n) (1) chart
+チャーミング	[cha-mingu]	(adj-na,n) charming
+チャールストン	[cha-rusuton]	(n) Charleston
+チャイナ	[chaina]	(n) China
+チャイニーズ	[chaini-zu]	(n) Chinese
+チャイム	[chaimu]	(n) chime
+チャイルド	[chairudo]	(n) child
+チャック	[chakku]	(n) (1) fastener
+チャット	[chatto]	(n,vs) {comp} (Internet) chat
+チャネリング	[chaneringu]	(n,vs) channelling
+チャネル	[chaneru]	(n) channel
+チャプター	[chaputa-]	(n) chapter
+チャペル	[chaperu]	(n) chapel
+チャリティー	[chariti-]	(n) charity
+チャレンジ	[charenji]	(n,vs) (See 挑戦) self-challenge
+チャンス	[chansu]	(n) chance
+チャンピオン	[chanpion]	(n) champion
+チューター	[chu-ta-]	(n) tutor
+チューナー	[chu-na-]	(n) (1) tuner (e.g. radio)
+チューブ	[chu-bu]	(n) tube
+チューリップ	[chu-rippu]	(n) tulip
+チョーキング	[cho-kingu]	(n) (1) choking
+チョーク	[cho-ku]	(n,adj-no) (1) (チョーク only) chalk
+チョコ	[choko]	(n) (abbr) (See チョコレート) chocolate
+チョコレート	[chokore-to]	(n) chocolate
+チョッキ	[chokki]	(n) waistcoat (por: jaque)
+チラリ	[chirari]	(adv-to,adv) (on-mim) (See ちらっと) fleeting (glimpse, glance, etc.)
+チルダ	[chiruda]	(n) tilde
+チン	[chin]	(n) (1) chin
+チンピラ	[chinpira]	(n,adj-no) (young) hoodlum
+ツーピース	[tsu-pi-su]	(n) (women's) two piece suit (wasei: two piece)
+ツーリスト	[tsu-risuto]	(n) tourist
+ツーリング	[tsu-ringu]	(n) (1) touring
+ツール	[tsu-ru]	(n) (1) {comp} tool (esp. software, etc.)
+ツアー	[tsua-]	(n) tour
+ツイン	[tsuin]	(n) twin
+ツナ	[tsuna]	(n) tuna (usu. refers to canned tuna)
+ツリー	[tsuri-]	(n) (1) tree (e.g. Christmas)
+テーゼ	[te-ze]	(n) thesis (ger: These)
+テーピング	[te-pingu]	(n,vs) taping (e.g. an injured joint)
+テーブル	[te-buru]	(n,adj-no) (See 卓子) table
+テープ	[te-pu]	(n) tape
+テープレコーダー	[te-pureko-da-]	(n) tape recorder
+テーマ	[te-ma]	(n) theme (ger: Thema)
+テーマソング	[te-masongu]	(n) theme song
+テーマパーク	[te-mapa-ku]	(n) theme park
+テーラー	[te-ra-]	(n) tailor
+ティー	[ti-]	(n) (1) tea
+ティーンエージャー	[ti-n'e-ja-]	(n) teenager
+ティシュー	[tishu-]	(n) tissue
+ティッシュ	[tisshu]	(n) (facial) tissues
+ティッシュペーパー	[tisshupe-pa-]	(n) (See 塵紙) tissue paper
+ティラニー	[tirani-]	(n) tyranny
+ティンパニ	[tinpani]	(n) timpani (ita: timpani)
+テイクアウト	[teikuauto]	(n) take-out
+テキ	[teki]	(n) (abbr) beefsteak
+テキサス	[tekisasu]	(n) Texas
+テキスト	[tekisuto]	(n) (1) text
+テク	[teku]	(n) (1) (abbr) (See テクノロジー) technology
+テクスチャ	[tekusucha]	(n) texture
+テクニカル	[tekunikaru]	(adj-na,n) technical
+テクニシャン	[tekunishan]	(n) technician
+テクニック	[tekunikku]	(n) technique
+テクノクラート	[tekunokura-to]	(n) technocrat
+テクノロジー	[tekunoroji-]	(n) technology
+テスター	[tesuta-]	(n) tester
+テスト	[tesuto]	(n,vs) test
+テストケース	[tesutoke-su]	(n) test case
+テックス	[tekkusu]	"(n) (1) (senses 1 and 2 are originally from an abbreviation of ""texture"") soft fiberboard"
+テトラクロロエチレン	[tetorakuroroechiren]	(n) tetrachloroethylene
+テナー	[tena-]	(n) tenor
+テナント	[tenanto]	(n) tenant (usu. office block, shopping center, etc.)
+テニス	[tenisu]	(n) tennis
+テニスコート	[tenisuko-to]	(n) tennis court
+テネシー	[teneshi-]	(n,adj-no) Tennessee
+テノール	[teno-ru]	(n) tenor (ger:)
+テラス	[terasu]	(n) terrace
+テリーヌ	[teri-nu]	(n) terrine (fre:)
+テリトリー	[teritori-]	(n) territory
+テルアビブ	[teruabibu]	(n) Tel Aviv
+テレカンファレンス	[terekanfarensu]	(n) teleconference
+テレクラ	[terekura]	(n) (abbr) telephone club (chat line, dating service)
+テレグラフ	[teregurafu]	(n) telegraph
+テレコム	[terekomu]	(n) (abbr) (See テレコミュニケーション) telecommunication
+テレスキャン	[teresukyan]	(n) telescan
+テレックス	[terekkusu]	(n) (abbr) telex
+テレビ	[terebi]	(n) (1) (abbr) (See テレビジョン) television
+テレビゲーム	[terebige-mu]	(n) video game (wasei: television game)
+テレビジョン	[terebijon]	(n) television
+テレホン	[terehon]	(n) telephone
+テレメーター	[tereme-ta-]	(n) telemeter
+テロ	[tero]	(n) (abbr) (See テロリズム,テロル) terror
+テロップ	[teroppu]	(n) (1) telop
+テロリスト	[terorisuto]	(n) terrorist
+テロリズム	[terorizumu]	(n) terrorism
+テン	[ten]	(n) 10
+テンション	[tenshon]	(n) (1) tension
+テント	[tento]	(n) tent
+テンペラ	[tenpera]	(n) tempera (ita:)
+テンポ	[tenpo]	(n) tempo (ita:)
+テンポラリー	[tenporari-]	(n) temporary
+デー	[de-]	(suf) (1) day (as in holiday)
+デーゲーム	[de-ge-mu]	(n) day game
+データ	[de-ta]	(n) data
+データバンク	[de-tabanku]	(n) {comp} data bank
+データベース	[de-tabe-su]	(n) {comp} database
+デート	[de-to]	(n,adj-no,vs) date
+デーモン	[de-mon]	(n) (1) demon
+デーリー	[de-ri-]	(n) daily
+ディーゼル	[di-zeru]	(n) diesel
+ディープ	[di-pu]	(n) deep
+ディーラー	[di-ra-]	(n) dealer
+ディクショナリ	[dikushonari]	(n) dictionary
+ディスカウント	[disukaunto]	(n,vs) discount
+ディスカッション	[disukasshon]	(n,vs) discussion
+ディスカバー	[disukaba-]	(n) discover
+ディスク	[disuku]	(n) {comp} disk
+ディスクジョッキー	[disukujokki-]	(n) disk jockey
+ディスクロージャー	[disukuro-ja-]	(n) disclosure
+ディスコ	[disuko]	(n) (abbr) (See ディスコテーク) disco (fre:)
+ディストーション	[disuto-shon]	(n) distortion
+ディスプレイ	[disupurei]	(n,vs) {comp} display
+ディテール	[dite-ru]	(n) detail
+ディナー	[dina-]	(n) dinner
+ディバイス	[dibaisu]	(n) device
+ディフェンス	[difensu]	(n) defense
+ディベート	[dibe-to]	(n) debate
+ディミヌエンド	[diminuendo]	(n) {music} diminuendo (ita:)
+ディレクター	[direkuta-]	(n) director
+ディレクトリ	[direkutori]	(n) {comp} directory
+ディンギー	[dingi-]	(n) dinghy
+デイリーニュース	[deiri-nyu-su]	(n) daily news
+デオキシルボ	[deokishirubo]	(n) deoxyribo (nucleic acid)
+デカルコマニー	[dekarukomani-]	(n) transfer (fre: decalcomanie)
+デコーダ	[deko-da]	(n) {comp} decoder
+デコレーション	[dekore-shon]	(n) decoration
+デサール	[desa-ru]	(n) dessert
+デザート	[deza-to]	(n) (1) dessert
+デザイナー	[dezaina-]	(n) designer
+デザイン	[dezain]	(n,vs) design
+デシ	[deshi]	(pref) deci- (fre:)
+デシベル	[deshiberu]	(n) decibel
+デジタル	[dejitaru]	(n,adj-no) digital
+デスク	[desuku]	(n) (1) desk
+デタント	[detanto]	(n) detente (fre:)
+デッキ	[dekki]	(n) deck (e.g. ship, tape, cassette, observation, train vestibule, etc.)
+デッサン	[dessan]	(n,vs) rough sketch (fre: dessin)
+デッド	[deddo]	(n) dead
+デッドヒート	[deddohi-to]	(n) (1) fiercely fought contest
+デニール	[deni-ru]	(n) denier
+デニム	[denimu]	(n) (1) denim
+デノミ	[denomi]	(n) (abbr) denomination (reducing the face value of currency after inflation)
+デバイス	[debaisu]	(n) device
+デパート	[depa-to]	(n) (1) (abbr) (See デパートメントストア) department store
+デビスカップ	[debisukappu]	(n) Davis Cup
+デビュー	[debyu-]	(n,vs) debut (fre:)
+デフォルメ	[deforume]	(n,vs) distortion (often used for caricature in manga, etc.) (fre: deformer)
+デフレ	[defure]	(n) (abbr) (See デフレーション) deflation
+デブ	[debu]	(adj-no,adj-na,n) (col) (usu. derog.) chubby
+デベロッパー	[deberoppa-]	(n) developer
+デポジット	[depojitto]	(n) deposit
+デマ	[dema]	(n,adj-no) (abbr) (See デマゴギー・1) false rumor (rumour)
+デマンド	[demando]	(n) demand
+デミ	[demi]	(pref) demi-
+デメリット	[demeritto]	(n) (ant: メリット) demerit
+デモ	[demo]	(n) (abbr) (See デモンストレーション) demonstration
+デモクラシー	[demokurashi-]	(n) democracy
+デモクラット	[demokuratto]	(n) democrat
+デモンストレーション	[demonsutore-shon]	(n) demonstration
+デューティーフリー	[dexyu-ti-furi-]	(n) duty-free
+デュエット	[dexyuetto]	(n) duet
+デュオ	[dexyuo]	(n) duo (ita:)
+デライブド	[deraibudo]	(n) derived
+デラックス	[derakkusu]	(adj-na,n) deluxe
+デリート	[deri-to]	(n) delete
+デリカ	[derika]	(adj-na,n) (abbr) (See デリカテセン) delicatessen
+デリケート	[derike-to]	(adj-na,n) delicate
+デレゲーション	[derege-shon]	(n) delegation
+デンバー	[denba-]	(n) Denver
+トー	[to-]	(n) toe
+トーキー	[to-ki-]	(n) (1) talkie (motion picture with sound)
+トーク	[to-ku]	(n) (1) talk (esp. by a talk-show host, or by a stage musician to the audience between songs)
+トークショー	[to-kusho-]	(n) talk show
+トースター	[to-suta-]	(n) toaster
+トースト	[to-suto]	(n,adj-no) toast
+トータル	[to-taru]	(adj-na,n) total
+トーチ	[to-chi]	(n) torch
+トーナメント	[to-namento]	(n) tournament
+トーラス	[to-rasu]	(n) (1) Taurus
+トール	[to-ru]	(n) toll
+トーン	[to-n]	(n) tone
+トイレ	[toire]	(n) (abbr) (See トイレット) toilet
+トイレット	[toiretto]	(n) toilet
+トイレットペーパー	[toirettope-pa-]	(n) toilet paper
+トゥギャザー	[toxugyaza-]	(n) together
+トゥルー	[toxuru-]	(n) true
+トウ	[tou]	(n) toe
+トス	[tosu]	(n,vs) toss
+トタン	[totan]	(n) (See 亜鉛鉄板・あえんてっぱん) galvanized sheet iron (galvanised) (por: tutanaga)
+トッパー	[toppa-]	(n) topper
+トップ	[toppu]	(n) (1) top
+トップクラス	[toppukurasu]	(adj-no,n) top class
+トップスター	[toppusuta-]	(n) top star (esp. male lead role in the all-female Takarazuka musical theater troupe)
+トップニュース	[toppunyu-su]	(n) top news
+トップバッター	[toppubatta-]	(n) top batter (ball game)
+トップレス	[toppuresu]	(n) topless
+トトカルチョ	[totokarucho]	(n) football pool (ita: totocalcio)
+トニータイ	[toni-tai]	(n) tony tie
+トピック	[topikku]	(n) topic
+トマト	[tomato]	(n) tomato (Solanum lycopersicum)
+トマホーク	[tomaho-ku]	(n) tomahawk
+トミーガン	[tomi-gan]	(n) tommy gun
+トライ	[torai]	(n,vs) try
+トライアスロン	[toraiasuron]	(n) triathlon
+トライアル	[toraiaru]	(n) trial
+トライアングル	[toraianguru]	(n) triangle
+トラスト	[torasuto]	(n) trust
+トラック	[torakku]	(n,adj-no) (1) truck
+トラッド	[toraddo]	(adj-na) trad
+トラップ	[torappu]	(n) trap
+トラバーユ	[toraba-yu]	(n,vs) (1) job change (fre: travail)
+トラフ	[torafu]	(n) trough
+トラフィック	[torafikku]	(n) traffic
+トラブル	[toraburu]	(n) trouble
+トラベラーズチェック	[torabera-zuchekku]	(n) traveller's cheque
+トラベル	[toraberu]	(n) travel
+トランキライザー	[torankiraiza-]	(n) tranquilizer
+トランク	[toranku]	(n) (1) suitcase
+トランクス	[torankusu]	(n) (1) trunks (swimming, boxing, etc.)
+トランシーバー	[toranshi-ba-]	(n) transceiver
+トランジスタ	[toranjisuta]	(n) electrical transistor
+トランジット	[toranjitto]	(n) transit
+トランス	[toransu]	(n) (1) (abbr) (power) transformer
+トランスポンダー	[toransuponda-]	(n) transponder
+トランプ	[toranpu]	(n) playing cards (eng: trump)
+トランペット	[toranpetto]	(n) trumpet
+トリートメント	[tori-tomento]	(n,vs) treatment (esp. hair treatment)
+トリウム	[toriumu]	(n,adj-no) thorium (Th)
+トリオ	[torio]	(n) trio (ita:)
+トリガー	[toriga-]	(n) trigger
+トリクロロエチレン	[torikuroroechiren]	(n) trichloroethylene
+トリック	[torikku]	(n,adj-no) trick
+トリップ	[torippu]	(n) trip
+トリニトロトルエン	[torinitorotoruen]	(n) trinitrotoluen
+トリビューン	[toribyu-n]	(n) tribune
+トリプル	[toripuru]	(n) triple
+トリュフ	[toryufu]	(n) truffle (fre: truffe)
+トルーパー	[toru-pa-]	(n) trooper
+トルエン	[toruen]	(n) toluene
+トルク	[toruku]	(n) {physics} torque
+トレー	[tore-]	(n) tray
+トレース	[tore-su]	(n,vs) trace
+トレード	[tore-do]	(n,vs) trade
+トレードマーク	[tore-doma-ku]	(n) (See 商標・しょうひょう) trademark
+トレーナー	[tore-na-]	(n) (1) trainer (someone who works with sports athletes)
+トレーニング	[tore-ningu]	(n,vs) training
+トレーラー	[tore-ra-]	(n) (1) trailer (vehicle)
+トレジャー	[toreja-]	(n) treasure
+トレッカー	[torekka-]	(n) trekker
+トレンチコート	[torenchiko-to]	(n) trench coat
+トレンディー	[torendi-]	(adj-na,n) trendy
+トレンド	[torendo]	(n) trend
+トロール	[toro-ru]	(n,adj-no) (1) trawl
+トロイ	[toroi]	(n) troy
+トロフィー	[torofi-]	(n) trophy
+トロント	[toronto]	(n) Toronto
+トロンボーン	[toronbo-n]	(n) trombone
+トワイライト	[towairaito]	(n) twilight
+トンネル	[ton'neru]	(n) (1) tunnel
+ドーク	[do-ku]	(n) dawk
+ドーナツ	[do-natsu]	(n) doughnut
+ドーピング	[do-pingu]	(n) doping
+ドーマーウインドー	[do-ma-uindo-]	(n) dormer window
+ドーム	[do-mu]	(n) dome
+ドールキュー	[do-rukyu-]	(n) dole queue
+ドア	[doa]	(n) door (Western-style)
+ドゥーイットユアセルフ	[du-ittoyuaserufu]	(n) do-it-yourself
+ドキドキ	[dokidoki]	(adv,adv-to) (1) (on-mim) thump-thump
+ドキュメンタリー	[dokyumentari-]	(n) documentary
+ドキュメント	[dokyumento]	(n) document
+ドクター	[dokuta-]	(n) doctor (dut: doctor, ger: Doktor)
+ドクターヘリ	[dokuta-heri]	(n) air ambulance (wasei: doctor heli(copter))
+ドクトリン	[dokutorin]	(n) doctrine
+ドッキング	[dokkingu]	(n,vs) docking
+ドック	[dokku]	(n) dock
+ドッグフード	[doggufu-do]	(n) dog food
+ドッグファイト	[doggufaito]	(n) dogfight (aircraft)
+ドッジボール	[dojjibo-ru]	(n) dodge ball
+ドット	[dotto]	(n,adj-no) (1) dot
+ドナー	[dona-]	(n) donor
+ドミノ	[domino]	(n) domino
+ドライ	[dorai]	(adj-na,n) dry (esp. as in not wet or as in dry humour)
+ドライバー	[doraiba-]	(n) (1) driver (of a vehicle)
+ドライフラワー	[doraifurawa-]	(n) dry flower
+ドライブ	[doraibu]	(n) (1) drive
+ドライヤー	[doraiya-]	(n) dryer
+ドラゴン	[doragon]	(n) (See 竜・1) dragon (as depicted in Western myths)
+ドラスチック	[dorasuchikku]	(adj-na) drastic
+ドラッグ	[doraggu]	(n,vs) (1) drag
+ドラフト	[dorafuto]	(n) draft
+ドラマ	[dorama]	(n) (1) drama
+ドラマー	[dorama-]	(n) drummer
+ドラマチック	[doramachikku]	(adj-na) dramatic
+ドラム	[doramu]	(n) (1) drum
+ドリー	[dori-]	(n) dolly
+ドリーム	[dori-mu]	(n) dream
+ドリアン	[dorian]	(n) (1) durian (fruit)
+ドリブル	[doriburu]	(n,vs) dribble
+ドリル	[doriru]	(n) (1) drill (tool)
+ドリンク	[dorinku]	(n) drink
+ドル	[doru]	(n) (1) (orig. an abbr. of ドルラル; also written as 弗) (See ドルラル) dollar (dut:)
+ドルフィンキック	[dorufinkikku]	(n) dolphin kick
+ドレス	[doresu]	(n) dress
+ドレッシング	[doresshingu]	(n) dressing
+ドロー	[doro-]	(n) draw
+ドローイング	[doro-ingu]	(n) drawing
+ドロップ	[doroppu]	(n,vs) drop
+ドン	[don]	(n) (1) Don (Spanish honorific) (spa:)
+ナーサリー	[na-sari-]	(n) nursery
+ナース	[na-su]	(n) nurse
+ナーバス	[na-basu]	(adj-na) nervous
+ナイーブ	[nai-bu]	(adj-na,n) naive
+ナイジェリア	[naijeria]	(n) Nigeria
+ナイス	[naisu]	(n) nice
+ナイスバディ	[naisubadi]	(n,adj-na) attractive body (wasei: nice body)
+ナイター	[naita-]	(n) game under lights (e.g. baseball) (wasei: nighter)
+ナイチンゲール	[naichinge-ru]	(n) nightingale
+ナイト	[naito]	(n) (1) night
+ナイトクラブ	[naitokurabu]	(n) nightclub
+ナイフ	[naifu]	(n) knife
+ナイロン	[nairon]	(n) nylon
+ナイン	[nain]	(n) (1) nine
+ナウ	[nau]	(adj-na,n) (1) (ナウ only) now (eng: now)
+ナショナリズム	[nashonarizumu]	(n) nationalism
+ナショナル	[nashonaru]	(adj-na,n) national
+ナショナルチェーン	[nashonaruche-n]	(n) national chain
+ナショナルリーグ	[nashonaruri-gu]	(n) {baseb} (See アメリカンリーグ) National League
+ナチ	[nachi]	(n) (abbr) Nazi (ger:)
+ナチズム	[nachizumu]	(n) Nazism
+ナチュラリスト	[nachurarisuto]	(n) naturalist
+ナチュラル	[nachuraru]	(adj-na,n) natural
+ナックル	[nakkuru]	(n) (1) knuckle
+ナッシング	[nasshingu]	(n) nothing
+ナット	[natto]	(n) (1) nut (as in nut and bolt)
+ナップザック	[nappuzakku]	(n) knapsack (ger: Knappsack)
+ナトリウム	[natoriumu]	(n) sodium (Na) (ger: Natrium)
+ナノ	[nano]	(n,pref) nano-
+ナビ	[nabi]	(n) (abbr) (See ナビゲーター) navigator
+ナビゲーター	[nabige-ta-]	(n) navigator
+ナフサ	[nafusa]	(n) naphtha
+ナプキン	[napukin]	(n) (1) (table) napkin
+ナポレオン	[naporeon]	(n) Napoleon
+ナミビア	[namibia]	(n) Namibia
+ナレーション	[nare-shon]	(n) narration
+ナレーター	[nare-ta-]	(n) narrator
+ナローキャスティング	[naro-kyasutingu]	(n) narrowcasting
+ナンセンス	[nansensu]	(adj-na,n) nonsense
+ナンバー	[nanba-]	(n) number
+ナンバープレート	[nanba-pure-to]	(n) number plate
+ナンバーワン	[nanba-wan]	(n) number one
+ニー	[ni-]	(n) knee
+ニーズ	[ni-zu]	(n) needs
+ニアミス	[niamisu]	(n) near-miss
+ニコチン	[nikochin]	(n) nicotine
+ニコニコ	[nikoniko]	(adv,adv-to,vs) (on-mim) with a friendly grin
+ニッカーズ	[nikka-zu]	(n) knickers
+ニック	[nikku]	(n) (1) nick
+ニックネーム	[nikkune-mu]	(n) nickname
+ニッケル	[nikkeru]	(n,adj-no) nickel (Ni)
+ニット	[nitto]	(n) (1) knit
+ニヒル	[nihiru]	(adj-na,n) (abbr) (See ニヒリスティック) nihilistic (lat: nihil)
+ニヤニヤ	[niyaniya]	(adv,n,vs) (on-mim) grinning
+ニュー	[nyu-]	(n) (1) new
+ニューウェーブ	[nyu-we-bu]	(n) new wave
+ニューサウスウェールズ	[nyu-sausuwe-ruzu]	(n) New South Wales
+ニュージャージー	[nyu-ja-ji-]	(n) New Jersey
+ニュース	[nyu-su]	(n) news
+ニュースソース	[nyu-suso-su]	(n) news source
+ニュースレター	[nyu-sureta-]	(n) newsletter
+ニュータウン	[nyu-taun]	(n) new town (esp. planned satellite towns of Osaka Prefecture)
+ニュートラ	[nyu-tora]	(n) (abbr) new traditional
+ニュートン	[nyu-ton]	(n) (1) newton (N) (SI unit of force)
+ニューハンプシャー	[nyu-hanpusha-]	(n) New Hampshire
+ニューフェイス	[nyu-feisu]	(n) new face
+ニューメキシコ	[nyu-mekishiko]	(n) New Mexico
+ニューメディア	[nyu-media]	(n) new media
+ニューリーダー	[nyu-ri-da-]	(n) new leader
+ニューロ	[nyu-ro]	(n) neuro-
+ニューロン	[nyu-ron]	(n) neuron
+ニュアンス	[nyuansu]	(n) nuance (fre:)
+ヌーディー	[nu-di-]	(n) nudie
+ヌード	[nu-do]	(n) nude
+ヌードル	[nu-doru]	(n) (1) noodle
+ヌーベル	[nu-beru]	(adj-f) nouvelle (fre:)
+ヌーボー	[nu-bo-]	(adj-no,n) (1) modern (fre: nouveau)
+ヌルヌル	[nurunuru]	(adj-na,adv,n,vs) (on-mim) slimy
+ネーミング	[ne-mingu]	(n,vs) naming (esp. of a commercial product or company)
+ネーム	[ne-mu]	(n) (1) name
+ネアンデルタール	[neanderuta-ru]	(n) Neanderthal
+ネイキッド	[neikiddo]	(n) naked
+ネイチャー	[neicha-]	(n) nature
+ネイビー	[neibi-]	(n) navy
+ネイル	[neiru]	(n) nail
+ネオ	[neo]	(n,pref) neo
+ネオナチ	[neonachi]	(n) Neo-Nazi
+ネオン	[neon]	(n) neon (Ne)
+ネガ	[nega]	(n) (photographic) negative
+ネガティブ	[negatibu]	(adj-na,n) (ant: ポジティブ) negative
+ネクタイ	[nekutai]	(n) tie
+ネス	[nesu]	(suf) -ness
+ネスト	[nesuto]	(n) nest
+ネッカチーフ	[nekkachi-fu]	(n) neckerchief
+ネック	[nekku]	(n) (1) neck
+ネックレス	[nekkuresu]	(n) necklace
+ネット	[netto]	(n) (1) {comp} network
+ネットプレー	[nettopure-]	(n) net play
+ネットワーク	[nettowa-ku]	(n) {comp} network
+ネブラスカ	[neburasuka]	(n) Nebraska
+ノー	[no-]	(int,n-pref,n) no
+ノーコメント	[no-komento]	(n) no comment
+ノーサイド	[no-saido]	(n) {sports} no side (rugby)
+ノース	[no-su]	(n) (1) north
+ノースカロライナ	[no-sukaroraina]	(n) North Carolina
+ノータッチ	[no-tacchi]	(exp) (1) Do not touch! (wasei: no touch)
+ノート	[no-to]	(n,vs) (1) (abbr) (See ノートブック) notebook
+ノーヒットノーランゲーム	[no-hittono-range-mu]	(n) no-hit no-run game
+ノーブル	[no-buru]	(adj-na) noble
+ノーマーク	[no-ma-ku]	(adj-no,n) (1) not covered (e.g. of a sports opponent) (wasei: no mark)
+ノーマライズ	[no-maraizu]	(n) normalize
+ノーマル	[no-maru]	(adj-na,n) normal
+ノーランストッキング	[no-ransutokkingu]	(n) no-run stockings
+ノア	[noa]	(n) (1) NOAA
+ノイズ	[noizu]	(n) noise
+ノイローゼ	[noiro-ze]	(n) neurosis (ger: Neurose)
+ノウハウ	[nouhau]	(n) know-how
+ノエル	[noeru]	(n) Christmas (fre: Noel)
+ノスタルジー	[nosutaruji-]	(n) nostalgia (ger: Nostalgie, fre: nostalgie)
+ノスタルジア	[nosutarujia]	(n) nostalgia
+ノスタルジック	[nosutarujikku]	(adj-na) nostalgic
+ノズル	[nozuru]	(n) nozzle
+ノッカー	[nokka-]	(n) knocker
+ノック	[nokku]	(n,vs) (1) knock
+ノックダウン	[nokkudaun]	(n,vs) knockdown
+ノット	[notto]	(n) (1) knot
+ノブ	[nobu]	(n) (1) knob
+ノミネート	[nomine-to]	(n,vs) nominate
+ノルディック	[norudikku]	(n) Nordic
+ノルマ	[noruma]	(n) (one's) quota (rus: norma)
+ノン	[non]	(pref) (1) non-
+ノンアルコール	[non'aruko-ru]	(n,adj-no) non-alcoholic
+ノンストップ	[nonsutoppu]	(n,adj-no) nonstop
+ノンバンク	[nonbanku]	(n) nonbank banking
+ノンフィクション	[nonfikushon]	(n) nonfiction
+ハート	[ha-to]	(n) heart
+ハード	[ha-do]	(adj-na,adj-no) (1) (ant: ソフト・1) hard
+ハードウェア	[ha-dowea]	(n) {comp} hardware (esp. computer)
+ハードカバー	[ha-dokaba-]	(n,adj-no) hardcover
+ハードディスク	[ha-dodisuku]	(n) {comp} hard-disk
+ハードトップ	[ha-dotoppu]	(n) hardtop
+ハードボイルド	[ha-doboirudo]	(n) hard-boiled
+ハードル	[ha-doru]	(n) hurdle
+ハードロック	[ha-dorokku]	(n) hard-rock
+ハーバー	[ha-ba-]	(n) harbor
+ハーフ	[ha-fu]	(n) (1) half
+ハーフタイム	[ha-futaimu]	(n) {sports} half time
+ハーブ	[ha-bu]	(n) herb
+ハープ	[ha-pu]	(n) (1) harp
+ハーモニー	[ha-moni-]	(n) harmony
+ハーモニカ	[ha-monika]	(n) (1) harmonica
+ハーラーダービー	[ha-ra-da-bi-]	(n) hurler derby
+ハーレム	[ha-remu]	(n) harem (ara: harīm)
+ハイ	[hai]	(adj-na,n) high
+ハイウエー	[haiue-]	(n) highway
+ハイカー	[haika-]	(n) hiker
+ハイキング	[haikingu]	(n) hiking
+ハイク	[haiku]	(n) hike
+ハイジャック	[haijakku]	(n,vs) hijack
+ハイスクール	[haisuku-ru]	(n) high school
+ハイツ	[haitsu]	(n) heights
+ハイティーン	[haiti-n]	(n,adj-no) late teens (wasei: high teen)
+ハイテク	[haiteku]	(adj-na,n,adj-no) high-tech
+ハイドン	[haidon]	(n) Haydn
+ハイパー	[haipa-]	(n) hyper
+ハイヒール	[haihi-ru]	(n) high heels
+ハイビジョン	[haibijon]	(n) high-definition television
+ハイビスカス	[haibisukasu]	(n) hibiscus
+ハイファイ	[haifai]	(n,adj-no) hi-fi
+ハイブリッド	[haiburiddo]	(n,adj-no) hybrid
+ハイペース	[haipe-su]	(adj-na,n) quick pace (wasei: high pace)
+ハイム	[haimu]	(n) home (ger: Heim)
+ハイヤー	[haiya-]	(n) (1) hire
+ハイライト	[hairaito]	(n) highlight
+ハイランド	[hairando]	(n) highland
+ハイレグ	[hairegu]	(n) high-leg leotard
+ハイレベル	[haireberu]	(adj-na,n) high-level
+ハウ	[hau]	(n) how
+ハウジング	[haujingu]	(n) (1) housing (i.e. accommodation)
+ハウス	[hausu]	(n) (1) house
+ハウツー	[hautsu-]	(adj-f) how-to
+ハスキー	[hasuki-]	(adj-na) husky
+ハッカー	[hakka-]	(n) {comp} hacker
+ハッスル	[hassuru]	(n,vs) hustle
+ハッチ	[hacchi]	(n) hatch
+ハット	[hatto]	(n) (1) hat
+ハッピー	[happi-]	(adj-na,n) happy
+ハッピーエンド	[happi-endo]	(n) happy ending (wasei: happy end)
+ハネムーン	[hanemu-n]	(n) honeymoon
+ハプニング	[hapuningu]	(n) happening
+ハム	[hamu]	(n) (1) ham (cured pig meat)
+ハムスター	[hamusuta-]	(n) hamster
+ハラハラ	[harahara]	(adv,vs,adv-to) (1) (on-mim) heart going pit-a-pat
+ハリケーン	[harike-n]	(n) hurricane
+ハロー	[haro-]	(n) (1) halo
+ハロウィーン	[harowi-n]	(n) Halloween
+ハロゲン	[harogen]	(n,adj-no) halogen
+ハロン	[haron]	(n) (1) halon
+ハワイアンギター	[hawaiangita-]	(n) Hawaiian guitar
+ハンカチ	[hankachi]	(n) (abbr) (See ハンカチーフ) handkerchief
+ハンガー	[hanga-]	(n) (1) (aircraft) hangar
+ハング	[hangu]	(n,vs) hang
+ハングリー	[hanguri-]	(adj-na,n) hungry
+ハングル	[hanguru]	(n) hangul (Korean script) (kor:)
+ハンサム	[hansamu]	(adj-na,n) handsome
+ハンスト	[hansuto]	(n,vs) (abbr) (See ハンガーストライキ) hunger strike
+ハンター	[hanta-]	(n) hunter
+ハンチング	[hanchingu]	(n) (1) hunting
+ハンティング	[hantingu]	(n) hunting
+ハンディ	[handi]	(n) (1) (abbr) (See ハンディキャップ) handicap
+ハンディキャップ	[handikyappu]	(n) handicap
+ハンド	[hando]	(n) hand
+ハンドバッグ	[handobaggu]	(n) handbag
+ハンドブック	[handobukku]	(n) handbook
+ハンドボール	[handobo-ru]	(n) hand-ball
+ハンドメイド	[handomeido]	(n) (1) handmade object
+ハンドル	[handoru]	(n) (1) handle
+ハンバーガー	[hanba-ga-]	(n) hamburger (on a bun)
+ハンバーグ	[hanba-gu]	(n) hamburger (meat, no bun)
+ハンマー	[hanma-]	(n) hammer
+バー	[ba-]	(n) (1) bar
+バーガー	[ba-ga-]	(n) burger
+バークリウム	[ba-kuriumu]	(n) berkelium (Bk)
+バーゲン	[ba-gen]	(n) (1) bargain
+バーゲンセール	[ba-gense-ru]	(n) bargain sale
+バーコード	[ba-ko-do]	(n) bar code
+バージニア	[ba-jinia]	(n) Virginia
+バージョン	[ba-jon]	(n) version
+バージン	[ba-jin]	(n) virgin
+バース	[ba-su]	(n) (1) berth
+バースデー	[ba-sude-]	(n) birthday
+バースト	[ba-suto]	(n,vs) burst
+バーター	[ba-ta-]	(n) barter
+バーチャル	[ba-charu]	(adj-na,n) virtual
+バーテン	[ba-ten]	(n) (abbr) (See バーテンダー) bartender
+バーディー	[ba-di-]	(n) birdie
+バードコール	[ba-doko-ru]	(n) birdcall
+バーナー	[ba-na-]	(n) burner
+バーバー	[ba-ba-]	(n) barber
+バーベキュー	[ba-bekyu-]	(n) barbecue
+バーベル	[ba-beru]	(n) barbell
+バーボン	[ba-bon]	(n) bourbon
+バーミンガム	[ba-mingamu]	(n) Birmingham
+バール	[ba-ru]	(n) (1) bar
+バーレスク	[ba-resuku]	(n) burlesque
+バーンアウトシンドローム	[ba-n'autoshindoro-mu]	(n) burn-out syndrome
+バイ	[bai]	(adv) (1) by
+バイアスロン	[baiasuron]	(n) biathlon
+バイオ	[baio]	(pref) (1) bio-
+バイオテクノロジー	[baiotekunoroji-]	(n) biotechnology
+バイオリニスト	[baiorinisuto]	(n) violinist
+バイオリン	[baiorin]	(n) violin
+バイキング	[baikingu]	(n) (1) Viking
+バイク	[baiku]	(n) (not usu. bicycle) motorcycle
+バイタリティー	[baitariti-]	(n) vitality
+バイト	[baito]	(n,vs) (1) (abbr) (See アルバイト・1) work (esp. part time or casual) (ger: Arbeit)
+バイパス	[baipasu]	(n,vs) bypass
+バイブル	[baiburu]	(n) Bible
+バイヤー	[baiya-]	(n) buyer
+バイリンガル	[bairingaru]	(n) bilingual
+バウサイド	[bausaido]	(n) bow side
+バウムクーヘン	[baumuku-hen]	(n) baumkuchen (ger:)
+バウンド	[baundo]	(n,vs) bound
+バカンス	[bakansu]	(n) holidays (fre: vacances)
+バガボンド	[bagabondo]	(n) vagabond
+バギー	[bagi-]	(n) (1) buggy
+バクテリア	[bakuteria]	(n) (See 細菌) bacteria
+バグダッド	[bagudaddo]	(n) Baghdad
+バケツ	[baketsu]	(n) (1) (バケツ sometimes given the ateji 馬穴 and 馬尻) bucket
+バザー	[baza-]	(n) bazaar
+バス	[basu]	(n) (1) bus
+バスク	[basuku]	(n) (1) Basque
+バスケット	[basuketto]	(n) (1) basket
+バスケットボール	[basukettobo-ru]	(n) basketball
+バスター	[basuta-]	(n) {baseb} fake bunt (eng: bastard)
+バスツアー	[basutsua-]	(n) bus tour
+バスト	[basuto]	(n) (1) bust (measurement)
+バスルーム	[basuru-mu]	(n) bathroom
+バター	[bata-]	(n) butter
+バタバタ	[batabata]	(n,vs,adv,adv-to) (1) (on-mim) flapping
+バタフライ	[batafurai]	(n) (1) butterfly (swimming stroke)
+バタン	[batan]	(adv,adv-to) (on-mim) bang
+バッカス	[bakkasu]	(n,adj-no) Bacchus
+バック	[bakku]	(n) (1) back
+バックアップ	[bakkuappu]	(n,vs) {comp} backup
+バックグラウンド	[bakkuguraundo]	(n) background
+バックス	[bakkusu]	(n) (1) {sports} (See フォワード・1) backs
+バックスクリーン	[bakkusukuri-n]	(n) {baseb} back screen (esp. hitter's background in center field)
+バックネット	[bakkunetto]	(n) {baseb} backstop (wasei: back net)
+バックハンド	[bakkuhando]	(n) backhand
+バックボーン	[bakkubo-n]	(n) {comp} backbone (e.g. of a network)
+バッグ	[baggu]	(n) bag
+バッジ	[bajji]	(n) badge
+バッティング	[battingu]	(n) (1) batting
+バッテリー	[batteri-]	(n) (1) battery
+バット	[batto]	(n) (1) bat (in baseball, cricket, etc.)
+バットマン	[battoman]	(n) batman
+バッドマーク	[baddoma-ku]	(n) bad mark
+バッハ	[bahha]	(n) Bach
+バトン	[baton]	(n) baton (relay, orchestral conducting, etc.)
+バトンタッチ	[batontacchi]	(n,vs) baton pass (wasei: baton touch)
+バドミントン	[badominton]	(n) badminton
+バナナ	[banana]	(n) banana
+バニラ	[banira]	(n) vanilla
+バファリン	[bafarin]	(n-pr) (See アスピリン) Bufferin
+バブル	[baburu]	(n) (1) bubble
+バプテスト	[baputesuto]	(n) Baptist
+バムバム	[bamubamu]	(n) bawm bawm (phenomenon) (name of Japanese pop song)
+バラード	[bara-do]	(n) (1) ballade (narrative poetry, musical composition) (fre:)
+バラエティ	[baraeti]	(n) variety
+バラック	[barakku]	(n) barracks
+バラバラ	[barabara]	(adj-na,adj-no,adv,vs) (on-mim) scattered
+バランス	[baransu]	(n,vs) balance
+バランスシート	[baransushi-to]	(n) balance sheet
+バリア	[baria]	(n) barrier
+バリウム	[bariumu]	(n) barium (Ba)
+バリエーション	[barie-shon]	(n) variation
+バリカン	[barikan]	(n) barber's clippers (fre: Barriquand (et Marre))
+バリケード	[barike-do]	(n) barricade
+バリトン	[bariton]	(n) baritone
+バルーン	[baru-n]	(n) balloon
+バルカンラバー	[barukanraba-]	(n) vulcanized rubber
+バルコニー	[barukoni-]	(n) balcony
+バルセロナ	[baruserona]	(n) Barcelona
+バルト	[baruto]	(n) Baltic
+バルブ	[barubu]	(n) (1) (バルブ only) bulb
+バレー	[bare-]	(n) (1) (abbr) (See バレーボール) volleyball
+バレーボール	[bare-bo-ru]	(n) volleyball
+バレエ	[baree]	(n) ballet (fre:)
+バレリーナ	[bareri-na]	(n) ballerina (ita:)
+バレル	[bareru]	(n) barrel
+バレンタイン	[barentain]	(n) Valentine
+バレンタインデー	[barentainde-]	(n) Valentine's Day
+バロック	[barokku]	(n) baroque (fre:)
+バロメーター	[barome-ta-]	(n) barometer
+バン	[ban]	(n) (1) bun
+バンカー	[banka-]	(n) (1) banker
+バンク	[banku]	(n) bank
+バンクーバー	[banku-ba-]	(n) Vancouver
+バンコク	[bankoku]	(n) (also written as 盤谷) Bangkok
+バンス	[bansu]	(n) (abbr) advance
+バント	[banto]	(n,vs) bunt
+バンド	[bando]	(n) (1) band
+バンパー	[banpa-]	(n) bumper
+パー	[pa-]	(n) (1) par
+パーカー	[pa-ka-]	(n) hooded sweatshirt
+パーカッション	[pa-kasshon]	(n) percussion
+パーキング	[pa-kingu]	(n) parking
+パーク	[pa-ku]	(n,vs) park
+パージ	[pa-ji]	(n,vs) purge
+パース	[pa-su]	(n) (1) pass
+パーセプトロン	[pa-seputoron]	(n) perceptron
+パーセント	[pa-sento]	(n) percent
+パーソナリティー	[pa-sonariti-]	(n) (1) personality
+パーソナル	[pa-sonaru]	(adj-na,n) personal
+パーツ	[pa-tsu]	(n) part
+パーティ	[pa-ti]	(n) party
+パート	[pa-to]	(n) (1) part
+パートタイマー	[pa-totaima-]	(n) part-timer
+パートタイム	[pa-totaimu]	(n) (See アルバイト・1) part time (esp. female part time employees)
+パートナー	[pa-tona-]	(n) partner
+パーフェクト	[pa-fekuto]	(adj-na,n) perfect
+パープル	[pa-puru]	(n) purple
+パープレー	[pa-pure-]	(n) par play
+パーマ	[pa-ma]	(n) (abbr) (See パーマネントウエーブ) permanent wave
+パームボール	[pa-mubo-ru]	(n) palm ball
+パーラー	[pa-ra-]	(n) (1) parlor
+パール	[pa-ru]	(n) (1) pearl
+パーレン	[pa-ren]	(n) parentheses
+パイ	[pai]	(n) pie
+パイオニア	[paionia]	(n) pioneer
+パイナップル	[painappuru]	(n) pineapple (Ananas comosus)
+パイプ	[paipu]	(n) (1) pipe
+パイロット	[pairotto]	(n) pilot
+パインジュース	[painju-su]	(n) pineapple juice
+パウダー	[pauda-]	(n) powder
+パゴダ	[pagoda]	(n) pagoda
+パサパサ	[pasapasa]	(adj-na,vs,adv,adj-no) (on-mim) state of being dried out
+パシフィック	[pashifikku]	(n) Pacific
+パジャマ	[pajama]	(n,adj-no) pajamas
+パス	[pasu]	(n) (1) path
+パスカル	[pasukaru]	(n) (1) pascal (unit of pressure)
+パスケース	[pasuke-su]	(n) (See 定期入れ・ていきいれ) commuter pass container (wasei: pass case)
+パスタ	[pasuta]	(n) pasta (ita:)
+パステル	[pasuteru]	(n) pastel
+パスポート	[pasupo-to]	(n) passport
+パスワード	[pasuwa-do]	(n) {comp} (computer) password
+パズル	[pazuru]	(n) puzzle
+パセリ	[paseri]	(n) parsley (Petroselinum crispum)
+パソコン	[pasokon]	(n,adj-no) (abbr) {comp} personal computer
+パソコンショップ	[pasokonshoppu]	(n) {comp} (See パソコン) computer shop
+パター	[pata-]	(n) putter
+パターン	[pata-n]	(n) (1) pattern
+パチパチ	[pachipachi]	(adv,adv-to,vs) (1) (on-mim) crackling
+パチンコ	[pachinko]	(n,vs) (1) pachinko
+パッキング	[pakkingu]	(n) (1) packing
+パック	[pakku]	(n,vs) (1) pack
+パッケージ	[pakke-ji]	(n,vs) package
+パッション	[passhon]	(n) (1) passion
+パッシング	[passhingu]	(n) passing
+パッチワーク	[pacchiwa-ku]	(n) patchwork
+パッティング	[pattingu]	(n,vs) (1) patting
+パット	[patto]	(n,vs) (1) putt
+パッド	[paddo]	(n) pad
+パテ	[pate]	(n) (1) putty
+パティオ	[patio]	(n) patio
+パトカー	[patoka-]	(n) (abbr) (See パトロールカー) patrol car
+パトリオティズム	[patoriotizumu]	(n) patriotism
+パトロール	[patoro-ru]	(n,vs) patrol
+パトロン	[patoron]	(n) (1) patron (of the arts, an artist, etc.)
+パドック	[padokku]	(n) paddock
+パドル	[padoru]	(n) paddle
+パニック	[panikku]	(n) panic
+パネラー	[panera-]	(n) panellist (panelist) (wasei: paneler)
+パネリスト	[panerisuto]	(n) panelist
+パネル	[paneru]	(n) panel
+パノラマ	[panorama]	(n,adj-no) panorama
+パパ	[papa]	(n) Papa
+パパイア	[papaia]	(n) papaya
+パビリオン	[pabirion]	(n) pavilion
+パフォーマンス	[pafo-mansu]	(n) (See 演奏・えんそう) performance (e.g. music, dance, pantomime, etc.)
+パブ	[pabu]	(n) pub
+パブリシティー	[paburishiti-]	(n) publicity
+パブリック	[paburikku]	(adj-na,n) public
+パラグライダー	[paraguraida-]	(n) paraglider
+パラシュート	[parashu-to]	(n) parachute
+パラソル	[parasoru]	(n) parasol
+パラダイス	[paradaisu]	(n) paradise
+パラダイム	[paradaimu]	(n) paradigm
+パラドックス	[paradokkusu]	(n) paradox
+パラパラ	[parapara]	(n) (1) disco dancing with synchronized arm motions
+パラボラ	[parabora]	(n) parabola
+パラボラアンテナ	[paraboraantena]	(n) parabolic antenna (wasei: parabola antenna)
+パラリンピック	[pararinpikku]	(n) Paralympics
+パリーグ	[pari-gu]	(n) (abbr) (See パシフィックリーグ) Pacific League
+パルサー	[parusa-]	(n) {astron} pulsar
+パルス	[parusu]	(n) pulse
+パルチザン	[paruchizan]	(n) partisan (fre:)
+パルプ	[parupu]	(n,vs) pulp
+パレード	[pare-do]	(n,vs) parade
+パレス	[paresu]	(n) palace
+パレスチナ	[paresuchina]	(n) Palestine (lat:)
+パレット	[paretto]	(n) palette
+パロディー	[parodi-]	(n) parody
+パワー	[pawa-]	(n) power
+パワーアップ	[pawa-appu]	(n,vs) making more powerful (wasei: power up)
+パワーステアリング	[pawa-sutearingu]	(n) power steering
+パワフル	[pawafuru]	(adj-na,n) powerful
+パン	[pan]	(n) (1) (originally written 麺麭 or 麪包) bread (por: pão)
+パンアメリカニズム	[pan'amerikanizumu]	(n) Pan-Americanism
+パンク	[panku]	(n,vs) (1) (abbr) puncture
+パンジー	[panji-]	(n) pansy (Viola tricolor hortensis)
+パンタグラフ	[pantagurafu]	(n) pantograph
+パンダ	[panda]	(n) panda
+パンチ	[panchi]	(n,vs) (1) punch (a strike with the fist)
+パンチパーマ	[panchipa-ma]	(n) curly men's hairstyle, usu. associated with yakuza or delinquents (wasei: punch permanent)
+パンツ	[pantsu]	(n) (1) underpants
+パンティー	[panti-]	(n) panties
+パント	[panto]	(n) (abbr) punt kick (rugby)
+パントマイム	[pantomaimu]	(n) pantomime
+パンパス	[panpasu]	(n,adj-no) pampas
+パンフ	[panfu]	(n) (abbr) pamphlet
+パンフレット	[panfuretto]	(n) brochure
+パンプス	[panpusu]	(n) pumps
+ヒーター	[hi-ta-]	(n) heater
+ヒート	[hi-to]	(n,vs) heat
+ヒール	[hi-ru]	(n) (1) heel
+ヒーロー	[hi-ro-]	(n) hero
+ヒア	[hia]	(n) (1) hear
+ヒエラグリフ	[hieragurifu]	(n) hieroglyph
+ヒステリー	[hisuteri-]	(n) hysteria (ger: Hysterie)
+ヒステリック	[hisuterikku]	(adj-na,n) hysteric
+ヒッチハイク	[hicchihaiku]	(n) hitch-hike
+ヒット	[hitto]	(n,vs) (1) {baseb} hit
+ヒッピー	[hippi-]	(n,adj-no) (1) hippy
+ヒップ	[hippu]	(n) (1) hips
+ヒマラヤ	[himaraya]	(n) Himalaya
+ヒヤリング	[hiyaringu]	(n) (1) hearing
+ヒューズ	[hyu-zu]	(n) fuse
+ヒューマニズム	[hyu-manizumu]	(n) humanism
+ヒューマン	[hyu-man]	(adj-na,n) human
+ヒレ	[hire]	(n) fillet (fre: filet)
+ヒロイズム	[hiroizumu]	(n) heroism
+ヒロイン	[hiroin]	(n) (See ヒーロー) heroine
+ヒンジ	[hinji]	(n) hinge
+ヒンズー	[hinzu-]	(n) Hindu
+ヒント	[hinto]	(n) hint
+ビーカ	[bi-ka]	(n) beaker
+ビーグル	[bi-guru]	(n) beagle
+ビースト	[bi-suto]	(n) beast
+ビーズ	[bi-zu]	(n) beads
+ビーチ	[bi-chi]	(n) beach
+ビーチサンダル	[bi-chisandaru]	(n) beach sandals
+ビート	[bi-to]	(n) (1) beet
+ビートルズ	[bi-toruzu]	(n-pr) Beatles
+ビーナス	[bi-nasu]	(n) Venus
+ビーバー	[bi-ba-]	(n) (1) (usu. ビーバー or ビーバ) beaver
+ビーフ	[bi-fu]	(n) beef
+ビーム	[bi-mu]	(n) beam
+ビール	[bi-ru]	(n) (ビール is sometimes written as 麦酒) (See 麦酒) beer (dut: bier, eng:)
+ビーンズ	[bi-nzu]	(n) beans
+ビアガーデン	[biaga-den]	(n) beer garden
+ビエンナーレ	[bien'na-re]	(n) (See トリエンナーレ) biennale (biennial art exhibition) (ita:)
+ビオラ	[biora]	(n) viola (ita:)
+ビキニ	[bikini]	(n) (1) bikini (swimwear)
+ビギナー	[bigina-]	(n) beginner
+ビクター	[bikuta-]	(n) victor
+ビクトリー	[bikutori-]	(n) victory
+ビクトリア	[bikutoria]	(n) Victoria
+ビクビク	[bikubiku]	(adv-to,adv,vs,adj-no) (1) (on-mim) being afraid of
+ビザ	[biza]	(n) visa
+ビジター	[bijita-]	(n) visitor
+ビジネス	[bijinesu]	(n) business
+ビジネスマン	[bijinesuman]	(n) businessman
+ビジネスライク	[bijinesuraiku]	(adj-na,n) businesslike
+ビジュアル	[bijuaru]	(adj-na,n,vs) visual
+ビジョン	[bijon]	(n) vision
+ビス	[bisu]	(n) (1) screw (fre: vis)
+ビスケット	[bisuketto]	(n) cookie
+ビスタカー	[bisutaka-]	(n) vista (dome) car
+ビタミン	[bitamin]	(n,adj-no) vitamin (ger:)
+ビッグ	[biggu]	(adj-na,n) big
+ビッグイベント	[bigguibento]	(n) big event
+ビッグバン	[bigguban]	(n) {astron;finc} (See 宇宙大爆発・うちゅうだいばくはつ) big bang
+ビット	[bitto]	(n) {comp} bit
+ビデオ	[bideo]	(n) video
+ビデオテープ	[bideote-pu]	(n) video tape
+ビニール	[bini-ru]	(n,adj-no) (1) vinyl
+ビバーク	[biba-ku]	(n,vs) bivouac (fre: bivouac, ger: Biwak)
+ビビッド	[bibiddo]	(adj-na) vivid
+ビフィズス	[bifizusu]	(n) (abbr) Lactobacillus bifidus
+ビュー	[byu-]	(n) view
+ビューティフル	[byu-tifuru]	(adj-na) beautiful
+ビューロー	[byu-ro-]	(n) bureau
+ビュッフェ	[byuffe]	(n) (See 立食) buffet (fre:)
+ビラ	[bira]	(n) holiday house (ita:)
+ビリヤード	[biriya-do]	(n) billiards
+ビル	[biru]	(n) (1) (abbr) (See ビルディング) multi-floor building
+ビルディング	[birudingu]	(n) building
+ビルトイン	[birutoin]	(adj-f) built-in
+ビルボード	[birubo-do]	(n) billboard
+ビレッジ	[birejji]	(n) village
+ビンゴ	[bingo]	(n) bingo
+ピーアール	[pi-a-ru]	(n,vs) PR
+ピーク	[pi-ku]	(n) (1) peak
+ピース	[pi-su]	(n) (1) peace
+ピーターパンシンドローム	[pi-ta-panshindoro-mu]	(n) Peter Pan syndrome
+ピーチ	[pi-chi]	(n) peach
+ピーナッツ	[pi-nattsu]	(n) peanut
+ピーピングトム	[pi-pingutomu]	(n) Peeping Tom
+ピープル	[pi-puru]	(n) people
+ピープルズキャピタリズム	[pi-puruzukyapitarizumu]	(n) people's capitalism
+ピーマン	[pi-man]	(n) bell pepper (fre: piment)
+ピアジェ	[piaje]	(n) Piaget
+ピアス	[piasu]	(n) (1) earrings (for pierced ears) (eng: pierce)
+ピアニスト	[pianisuto]	(n) pianist
+ピアノ	[piano]	(n) piano
+ピエロ	[piero]	(n) clown (fre: pierrot)
+ピカソ	[pikaso]	(n) Picasso
+ピカピカ	[pikapika]	(adj-na,adv-to,n,adj-no) (on-mim) glitter
+ピクチャー	[pikucha-]	(n) picture
+ピクニック	[pikunikku]	(n) picnic
+ピケ	[pike]	(n) (1) pique (fre:)
+ピコ	[piko]	(n,pref) pico-
+ピザ	[piza]	(n) (1) pizza (ita:)
+ピストル	[pisutoru]	(n) pistol
+ピストン	[pisuton]	(n) piston
+ピッキング	[pikkingu]	(n) (1) picking (esp. distributor picking up merchandise from a storage facility)
+ピック	[pikku]	(n) pick
+ピックアップサービス	[pikkuappusa-bisu]	(n) pickup service
+ピッチ	[picchi]	(n) (1) pitch (i.e. pace, speed, angle, space, field, sound, etc.)
+ピッチャー	[piccha-]	(n) pitcher
+ピッチング	[picchingu]	(n,vs) pitching
+ピット	[pitto]	(n) pit
+ピュア	[pyua]	(adj-na,n) pure
+ピラニア	[pirania]	(n) piranha (por:)
+ピラフ	[pirafu]	(n) pilaf
+ピラミッド	[piramiddo]	(n) pyramid
+ピリ	[piri]	(n) (abbr) (See ピリオド・1) period
+ピリオド	[piriodo]	(n) (1) period
+ピリピリ	[piripiri]	(adv-to,n,vs) (on-mim) tingle
+ピル	[piru]	(n) (1) pill
+ピン	[pin]	(n) (1) pin (e.g. hairpin, bowling pin, golf pin, etc.)
+ピンク	[pinku]	(n,adj-no) (1) pink
+ピンセット	[pinsetto]	(n) tweezers (fre: pincette, dut: pincet)
+ピンチ	[pinchi]	(n) (1) crisis (eng: pinch)
+ピンチヒッター	[pinchihitta-]	(n) pinch hitter
+ピント	[pinto]	(n) (1) focus point (dut: brandpunt)
+ピンポイント	[pinpointo]	(n) pinpoint
+ピンポン	[pinpon]	(n) (1) ping-pong
+フーガ	[fu-ga]	(n) {music} fugue (ita: fuga)
+フード	[fu-do]	(n) (1) hood
+ファー	[fa-]	(n) (1) fur
+ファースト	[fa-suto]	(n,adj-no) (1) (usu. ファースト) first
+ファーム	[fa-mu]	(n) (1) farm
+ファイア	[faia]	(n) fire
+ファイアウォール	[faiawo-ru]	(n) {comp} firewall
+ファイター	[faita-]	(n) fighter
+ファイティングスピリット	[faitingusupiritto]	(n) fighting spirit
+ファイト	[faito]	(n) (1) fight
+ファイナル	[fainaru]	(n) final
+ファイナルセット	[fainarusetto]	(n) final set
+ファイナンス	[fainansu]	(n) finance
+ファイバー	[faiba-]	(n) fiber
+ファイブスター	[faibusuta-]	(n) five-star
+ファイリングシステム	[fairingushisutemu]	(n) filing system
+ファイル	[fairu]	(n,vs) file
+ファインダー	[fainda-]	(n) finder
+ファインプレー	[fainpure-]	(n) {sports} fine play
+ファウル	[fauru]	(n,vs) {sports} foul
+ファクシミリ	[fakushimiri]	(n) (1) facsimile
+ファクス	[fakusu]	(n) (abbr) fax
+ファクター	[fakuta-]	(n) factor
+ファクトリー	[fakutori-]	(n) factory
+ファシスト	[fashisuto]	"(n) (ファシスタ from Italian ""fascista"") fascist"
+ファシズム	[fashizumu]	(n) fascism
+ファシリティー	[fashiriti-]	(n) facility
+ファジー	[faji-]	(n) fuzzy
+ファストフード	[fasutofu-do]	(n) fast-food
+ファスナー	[fasuna-]	(n) fastener
+ファック	[fakku]	(n,vs) (vulg) (col) fuck
+ファックス	[fakkusu]	(n) (See ファクシミリ・2) facsimile
+ファッショ	[fassho]	(n,adj-na,adj-no) faschia (ita: fascio)
+ファッショナブル	[fasshonaburu]	(adj-na) fashionable
+ファッション	[fasshon]	(n) fashion
+ファッションショー	[fasshonsho-]	(n) fashion show
+ファミコン	[famikon]	(n) (abbr) {comp} (See ファミリーコンピューター) Nintendo Entertainment System
+ファミリー	[famiri-]	(n) family
+ファミリア	[famiria]	(n) familiar
+ファラウェイ	[farawei]	(n) far away
+ファルス	[farusu]	(n,adj-no) (1) farce (fre:)
+ファン	[fan]	(n) (1) fan
+ファンキー	[fanki-]	(adj-na,n) funky
+ファンク	[fanku]	(n,adj-no) funk
+ファンクラブ	[fankurabu]	(n) fan club
+ファンサイト	[fansaito]	(n) {comp} fan site (WWW)
+ファンタジー	[fantaji-]	(n) fantasy
+ファンタスティック	[fantasutikku]	(adj-na) fantastic
+ファンダメンタルズ	[fandamentaruzu]	(n) fundamentals
+ファンデーション	[fande-shon]	(n) foundation (garment, cream, etc.)
+ファントム	[fantomu]	(n) phantom
+ファンド	[fando]	(n) fund
+フィーダ	[fi-da]	(n) feeder
+フィート	[fi-to]	(n) feet
+フィードバック	[fi-dobakku]	(n,vs) feedback
+フィーバー	[fi-ba-]	(n,vs) fever
+フィーリング	[fi-ringu]	(n) feeling
+フィールド	[fi-rudo]	(n) field
+フィールドワーク	[fi-rudowa-ku]	(n) fieldwork
+フィアンセ	[fianse]	(n) fiance (fre:)
+フィギュア	[figyua]	(n) (1) figure
+フィクサー	[fikusa-]	(n) fixer
+フィクション	[fikushon]	(n) fiction
+フィスカルポリシー	[fisukaruporishi-]	(n) fiscal policy
+フィッシュ	[fisshu]	(n) (1) fish
+フィッティング	[fittingu]	(n) fitting
+フィット	[fitto]	(n,vs) fit
+フィットネス	[fittonesu]	(n) fitness
+フィナカップ	[finakappu]	(n) Fédération Internationale de Natation Amateur cup
+フィニッシュ	[finisshu]	(n,vs) finish
+フィフティーフィフティー	[fifuti-fifuti-]	(n) fifty-fifty
+フィヨルド	[fiyorudo]	(n) fjord
+フィラデルフィア	[firaderufia]	(n) Philadelphia
+フィルター	[firuta-]	(n) filter (esp. camera)
+フィルダースチョイス	[firuda-suchoisu]	(n) {baseb} fielder's choice
+フィルハーモニー	[firuha-moni-]	(n) philharmonie (ger:)
+フィルム	[firumu]	(n) film
+フィン	[fin]	(n) fin
+フェース	[fe-su]	(n) face
+フェア	[fea]	(adj-na,n) (1) fair
+フェアウェイ	[feawei]	(n) fairway
+フェアプレー	[feapure-]	(n) fair play
+フェイク	[feiku]	(n,vs) fake
+フェイス	[feisu]	(n) face
+フェイント	[feinto]	(n) feint
+フェスティバル	[fesutibaru]	(n) festival (esp. music, film, etc.)
+フェデレーション	[federe-shon]	(n) federation
+フェニックス	[fenikkusu]	(n) (1) phoenix (bird of Egyptian mythology) (lat:)
+フェミニスト	[feminisuto]	(n) (1) man who indulges women (eng: feminist)
+フェミニズム	[feminizumu]	(n) feminism
+フェラチオ	[ferachio]	(n) fellatio
+フェリー	[feri-]	(n) ferry
+フェルト	[feruto]	(n) felt
+フェレット	[feretto]	(n) (See 白鼬) ferret (Mustela putorius furo)
+フェローシップ	[fero-shippu]	(n) fellowship
+フェロモン	[feromon]	(n) pheromone
+フェンシング	[fenshingu]	(n) fencing
+フェンス	[fensu]	(n) fence
+フォーカス	[fo-kasu]	(n,vs) (1) focus
+フォーク	[fo-ku]	(n) (1) fork
+フォークソング	[fo-kusongu]	(n) folk song
+フォークボール	[fo-kubo-ru]	(n) {baseb} forkball
+フォース	[fo-su]	(n) (1) force
+フォーチュン	[fo-chun]	(n) fortune
+フォートラン	[fo-toran]	(n) (abbr) {comp} formula translation (computer language)
+フォード	[fo-do]	(n) (1) ford
+フォーマット	[fo-matto]	(n,vs) {comp} (computer) format
+フォーマル	[fo-maru]	(adj-na,n) formal
+フォーミュラカー	[fo-myuraka-]	(n) formula car
+フォーム	[fo-mu]	(n) (1) foam
+フォーメーション	[fo-me-shon]	(n) formation
+フォーラム	[fo-ramu]	(n) forum
+フォール	[fo-ru]	(n,vs) fall
+フォールト	[fo-ruto]	(n) fault
+フォア	[foa]	(n) (1) four
+フォアグラ	[foagura]	(n) foie gras (fre:)
+フォアハンド	[foahando]	(n) forehand
+フォアボール	[foabo-ru]	(n) {baseb} base on balls (wasei: four balls)
+フォアマン	[foaman]	(n) foreman
+フォスターチャイルド	[fosuta-chairudo]	(n) foster child
+フォックストロット	[fokkusutorotto]	(n) fox-trot
+フォト	[foto]	(n) photo
+フォロー	[foro-]	(n,vs) (1) follow
+フォワード	[fowa-do]	(n) (1) {sports} (See バックス・1) forward
+フォン	[fon]	(n) (1) (See ホン) phon (unit of loudness)
+フッカー	[fukka-]	(n) hooker
+フック	[fukku]	(n,vs) hook (fishing, golf, boxing, etc.)
+フットボール	[futtobo-ru]	(n) (See サッカーボール) football (incl. soccer, rugby, American football, etc.; esp. used for soccer)
+フットワーク	[futtowa-ku]	(n) footwork
+フュージョン	[fu-jon]	(n) fusion
+フューチャー	[fu-cha-]	(n) future
+フライ	[furai]	(n,n-pref) (1) fried seafood or vegetables in general
+フライト	[furaito]	(n,vs) (1) flight
+フライドチキン	[furaidochikin]	(n) fried chicken
+フライパン	[furaipan]	(n) fry pan
+フライホイール	[furaihoi-ru]	(n) flywheel
+フライング	[furaingu]	(n,vs) (1) flying
+フラスコ	[furasuko]	(n) (1) (usu. フレスコ) fresco (technique of blending wet plaster with water based paint) (ita:, spa:)
+フラストレーション	[furasutore-shon]	(n) frustration
+フラッグ	[furaggu]	(n) flag
+フラッシュ	[furasshu]	(n) (1) flash
+フラップ	[furappu]	(n) flap
+フラメンコ	[furamenko]	(n) flamenco
+フラワーアレンジメント	[furawa-arenjimento]	(n) flower arrangement
+フラン	[furan]	(n) (1) franc (fre:)
+フランク	[furanku]	(adj-na,n) frank
+フランスパン	[furansupan]	(n) French bread (wasei: France pan)
+フランチャイズ	[furanchaizu]	(n) franchise
+フリー	[furi-]	(adj-na) (1) free (of restraint, controls, etc.)
+フリーエージェント	[furi-e-jento]	(n) free agent
+フリーキック	[furi-kikku]	(n) {sports} free kick
+フリースタイル	[furi-sutairu]	(n) freestyle
+フリーズ	[furi-zu]	(n) (1) frieze
+フリーター	[furi-ta-]	(n) (abbr) (from freelance and arbeiter) young people subsisting on part-time work
+フリーダイヤル	[furi-daiyaru]	(n) (1) toll-free number (wasei: free dial)
+フリーダム	[furi-damu]	(adj-na,adj-no) (1) free
+フリーハンド	[furi-hando]	(n) free-hand
+フリーパス	[furi-pasu]	(n) free pass
+フリーマーケット	[furi-ma-ketto]	(n) flea market
+フリーランサー	[furi-ransa-]	(n) (See 自由業,フリーランス) freelancer
+フリーランス	[furi-ransu]	(n,adj-no) freelance
+フリゲート	[furige-to]	(n) frigate
+フリッカー	[furikka-]	(n) flicker
+フリップフロップ	[furippufuroppu]	(n) {comp} flip flop
+フリンジ	[furinji]	(n) fringe
+フル	[furu]	(adj-na,n) full
+フルーツ	[furu-tsu]	(n) fruit
+フルート	[furu-to]	(n) flute
+フレー	[fure-]	(n) hurray
+フレーズ	[fure-zu]	(n) (1) phrase
+フレーバー	[fure-ba-]	(n) flavor
+フレーム	[fure-mu]	(n) (1) frame
+フレアー	[furea-]	(n,adj-no) flare
+フレキシブル	[furekishiburu]	(adj-na,n) flexible
+フレックス	[furekkusu]	(n) flex
+フレッシュ	[furesshu]	(adj-na,n) (1) fresh
+フレッシュマン	[furesshuman]	(n) (1) freshman
+フレンズ	[furenzu]	(n) friends
+フレンチ	[furenchi]	(n) French
+フレンド	[furendo]	(n) friend
+フレンドリー	[furendori-]	(adj-na) friendly
+フロー	[furo-]	(n) flow
+フローズンフード	[furo-zunfu-do]	(n) frozen food
+フロート	[furo-to]	(n) (1) float
+フローリング	[furo-ringu]	(n) wooden flooring
+フロア	[furoa]	(n) (1) floor
+フロスト	[furosuto]	(n) frost
+フロック	[furokku]	(n) (1) fluke
+フロッピー	[furoppi-]	(n) (1) (abbr) {comp} floppy (disk)
+フロッピーディスク	[furoppi-disuku]	(n) {comp} (See フロッピー) floppy disk
+フロリダ	[furorida]	(n,adj-no) Florida
+フロン	[furon]	(n) (abbr) (See フルオロカーボン,クロロフルオロカーボン) fluorocarbon
+フロンガス	[furongasu]	(n) chlorofluorocarbon gas
+フロンティア	[furontia]	(n) frontier
+フロント	[furonto]	(n) (1) front (aspect, weather, war-front, etc.)
+フワフワ	[fuwafuwa]	(adv-to,adv,vs) (1) (on-mim) lightly (floating, drifting, etc.)
+ブーイング	[bu-ingu]	(n,vs) booing
+ブーケ	[bu-ke]	(n) bouquet (fre:)
+ブース	[bu-su]	(n) booth
+ブーツ	[bu-tsu]	(n) boots
+ブーム	[bu-mu]	(n,n-suf) boom
+ブーメラン	[bu-meran]	(n) (1) boomerang
+ブール	[bu-ru]	(n) (1) (ブール only) boule (round loaf of white bread) (fre:)
+ブイ	[bui]	(n) buoy
+ブザー	[buza-]	(n) buzzer
+ブタン	[butan]	(n) butane
+ブッカー	[bukka-]	(n) booker
+ブック	[bukku]	(n) book
+ブックメーカー	[bukkume-ka-]	(n) bookmaker
+ブックレット	[bukkuretto]	(n) booklet
+ブッシュ	[busshu]	(n) bush
+ブティック	[butikku]	(n,adj-no) boutique
+ブライダル	[buraidaru]	(adj-f) (1) bridal
+ブラインド	[buraindo]	(n) window blind
+ブラウス	[burausu]	(n) blouse
+ブラシ	[burashi]	(n) (1) brush
+ブラジャー	[buraja-]	(n) bra
+ブラチスラバ	[burachisuraba]	(n) Bratislava
+ブラック	[burakku]	(n) black
+ブラッシー	[burasshi-]	(n) (1) brassie (type of golf club)
+ブラボー	[burabo-]	(int) bravo (ita:)
+ブランク	[buranku]	(n,adj-na) (1) blank
+ブランチ	[buranchi]	(n) (1) branch
+ブランデー	[burande-]	(n) brandy
+ブランド	[burando]	(n) (1) brand
+ブリージング	[buri-jingu]	(n) breathing
+ブリーフ	[buri-fu]	(n) briefs
+ブリスベン	[burisuben]	(n) Brisbane
+ブリタニア	[buritania]	(n) Britannia
+ブリッジ	[burijji]	(n) bridge
+ブリュッセル	[buryusseru]	(n) Brussels (fre: Bruxelles, dut: Brussel)
+ブル	[buru]	(n,adj-no) (1) bull
+ブルー	[buru-]	(adj-na,n) (1) blue (colour, color)
+ブルーカラー	[buru-kara-]	(n) blue-collar worker
+ブルース	[buru-su]	(n) {music} blues
+ブルーバード	[buru-ba-do]	(n) bluebird
+ブルジョワ	[burujowa]	(n,adj-f) bourgeois (fre:)
+ブルセラ	[burusera]	(n) (sl) (from ブルマー and セーラー服) used women's clothing such as bloomers and high-school sailor-suit uniforms (esp. as a source of sexual arousal)
+ブルゾン	[buruzon]	(n) blouson (fre:)
+ブルネット	[burunetto]	(n) brunette
+ブルペン	[burupen]	(n) bull pen
+ブレーカー	[bure-ka-]	(n) breaker
+ブレーキ	[bure-ki]	(n) brake
+ブレード	[bure-do]	(n) (1) blade
+ブレーン	[bure-n]	(n) (1) brain (organ)
+ブレイク	[bureiku]	(n,vs) (1) (See 休憩) break (rest)
+ブレザー	[bureza-]	(n) blazer
+ブレスト	[buresuto]	(n) (1) breast
+ブレスレット	[buresuretto]	(n) bracelet
+ブレッド	[bureddo]	(n) bread
+ブレンド	[burendo]	(n,vs) blend
+ブロー	[buro-]	(n,vs) (1) blow-drying
+ブローカー	[buro-ka-]	(n) broker
+ブローチ	[buro-chi]	(n) brooch
+ブロード	[buro-do]	(n) (abbr) broadcloth
+ブロイラー	[buroira-]	(n) broiler
+ブログ	[burogu]	(n) blog
+ブロッカー	[burokka-]	(n) blocker
+ブロック	[burokku]	(vs) (1) to block (e.g. the way)
+ブロマイド	[buromaido]	(n) (1) bromide
+ブロンズ	[buronzu]	(n,adj-no) bronze
+ブンド	[bundo]	(n) bond (ger: Bund)
+プール	[pu-ru]	(n) (1) (swimming) pool
+プチ	[puchi]	(pref) small (fre: petit)
+プッシュ	[pusshu]	(n,vs) push
+プッシュホン	[pusshuhon]	(n) push-button telephone (wasei: push phone)
+プラーグ	[pura-gu]	(n) Prague
+プライス	[puraisu]	(n) price
+プライド	[puraido]	(n) pride
+プライバシー	[puraibashi-]	(n) privacy
+プライベート	[puraibe-to]	(adj-na) (1) private
+プライムタイム	[puraimutaimu]	(n) prime time
+プライムレート	[puraimure-to]	(n) prime (lending) rate
+プラカード	[puraka-do]	(n) placard
+プラグ	[puragu]	(n) plug
+プラグマティズム	[puragumatizumu]	(n) pragmatism
+プラザ	[puraza]	(n) plaza
+プラス	[purasu]	(n,vs) (1) plus
+プラスチック	[purasuchikku]	(n) plastic
+プラズマ	[purazuma]	(n) plasma
+プラチナ	[purachina]	(n) platinum (spa: platina)
+プラットホーム	[purattoho-mu]	(n) platform
+プラネタリウム	[puranetariumu]	(n) planetarium
+プラハ	[puraha]	(n) Prague
+プラモデル	[puramoderu]	(n) (abbr) plastic model
+プラン	[puran]	(n) plan
+プランクトン	[purankuton]	(n) plankton
+プランター	[puranta-]	(n) planter
+プランタン	[purantan]	(n) springtime (fre: printemps)
+プラント	[puranto]	(n) plant (i.e. equipment, machinery, etc.)
+プランナー	[puran'na-]	(n) (1) planner
+プランニング	[puran'ningu]	(n) planning
+プリ	[puri]	(n) pre-
+プリーツ	[puri-tsu]	(n,adj-no) pleat
+プリズム	[purizumu]	(n,adj-no) prism
+プリティ	[puriti]	(n) pretty
+プリン	[purin]	(n) (1) (abbr) (See プディング) (custard) pudding
+プリンス	[purinsu]	(n) prince
+プリンセス	[purinsesu]	(n) princess
+プリンター	[purinta-]	(n) printer
+プリント	[purinto]	(n,vs) (1) print
+プルークボーゲン	[puru-kubo-gen]	(n) snowplow turn (ger: Pflugbogen)
+プルトニウム	[purutoniumu]	(n) plutonium (Pu)
+プレーオフ	[pure-ofu]	(n) play-off
+プレート	[pure-to]	"(n) plate (often as in ""tectonic plate"")"
+プレーボール	[pure-bo-ru]	(n) (1) play ball
+プレーン	[pure-n]	(adj-na) (1) plain
+プレイ	[purei]	(n,vs,n-suf) (1) play
+プレイガール	[pureiga-ru]	(n) playgirl
+プレイボーイ	[pureibo-i]	(n) playboy
+プレイヤー	[pureiya-]	(n) (1) player
+プレイリスト	[pureirisuto]	(n) playlist
+プレジデント	[purejidento]	(n) president
+プレス	[puresu]	(n,vs) (1) pressing
+プレスクラブ	[puresukurabu]	(n) press club
+プレスセンター	[puresusenta-]	(n) press center
+プレスリリース	[puresuriri-su]	(n) press release
+プレゼンテーション	[purezente-shon]	(n,vs) presentation
+プレゼント	[purezento]	(n) (1) present
+プレタポルテ	[puretaporute]	(n) ready-made clothing (fre: prêt-à-porter)
+プレッシャー	[puressha-]	(n) pressure
+プレトリア	[puretoria]	(n) Pretoria
+プレハブ	[purehabu]	(n,adj-no) prefab (usu. prefabricated house)
+プレミアム	[puremiamu]	(n) premium
+プレリュード	[pureryu-do]	(n) prelude
+プロ	[puro]	(n,adj-no) professional
+プログラム	[puroguramu]	(n,vs) {comp} program
+プロジェクター	[purojekuta-]	(n) projector
+プロジェクト	[purojekuto]	(n) project
+プロセス	[purosesu]	(n) process
+プロセッサー	[purosessa-]	(n) processor
+プロダクション	[purodakushon]	(n) production
+プロダクト	[purodakuto]	(n) product
+プロップジェット	[puroppujetto]	(n) propjet
+プロテスタント	[purotesutanto]	(n) protestant
+プロデューサー	[purodexyu-sa-]	(n) producer (film, TV, etc.)
+プロデュース	[purodexyu-su]	(vs) (1) to produce (e.g. movie, play, show, event, musical recording, etc.)
+プロトアクチニウム	[purotoakuchiniumu]	(n) protoactinium (Pa)
+プロパー	[puropa-]	(adj-na) (1) proper
+プロパガンダ	[puropaganda]	(n) propaganda
+プロパン	[puropan]	(n) propane
+プロフィール	[purofi-ru]	(n) profile
+プロフェッショナル	[purofesshonaru]	(adj-na,n) professional
+プロペラ	[puropera]	(n) propeller
+プロポーザル	[puropo-zaru]	(n) proposal
+プロポーズ	[puropo-zu]	(n,vs) (marriage) proposal
+プロモーション	[puromo-shon]	(n) promotion
+プロモーター	[puromo-ta-]	(n) promoter
+プロモート	[puromo-to]	(n,vs) promote
+プロレス	[puroresu]	(n) (abbr) (See プロレスリング) professional wrestling
+プロレタリア	[puroretaria]	(n) proletarian (ger: Proletarier)
+プロローグ	[puroro-gu]	(n) (1) prologue
+プロンプター	[puronputa-]	(n) prompter
+プンプン	[punpun]	(adv,vs,adv-to) (1) (on-mim) intense smell (hanging around)
+ヘア	[hea]	(n) hair
+ヘアケア	[heakea]	(n) hair care
+ヘアスタイル	[heasutairu]	(n) hairstyle
+ヘクタール	[hekuta-ru]	(n) hectare (fre:)
+ヘクト	[hekuto]	(n,pref) hecto-
+ヘザー	[heza-]	(n) heather
+ヘッジ	[hejji]	(n) hedge
+ヘッダー	[hedda-]	(n) header
+ヘッド	[heddo]	(n) head
+ヘッドコーチ	[heddoko-chi]	(n) head coach
+ヘッドホン	[heddohon]	(n) headphone
+ヘッドライト	[heddoraito]	(n) headlight
+ヘディング	[hedingu]	(n) (1) heading
+ヘトヘト	[hetoheto]	(adj-na,n,adj-no) (on-mim) completely exhausted
+ヘドロ	[hedoro]	(n) sludge
+ヘビー	[hebi-]	(adj-na,n) heavy
+ヘビースモーカー	[hebi-sumo-ka-]	(n) heavy smoker
+ヘブライズム	[heburaizumu]	(n) Hebraism
+ヘム	[hemu]	(n) (1) hem
+ヘモグロビン	[hemogurobin]	(n) hemoglobin
+ヘラルド	[herarudo]	(n) herald
+ヘリ	[heri]	(n) (abbr) (See ヘリコプター) helicopter
+ヘリウム	[heriumu]	(n) helium (He)
+ヘリコプター	[herikoputa-]	(n) helicopter
+ヘリポート	[heripo-to]	(n) heliport
+ヘリンボーン	[herinbo-n]	(n,adj-no) herringbone
+ヘル	[heru]	(n) (1) hell
+ヘルシー	[herushi-]	(adj-na,n) healthy
+ヘルシンキ	[herushinki]	(n) Helsinki
+ヘルス	[herusu]	(n) (1) health
+ヘルスクラブ	[herusukurabu]	(n) health club
+ヘルツ	[herutsu]	(n) (1) hertz (unit of frequency)
+ヘルツェゴビナ	[herutsuxegobina]	(n) Herzegovina
+ヘルニア	[herunia]	(n) hernia (lat:)
+ヘルパー	[herupa-]	(n) helper
+ヘルメット	[herumetto]	(n) helmet
+ヘレニズム	[herenizumu]	(n) Hellenism
+ヘロイン	[heroin]	(n) heroin
+ベーカリー	[be-kari-]	(n) bakery
+ベーコン	[be-kon]	(n) bacon
+ベーシック	[be-shikku]	(adj-na,n) (1) basic
+ベージュ	[be-ju]	(n) beige (fre:)
+ベースアップ	[be-suappu]	(n,vs) salary increase (wasei: base up)
+ベースキャンプ	[be-sukyanpu]	(n) base camp
+ベートーヴェン	[be-to-ven]	(n) Beethoven
+ベール	[be-ru]	(n) veil
+ベア	[bea]	(n) (1) (ベア only) (abbr) (See ベースアップ) increase in basic salary
+ベアリング	[bearingu]	(n) bearing
+ベイルート	[beiru-to]	(n) Beirut
+ベオグラード	[beogura-do]	(n) Belgrade
+ベガ	[bega]	(n) {astron} Vega (star in the constellation Lyra)
+ベクター	[bekuta-]	(n) vector
+ベクトル	[bekutoru]	(n,adj-no) vector (ger: Vektor)
+ベジタブル	[bejitaburu]	(n) vegetable
+ベスト	[besuto]	(adj-na,adj-no) (1) (ベスト only) best
+ベストセラー	[besutosera-]	(n) best-seller
+ベストテン	[besutoten]	(n) top ten (wasei: best ten)
+ベタ	[beta]	(n) betta (esp. the Siamese fighting fish, Betta splendens)
+ベター	[beta-]	(adj-na,n) better
+ベタベタ	[betabeta]	(adj-na,adv,n,vs) (1) (on-mim) sticky
+ベッド	[beddo]	(n) bed
+ベテラン	[beteran]	(n,adj-no) person with a lot of experience
+ベドウィン	[bedowin]	(n) Bedouin
+ベニヤ	[beniya]	(n) (1) veneer
+ベネチアングラス	[benechiangurasu]	(n) Venetian glass
+ベネフィット	[benefitto]	(n) benefit
+ベビー	[bebi-]	(n) baby
+ベビーカー	[bebi-ka-]	(n) stroller (wasei: baby car)
+ベビーシッター	[bebi-shitta-]	(n) baby-sitter
+ベビーフード	[bebi-fu-do]	(n) baby food
+ベビーブーム	[bebi-bu-mu]	(n) baby boom
+ベランダ	[beranda]	(n) verandah
+ベリーダンス	[beri-dansu]	(n) belly dance
+ベル	[beru]	(n) (1) bell
+ベルト	[beruto]	(n) (1) belt (waist, seat, etc.)
+ベルトコンベア	[berutokonbea]	(n) conveyor belt
+ベルファスト	[berufasuto]	(n) Belfast
+ベルマーク	[beruma-ku]	(n) bell mark
+ベルモット	[berumotto]	(n) vermouth (fre:)
+ベレー	[bere-]	(n) beret (fre:)
+ベロ	[bero]	(n) (col) tongue
+ベンジン	[benjin]	(n) gasoline (ger: Benzin)
+ベンチ	[benchi]	(n) bench
+ベンチャー	[bencha-]	(n) venture
+ベンツ	[bentsu]	(n) (1) (Mercedes) Benz
+ペース	[pe-su]	(n) pace
+ペースメーカー	[pe-sume-ka-]	(n) (1) pacemaker
+ペーソス	[pe-sosu]	(n) pathos
+ペーパー	[pe-pa-]	(n) paper
+ペール	[pe-ru]	(adj-f) (1) pale
+ペア	[pea]	(n) (1) pair
+ペアリング	[pearingu]	(n,vs) (1) (ペアリング only) pairing
+ペイ	[pei]	(n,vs) (1) pay
+ペインクリニック	[peinkurinikku]	(n) pain clinic
+ペイント	[peinto]	(n) paint
+ペコペコ	[pekopeko]	(adj-na) (1) (on-mim) very hungry
+ペシミスティック	[peshimisutikku]	(adj-na) pessimistic
+ペスト	[pesuto]	(n) (1) bubonic plague (ger: Pest)
+ペダル	[pedaru]	(n) pedal
+ペッサリー	[pessari-]	(n) pessary
+ペット	[petto]	(n) (1) pet
+ペットフード	[pettofu-do]	(n) pet food
+ペトリ	[petori]	(n) Petri
+ペトローリアム	[petoro-riamu]	(n) petroleum
+ペトロフード	[petorofu-do]	(n) petroleum
+ペドメーター	[pedome-ta-]	(n) pedometer
+ペナルティー	[penaruti-]	(n) penalty
+ペナント	[penanto]	(n) pennant
+ペニシリン	[penishirin]	(n) penicillin
+ペプシン	[pepushin]	(n,adj-no) pepsin
+ペラペラ	[perapera]	(adj-na,adv,n,vs) (1) (on-mim) fluent
+ペリカン	[perikan]	(n) pelican
+ペン	[pen]	(n) pen
+ペンキ	[penki]	(n) paint (dut: pek)
+ペンギン	[pengin]	(n) penguin
+ペンクラブ	[penkurabu]	(n) PEN club
+ペンション	[penshon]	(n) pension (Western-style boardinghouse)
+ペンシルベニア	[penshirubenia]	(n) Pennsylvania
+ペンタゴン	[pentagon]	(n) pentagon
+ペンダント	[pendanto]	(n) pendant
+ペンチ	[penchi]	(n) pliers (wasei: pinchers)
+ペンネーム	[pen'ne-mu]	(n) pen-name
+ホース	[ho-su]	(n) (1) hose (dut: hoos)
+ホープ	[ho-pu]	(n) (1) hope
+ホーマー	[ho-ma-]	(n) {baseb} homer
+ホーミング	[ho-mingu]	(n) homing
+ホーム	[ho-mu]	(n) (1) (abbr) (See プラットホーム) platform
+ホームイン	[ho-muin]	(n,vs) {baseb} getting home (wasei: home in)
+ホームグラウンド	[ho-muguraundo]	(n) home ground
+ホームシック	[ho-mushikku]	(n) homesick
+ホームステイ	[ho-musutei]	(n) homestay
+ホームセキュリティーシステム	[ho-musekyuriti-shisutemu]	(n) home security system
+ホームターミナル	[ho-muta-minaru]	(n) home terminal
+ホームドラマ	[ho-mudorama]	(n) (TV) drama of family life (wasei: home drama)
+ホームヘルパー	[ho-muherupa-]	(n) caregiver (wasei: home helper)
+ホームページ	[ho-mupe-ji]	(n) {comp} web site
+ホームラン	[ho-muran]	(n) {baseb} (See 本塁打) home run
+ホームルーム	[ho-muru-mu]	(n) homeroom
+ホール	[ho-ru]	(n) (1) hall (dance, concert, etc.)
+ホーン	[ho-n]	(n) (1) horn
+ホイール	[hoi-ru]	(n) wheel (esp. of vehicle)
+ホイッスル	[hoissuru]	(n) whistle
+ホステス	[hosutesu]	(n) (1) hostess
+ホステル	[hosuteru]	(n) hostel
+ホスト	[hosuto]	(n) (1) host (of a party, summit, etc.)
+ホスピス	[hosupisu]	(n) hospice
+ホック	[hokku]	(n) (1) hook (esp. for clothing)
+ホッケー	[hokke-]	(n) hockey
+ホットライン	[hottorain]	(n) hot line
+ホップ	[hoppu]	(n) (1) hop
+ホテル	[hoteru]	(n) hotel
+ホノルル	[honoruru]	(n) Honolulu
+ホモ	[homo]	(n,adj-no) (1) (abbr) (See ホモセクシュアル) homo
+ホラー	[hora-]	(n) horror
+ホリデー	[horide-]	(n) holiday
+ホルスター	[horusuta-]	(n) holster
+ホルダー	[horuda-]	(n) holder
+ホルモン	[horumon]	(n,adj-no) (1) hormone (ger: Hormon)
+ホルン	[horun]	(n) horn (ger:)
+ホログラフィ	[horogurafi]	(n) holography
+ホロコースト	[horoko-suto]	(n) holocaust
+ホワイト	[howaito]	(adj-na,n) (1) white
+ホワイトカラー	[howaitokara-]	(n) white-collar
+ホワイトニング	[howaitoningu]	(n,vs) whitening (e.g. of teeth)
+ホン	[hon]	(n) phon (unit of loudness)
+ボー	[bo-]	(n) (1) bow
+ボーイ	[bo-i]	(n) (1) boy
+ボーイスカウト	[bo-isukauto]	(n) Boy Scouts
+ボーイフレンド	[bo-ifurendo]	(n) boyfriend
+ボーイング	[bo-ingu]	(n) (1) (See 運弓法) bowing (of a string instrument)
+ボーカラー	[bo-kara-]	(n) bow collar
+ボーカリスト	[bo-karisuto]	(n) vocalist
+ボーカル	[bo-karu]	(n,vs,adj-no) vocal music
+ボーク	[bo-ku]	(n) balk
+ボーダー	[bo-da-]	(n) (1) border
+ボーダーライン	[bo-da-rain]	(n) border line
+ボート	[bo-to]	(n) boat
+ボートピープル	[bo-topi-puru]	(n) boat people
+ボード	[bo-do]	(n) board
+ボードセーリング	[bo-dose-ringu]	(n) boardsailing
+ボーナス	[bo-nasu]	(n) bonus
+ボール	[bo-ru]	(n) (1) ball
+ボールド	[bo-rudo]	(n,adj-no) bold
+ボールペン	[bo-rupen]	(n) ball-point pen (wasei: ball pen)
+ボーン	[bo-n]	(n) (1) born
+ボイコット	[boikotto]	(n,vs) boycott
+ボイジャー	[boija-]	(n) voyager
+ボイス	[boisu]	(n) voice
+ボイスレコーダー	[boisureko-da-]	(n) dictaphone (wasei: voice recorder)
+ボイラー	[boira-]	(n) boiler
+ボウリング	[bouringu]	(n,vs) (1) bowling
+ボウル	[bouru]	(n) bowl
+ボギー	[bogi-]	(n) bogey (golf)
+ボクサー	[bokusa-]	(n) boxer
+ボクシング	[bokushingu]	(n) boxing
+ボコーダー	[boko-da-]	(n) vocoder
+ボサノバ	[bosanoba]	(n) bossa nova (por:)
+ボス	[bosu]	(n) (1) boss
+ボストン	[bosuton]	(n,adj-no) Boston
+ボスニア	[bosunia]	(n) Bosnia
+ボックス	[bokkusu]	(n) box
+ボツワナ	[botsuwana]	(n,adj-no) Botswana
+ボディー	[bodi-]	(n) (1) body
+ボディーブロー	[bodi-buro-]	(n) body blow (e.g. boxing)
+ボディコン	[bodikon]	(adj-no,n) (abbr) (See ボディーコンシャス) body-conscious
+ボトム	[botomu]	(n) bottom
+ボトル	[botoru]	(n) bottle
+ボブ	[bobu]	(n) bob (haircut)
+ボブスレー	[bobusure-]	(n) bobsleigh
+ボランティア	[borantia]	(n,vs) volunteer
+ボリューム	[boryu-mu]	(n) (1) volume (sound level)
+ボルテージ	[borute-ji]	(n) (1) voltage
+ボルト	[boruto]	(n) (1) volt
+ボレー	[bore-]	(n) volley
+ボレロ	[borero]	(n) bolero (spa:)
+ボン	[bon]	(n) good (fre: bon)
+ボンド	[bondo]	(n) bond
+ボンネット	[bon'netto]	(n) (1) bonnet
+ボンベ	[bonbe]	(n) compressed gas cylinder (ger: Bombe)
+ボンベイブラッド	[bonbeiburaddo]	(n) Bombay blood
+ポーカー	[po-ka-]	(n) poker
+ポーズ	[po-zu]	(n) (1) pose
+ポーター	[po-ta-]	(n) porter
+ポータブル	[po-taburu]	(adj-na,n) portable
+ポーチ	[po-chi]	(n) (1) (ポーチ only) porch
+ポート	[po-to]	(n) port
+ポートフォリオ	[po-toforio]	(n) portfolio
+ポートレート	[po-tore-to]	(n) portrait
+ポール	[po-ru]	(n) (1) pole
+ポイント	[pointo]	(n,vs) (1) point
+ポエム	[poemu]	(n) poem
+ポケット	[poketto]	(n) pocket
+ポケットサイズ	[pokettosaizu]	(n) pocket-size
+ポケットベル	[pokettoberu]	(n) (See ポケベル) pager (wasei: pocket bell)
+ポケットマネー	[pokettomane-]	(n) pocket money
+ポシェット	[poshetto]	(n) pochette (fre:)
+ポシビリティー	[poshibiriti-]	(n) possibility
+ポジショニング	[pojishoningu]	(n) positioning
+ポジション	[pojishon]	(n) position
+ポジティブ	[pojitibu]	(adj-na,n) (ant: ネガティブ) positive
+ポスター	[posuta-]	(n) poster
+ポスト	[posuto]	(n,vs) (1) post
+ポタージュ	[pota-ju]	(n) potage (thick soup) (fre:)
+ポット	[potto]	(n) (1) pot (esp. teapot, coffee-pot)
+ポッドキャスト	[poddokyasuto]	(n) podcast
+ポップ	[poppu]	(adj-na,n,vs) (1) pop
+ポップアート	[poppua-to]	(n) pop art
+ポップス	[poppusu]	(n) pop music (eng: pops)
+ポテト	[poteto]	(n) potato
+ポテトチップス	[potetochippusu]	(n) potato chips
+ポテンシャル	[potensharu]	(n) potential
+ポトフ	[potofu]	(n) pot-au-feu (fre:)
+ポニーテール	[poni-te-ru]	(n) ponytail
+ポピュラー	[popyura-]	(adj-na,n) popular
+ポプリ	[popuri]	(n) pot-pourri (fre:)
+ポリ	[pori]	(pref) (1) poly-
+ポリープ	[pori-pu]	(n) (1) {med} (usu. ポリープ) polyp
+ポリエチレン	[poriechiren]	(n) polyethylene
+ポリオ	[porio]	(n) polio
+ポリシー	[porishi-]	(n) policy
+ポリス	[porisu]	(n) (1) police
+ポリネシア	[porineshia]	(n) Polynesia
+ポリプロピレン	[poripuropiren]	(n) polypropylene
+ポリマー	[porima-]	(n) polymer
+ポルカ	[poruka]	(n) polka
+ポルノ	[poruno]	(n) (abbr) pornography
+ポロ	[poro]	(n) polo
+ポンド	[pondo]	(n) (1) (also written as 听, 封度, 英斤, 英听) pound (unit of weight) (dut: pond)
+ポンプ	[ponpu]	(n) (also written as 喞筒) pump (dut: pomp)
+ポンポン	[ponpon]	(n) (1) pompon
+マーカー	[ma-ka-]	(n) marker
+マーガリン	[ma-garin]	(n) margarine
+マーキュリー	[ma-kyuri-]	(n) Mercury
+マーク	[ma-ku]	(n,vs) (1) mark
+マークシート	[ma-kushi-to]	(n) computer-scored answer sheet (wasei: mark sheet)
+マーケット	[ma-ketto]	(n) market
+マーケティング	[ma-ketingu]	(n) marketing
+マージン	[ma-jin]	(n) margin
+マーチ	[ma-chi]	(n) (1) march
+マート	[ma-to]	(n) mart
+マーブル	[ma-buru]	(n) marble
+マーメイド	[ma-meido]	(n) mermaid
+マイ	[mai]	(pref) (See マイホーム) my
+マイアミ	[maiami]	(n) Miami
+マイカー	[maika-]	(n) privately owned car (wasei: my car)
+マイク	[maiku]	(n) (abbr) (See マイクロホン) mike
+マイクロ	[maikuro]	(n,pref) (1) micro-
+マイクロバス	[maikurobasu]	(n) minibus (eng: microbus)
+マイクロフィルム	[maikurofirumu]	(n) microfilm
+マイコン	[maikon]	(n) (1) (abbr) {comp} microcomputer
+マイナー	[maina-]	(adj-na,n) (1) minor
+マイナス	[mainasu]	(n,vs,adj-no) minus
+マイノリティー	[mainoriti-]	(n) minority
+マイペース	[maipe-su]	(n) (1) doing things at one's own pace (wasei: my pace)
+マイホーム	[maiho-mu]	(n) one's (own) house (wasei: my home)
+マイム	[maimu]	(n) (See パントマイム) mime
+マイル	[mairu]	(n) (also written 哩) mile
+マイルド	[mairudo]	(adj-na) mild
+マインド	[maindo]	(n) mind
+マウンテン	[maunten]	(n) mountain
+マウント	[maunto]	(n,vs) mount
+マウンド	[maundo]	(n) mound
+マエストロ	[maesutoro]	(n) maestro (ita:)
+マカダム	[makadamu]	(n) Macadam
+マカロニ	[makaroni]	(n) macaroni
+マガジン	[magajin]	(n) magazine
+マキシ	[makishi]	(adj-na,n) (1) (abbr) (See マキシマム) maxi
+マクラメ	[makurame]	(n) macrame
+マクロ	[makuro]	(adj-na,n) {comp} macro
+マグナム	[magunamu]	(n) magnum
+マグニチュード	[magunichu-do]	(n) magnitude
+マグネシウム	[maguneshiumu]	(n) magnesium (Mg)
+マグネット	[magunetto]	(n) magnet
+マグマ	[maguma]	(n) magma
+マケドニア	[makedonia]	(n) Macedonia
+マサチューセッツ	[masachu-settsu]	(n) Massachusetts
+マザーグース	[maza-gu-su]	(n) Mother Goose
+マザコン	[mazakon]	(n) (abbr) (See マザーコンプレックス) Oedipus complex (wasei: mother complex)
+マザリング	[mazaringu]	(n) mothering
+マシン	[mashin]	(n) machine
+マシンガン	[mashingan]	(n) machine gun
+マジシャン	[majishan]	(n) magician
+マジック	[majikku]	(n) (1) magic
+マス	[masu]	(n) (1) (usu. in art contexts) mass
+マスカット	[masukatto]	(n) muscat (grape)
+マスク	[masuku]	(n,vs) mask
+マスゲーム	[masuge-mu]	(n) massed calisthenics (wasei: mass game)
+マスコット	[masukotto]	(n) mascot
+マスコミ	[masukomi]	(n) (abbr) mass communication
+マスター	[masuta-]	(vs) (1) to master
+マスターズゴルフ	[masuta-zugorufu]	(n) Masters Golf Tournament
+マスタード	[masuta-do]	(n) mustard
+マスト	[masuto]	(n) (1) mast (dut:)
+マスメディア	[masumedia]	(n) mass media
+マゾ	[mazo]	(n) (1) (abbr) (See マゾヒスト) masochist
+マタニティードレス	[mataniti-doresu]	(n) maternity dress
+マダム	[madamu]	(n) (1) madame (fre:)
+マッキントッシュ	[makkintosshu]	(n) (1) Macintosh
+マック	[makku]	(n) (1) (abbr) (See マッキントッシュ) Mac
+マックス	[makkusu]	(n) (1) (abbr) (See マキシマム) maximum
+マッサージ	[massa-ji]	(n,vs) massage
+マッシュルーム	[masshuru-mu]	(n) mushroom
+マッチ	[macchi]	(n) (1) match (contest)
+マッチプレー	[macchipure-]	(n) match play
+マット	[matto]	(n) (1) mat
+マットレス	[mattoresu]	(n) mattress
+マッハ	[mahha]	(n) Mach
+マップ	[mappu]	(n) map
+マテリアル	[materiaru]	(n) material
+マドラス	[madorasu]	(n) Madras
+マドレーヌ	[madore-nu]	(n) madeleine (cake) (fre:)
+マドンナ	[madon'na]	(n) madonna (ita:)
+マナー	[mana-]	(n) manners
+マニア	[mania]	(n) (1) enthusiast
+マニアック	[maniakku]	(adj-na,n) maniac (as in rabid sport fan)
+マニキュア	[manikyua]	(n) (1) (See ペディキュア) manicure
+マニフェスト	[manifesuto]	(n) manifesto
+マニュアル	[manyuaru]	(n) manual
+マニラ	[manira]	(n) Manila
+マヌーバー	[manu-ba-]	(n) maneuver
+マネー	[mane-]	(n) money
+マネーゲーム	[mane-ge-mu]	(n) money game
+マネーサプライ	[mane-sapurai]	(n) money supply
+マネージャー	[mane-ja-]	(n) (1) manager (e.g. of a business, an idol, etc.)
+マネキン	[manekin]	(n) mannequin
+マネジメント	[manejimento]	(n) management
+マフィア	[mafia]	(n) mafia
+マフラー	[mafura-]	(n) muffler (garment, vehicle)
+ママ	[mama]	(n) (1) mama
+マヤ	[maya]	(n) Maya (ancient Indian tribe in Central America)
+マヨネーズ	[mayone-zu]	(n) mayonnaise (fre:)
+マラカス	[marakasu]	(n) maracas
+マラソン	[marason]	(n) (1) marathon
+マラリア	[mararia]	(n,adj-no) malaria
+マリーナ	[mari-na]	(n) marina
+マリーン	[mari-n]	(n) (1) (usu. マリン) marine
+マリファナ	[marifana]	(n) (See 大麻・たいま・2) marijuana
+マリンスノー	[marinsuno-]	(n) (See 海雪) marine snow
+マリンバ	[marinba]	(n) marimba (musical instrument)
+マルターゼ	[maruta-ze]	(n) maltase (ger:)
+マルチ	[maruchi]	(pref,adj-na) (1) multi-
+マルチナショナル	[maruchinashonaru]	(n) multinational
+マルチメディア	[maruchimedia]	(n) multimedia
+マロン	[maron]	(n) (1) chestnut (fre: marron)
+マン	[man]	(n,n-suf) man
+マングローブ	[manguro-bu]	(n) mangrove
+マンション	[manshon]	(n) condominium (often mid-rise or high-rise concrete) (eng: mansion)
+マンスリー	[mansuri-]	(n) monthly
+マンチェスター	[manchesuta-]	(n) Manchester
+マンツーマン	[mantsu-man]	(n) man-to-man
+マント	[manto]	(n) (See マンテル) mantle (fre: manteau)
+マントル	[mantoru]	(n) mantle
+マンドリン	[mandorin]	(n) mandolin
+マンネリ	[man'neri]	(n,adj-no) (abbr) (See マンネリズム) becoming stereotyped
+マンパワー	[manpawa-]	(n) man power
+マンホール	[manho-ru]	(n) manhole
+マンボ	[manbo]	(n) mambo
+マンモス	[manmosu]	(n) mammoth (esp. the woolly mammoth, Mammuthus primigenius)
+ミーイズム	[mi-izumu]	(n) me-ism
+ミーティング	[mi-tingu]	(n) meeting
+ミート	[mi-to]	(n) (1) meat
+ミーハー	[mi-ha-]	(adj-na,n) (1) (abbr) (See みいちゃんはあちゃん) follower of each new fad
+ミール	[mi-ru]	(n) (1) meal (food, ground grain) (eng:)
+ミキサー	[mikisa-]	(n) mixer
+ミクロ	[mikuro]	(adj-na,n) micro (ger: Mikro, fre: micro)
+ミクロネシア	[mikuroneshia]	(n) Micronesia
+ミクロン	[mikuron]	(n) micron (fre:)
+ミサ	[misa]	(n) (Catholic) mass (lat: missa)
+ミサイル	[misairu]	(n) missile
+ミシガン	[mishigan]	(n) Michigan
+ミシン	[mishin]	(n) sewing machine
+ミス	[misu]	"(n,vs) (1) (abbr. of the English ""mistake"") (See エラー) mistake"
+ミスター	[misuta-]	(n) mister
+ミステリ	[misuteri]	(n) mystery
+ミステリアス	[misuteriasu]	(adj-na,n) mysterious
+ミスプリント	[misupurinto]	(n) misprint
+ミスマッチ	[misumacchi]	(n) mis-match
+ミズ	[mizu]	(n) Ms
+ミズーリ	[mizu-ri]	(n) Missouri
+ミセス	[misesu]	(n) Mrs
+ミゼラブル	[mizeraburu]	(adj-f) miserable
+ミックス	[mikkusu]	(n,vs) mix
+ミッション	[misshon]	(n) (1) mission
+ミット	[mitto]	(n) mitt
+ミッドナイト	[middonaito]	(n) midnight
+ミディ	[midi]	(n) (1) midi (i.e. midiskirt)
+ミトコンドリア	[mitokondoria]	(n) mitochondria
+ミドル	[midoru]	(n) middle
+ミドルホール	[midoruho-ru]	(n) {sports} (golf) par-four hole (wasei: middle hole)
+ミニ	[mini]	(n) mini
+ミニコミ	[minikomi]	(n) communications within a small range (wasei: mini communication)
+ミニスカート	[minisuka-to]	(n) mini-skirt
+ミニチュア	[minichua]	(n) miniature
+ミニディスク	[minidisuku]	(n) minidisc
+ミニバッファ	[minibaffa]	(n) minibuffer
+ミニマム	[minimamu]	(adj-na,n) minimum
+ミネソタ	[minesota]	(n) Minnesota
+ミネラル	[mineraru]	(n) mineral
+ミミック	[mimikku]	(n) mimic
+ミャンマー	[myanma-]	(n) Myanmar
+ミュージアム	[myu-jiamu]	(n) museum
+ミュージカル	[myu-jikaru]	(n) musical
+ミュージシャン	[myu-jishan]	(n) musician
+ミュージック	[myu-jikku]	(n) music
+ミューズ	[myu-zu]	(n) Muse
+ミュンヘン	[myunhen]	(n) Munich
+ミラー	[mira-]	(n) mirror
+ミラージュ	[mira-ju]	(n) mirage
+ミラクル	[mirakuru]	(n) miracle
+ミリ	[miri]	(n,pref) (1) milli- (fre:)
+ミリオン	[mirion]	(n) million
+ミリオンセラー	[mirionsera-]	(n) million seller
+ミリグラム	[miriguramu]	(n) milligram (fre:)
+ミリタリールック	[miritari-rukku]	(n) military look
+ミリバール	[miriba-ru]	(n) millibar
+ミリリットル	[miririttoru]	(n) millilitre (fre:)
+ミルウォーキー	[miruwo-ki-]	(n) Milwaukee
+ミルク	[miruku]	(n) milk
+ミレニアム	[mireniamu]	(n) millennium
+ミンク	[minku]	(n) mink
+ミンチ	[minchi]	(n) minced beef
+ミント	[minto]	(adj-na,n) (abbr) mint
+ムース	[mu-su]	(n) (1) moose
+ムーディー	[mu-di-]	(adj-na) having a good atmosphere (wasei: moody)
+ムード	[mu-do]	(n) mood
+ムービー	[mu-bi-]	(n) movie
+ムーブメント	[mu-bumento]	(n) movement
+ムーラン	[mu-ran]	(n) moulin
+ムール	[mu-ru]	(n) mussels (fre: moule)
+ムーン	[mu-n]	(n) moon
+ムカムカ	[mukamuka]	(adv-to,adv,vs) (1) (on-mim) feeling sick
+ムスタング	[musutangu]	(n) mustang
+ムラート	[mura-to]	(n) mulatto
+メーカー	[me-ka-]	(n) manufacturer
+メーキャップ	[me-kyappu]	(n,vs) make-up
+メーク	[me-ku]	(n,vs) (1) make
+メージャー	[me-ja-]	(n) (1) (abbr) Major (League)
+メーター	[me-ta-]	(n) (1) meter (i.e. measuring device)
+メーデー	[me-de-]	(n) (1) Mayday (call for help)
+メート	[me-to]	(n) mate
+メール	[me-ru]	(n,vs) (1) (abbr) (See 電子メール) email
+メールアドレス	[me-ruadoresu]	(n) (See メアド) email address
+メーンバンク	[me-nbanku]	(n) main bank
+メイド	[meido]	(n) maid
+メイン	[mein]	(n,adj-no,adj-na,adj-f) main
+メインストリート	[meinsutori-to]	(n) main street
+メカ	[meka]	(n) (abbr) (See メカニズム,メカニック,メカニカル) mechanism
+メカニズム	[mekanizumu]	(n) mechanism
+メカニック	[mekanikku]	(adj-na,n) mechanic
+メガ	[mega]	(n,pref) mega-
+メガヘルツ	[megaherutsu]	(n) megahertz
+メガホン	[megahon]	(n) megaphone
+メキメキ	[mekimeki]	(adv,adv-to) (on-mim) conspicuously
+メコンデルタ	[mekonderuta]	(n) Mekong delta
+メシア	[meshia]	(n) Messiah
+メジャー	[meja-]	(adj-na,n) (1) major
+メス	[mesu]	(n) scalpel (dut: mes)
+メソジスト	[mesojisuto]	(n) Methodist
+メソポタミア	[mesopotamia]	(n) Mesopotamia
+メゾソプラノ	[mezosopurano]	(n) {music} mezzo-soprano (ita:)
+メゾン	[mezon]	(n) house (fre: maison)
+メタセコイア	[metasekoia]	(n) metasequoia (lat:)
+メタノール	[metano-ru]	(n) methanol (ger:)
+メタボリック	[metaborikku]	(n) metabolic
+メタリック	[metarikku]	(adj-na,adj-no) metallic
+メタル	[metaru]	(n) metal
+メタン	[metan]	(n) methane (ger: Methan)
+メタンガス	[metangasu]	(n) methane gas
+メダリスト	[medarisuto]	(n) medalist
+メダル	[medaru]	(n) medal
+メチル	[mechiru]	(n) methyl- (ger:)
+メッカ	[mekka]	(n) (1) Mecca
+メッシュ	[messhu]	(n,adj-no) (1) mesh
+メッセ	[messe]	(n) (1) trade fair (ger: Messe)
+メッセージ	[messe-ji]	(n) message
+メディア	[media]	(n) media
+メディカルエンジニアリング	[medikaruenjiniaringu]	(n) medical engineering
+メトリック	[metorikku]	(n) metric (ger: Metrik)
+メトロ	[metoro]	(n) metro (fre: metro)
+メトロノーム	[metorono-mu]	(n) metronome (ger: Metronom)
+メトロポリタン	[metoroporitan]	(n) metropolitan
+メドレー	[medore-]	(n) medley
+メドレーリレー	[medore-rire-]	(n) medley relay
+メニュー	[menyu-]	(n) (1) menu (fre:)
+メモ	[memo]	(n,vs) memo
+メモリー	[memori-]	(n) {comp} memory
+メモリアル	[memoriaru]	(n,adj-f) memorial
+メモリアルホール	[memoriaruho-ru]	(n) memorial hall
+メモリカード	[memorika-do]	(n) {comp} memory card (e.g. PCMCIA)
+メラニン	[meranin]	(n,adj-no) melanin
+メリー	[meri-]	(adj-f) merry
+メリット	[meritto]	(n) (ant: デメリット) advantage
+メルクマール	[merukuma-ru]	(n) characteristic (ger: Merkmal)
+メルシー	[merushi-]	(int) thank you (fre: merci)
+メルヘン	[meruhen]	(n) fairy tale (ger: Maerchen)
+メルボルン	[meruborun]	(n) Melbourne
+メレンゲ	[merenge]	(n) meringue (fre:)
+メロディー	[merodi-]	(n) (1) melody
+メロドラマ	[merodorama]	(n) melodrama
+メロン	[meron]	(n) (See マスクメロン) melon (esp. a muskmelon, Cucumis melo)
+メンス	[mensu]	(n) menses (ger: Menstruation)
+メンタリティー	[mentariti-]	(n) mentality
+メンタル	[mentaru]	(adj-na,n) mental
+メンタルヘルス	[mentaruherusu]	(n) mental health
+メンテナンス	[mentenansu]	(n) maintenance
+メンバー	[menba-]	(n) member
+メンフィス	[menfisu]	(n) Memphis
+モーゲージ	[mo-ge-ji]	(n) mortgage
+モーション	[mo-shon]	(n) motion
+モーゼル	[mo-zeru]	(n) Mauser (ger: Mausergewehr)
+モーター	[mo-ta-]	(n) motor
+モーターサイクル	[mo-ta-saikuru]	(n) motorcycle
+モーターショー	[mo-ta-sho-]	(n) motor show
+モータリゼーション	[mo-tarize-shon]	(n) motorization
+モーツァルト	[mo-tsuxaruto]	(n) Mozart
+モード	[mo-do]	(n) (1) mode (musical mode, mode of probability distribution, state of physical system)
+モーニング	[mo-ningu]	(n) (1) morning
+モービルハウス	[mo-biruhausu]	(n) mobile house
+モール	[mo-ru]	(n) (1) mall
+モアレ	[moare]	(n) moire (printing effect) (fre:)
+モサド	[mosado]	(n) Mossad (Israeli secret service)
+モザイク	[mozaiku]	(n,adj-no) (1) mosaic
+モザンビーク	[mozanbi-ku]	(n) Mozambique
+モスク	[mosuku]	(n) mosque
+モスグリーン	[mosuguri-n]	(n) moss green
+モダニズム	[modanizumu]	(n) modernism
+モダン	[modan]	(adj-na,n) modern
+モダンダンス	[modandansu]	(n) modern dance
+モチーフ	[mochi-fu]	(n) motif (fre:)
+モックアップ	[mokkuappu]	(n) mock-up
+モットー	[motto-]	(n) motto
+モディスト	[modisuto]	(n) modiste
+モデム	[modemu]	(n) {comp} modem
+モデル	[moderu]	(n) model
+モデルガン	[moderugan]	(n) replica firearm (wasei: model gun)
+モデルケース	[moderuke-su]	(n) model case
+モトクロス	[motokurosu]	(n) motocross
+モニター	[monita-]	(n) (1) {comp} (computer) monitor
+モニタリング	[monitaringu]	(n) monitoring
+モニュメント	[monyumento]	(n) monument
+モノ	[mono]	(n) mono
+モノクロ	[monokuro]	(n,adj-no) (abbr) (See モノクローム) monochrome
+モノトーン	[monoto-n]	(n) monotone
+モノラル	[monoraru]	(n,adj-no) monaural
+モノレール	[monore-ru]	(n) monorail
+モノローグ	[monoro-gu]	(n) (See ダイアローグ) monologue
+モミズム	[momizumu]	(n) momism
+モラトリアム	[moratoriamu]	(n) (1) moratorium
+モラル	[moraru]	(n) (1) (モラル only) morals
+モリスダンス	[morisudansu]	(n) Morris dance
+モルグ	[morugu]	(n) morgue
+モルタル	[morutaru]	(n) mortar
+モルドバ	[morudoba]	(n) Moldavia
+モルヒネ	[moruhine]	(n) morphine (dut: morfine)
+モルモット	[morumotto]	(n) (See マーモット) guinea pig (Cavia porcellus) (dut: marmot)
+モンキー	[monki-]	(n) monkey
+モンゴリズム	[mongorizumu]	(n) mongolism
+モンスーン	[monsu-n]	(n) monsoon
+モンスター	[monsuta-]	(n) monster
+モンタージュ	[monta-ju]	(n,vs) montage (fre:)
+モンタナ	[montana]	(n) Montana
+モンテカルロ	[montekaruro]	(n) Monte Carlo
+モンパリ	[monpari]	(n) my Paris (fre: mon Paris)
+ヤンガージェネレーション	[yanga-jenere-shon]	(n) younger generation
+ヤンキー	[yanki-]	(n) (1) Yankee
+ヤング	[yangu]	(n) young
+ヤンマ	[yanma]	(n) lamenting (ger: Jammer)
+ユー	[yu-]	(n) you
+ユーカラ	[yu-kara]	(n) yukar (Ainu oral saga) (ain:)
+ユーカリ	[yu-kari]	(n) (abbr) eucalyptus (lat: eu, gre: kaluptos)
+ユーゴ	[yu-go]	(n) (abbr) Yugoslavia
+ユーゴスラビア	[yu-gosurabia]	(n) Yugoslavia
+ユーザー	[yu-za-]	(n) (See 利用者) user
+ユージェニックス	[yu-jenikkusu]	(n) eugenics
+ユース	[yu-su]	(n) (1) youth
+ユースホステル	[yu-suhosuteru]	(n) youth hostel
+ユーズド	[yu-zudo]	(n,adj-no) used (e.g. used car)
+ユートピア	[yu-topia]	(n) (See ディストピア) utopia
+ユーノス	[yu-nosu]	(n) eunos
+ユーモア	[yu-moa]	(n) humor
+ユーモラス	[yu-morasu]	(adj-na,n) humorous
+ユーレカ	[yu-reka]	(n) eureka (gre: heureka)
+ユーロ	[yu-ro]	(n) (1) Euro-
+ユタ	[yuta]	(n) Utah
+ユナイテッド	[yunaiteddo]	(n) united
+ユニーク	[yuni-ku]	(adj-na,n) unique
+ユニオン	[yunion]	(n) union
+ユニシス	[yunishisu]	(n) {comp} Unisys
+ユニット	[yunitto]	(n) (1) unit
+ユニバーサル	[yuniba-saru]	(adj-na,n) universal
+ユニバーシアード	[yuniba-shia-do]	(n) Universiade
+ユニバース	[yuniba-su]	(n) universe
+ユニフォーム	[yunifo-mu]	(n) uniform
+ユリア	[yuria]	(n) urea
+ヨーガ	[yo-ga]	(n) yoga (san:)
+ヨーク	[yo-ku]	(n) yoke
+ヨーグルト	[yo-guruto]	(n) yogurt (ger: Yoghurt)
+ヨット	[yotto]	(n) yacht (usually only used for a sailing boat with one mast)
+ヨットハーバー	[yottoha-ba-]	(n) yacht harbor
+ヨルダン	[yorudan]	(n,adj-no) Jordan
+ラーゲ	[ra-ge]	(n) sex position (ger: Lage)
+ラード	[ra-do]	(n) lard
+ラーニング	[ra-ningu]	(n) learning
+ライ	[rai]	(n) (1) lie
+ライアビリティー	[raiabiriti-]	(n) liability
+ライオン	[raion]	(n) lion (Panthera leo)
+ライジングジェネレーション	[raijingujenere-shon]	(n) rising generation
+ライス	[raisu]	(n) (See ライスカレー) rice (esp. when served on a plate)
+ライセンス	[raisensu]	(n) license
+ライター	[raita-]	(n) (1) lighter
+ライダー	[raida-]	(n) rider
+ライト	[raito]	(adj-na,n) (1) light
+ライトバン	[raitoban]	(n) light van
+ライド	[raido]	(n) ride
+ライナー	[raina-]	(n,adj-no) (1) {baseb} liner
+ライバル	[raibaru]	(n,adj-no) rival
+ライフ	[raifu]	(n) life
+ライフル	[raifuru]	(n) rifle
+ライフワーク	[raifuwa-ku]	(n) lifework
+ライブ	[raibu]	(n,adj-f) (1) live (esp. concert, show, etc.)
+ライブハウス	[raibuhausu]	(n) shop, bar, etc. where live jazz, pop, rock, etc. is performed (wasei: live house)
+ライブラリー	[raiburari-]	(n) (1) (See 図書館・としょかん) library
+ライン	[rain]	(n) line
+ラインアップ	[rain'appu]	(n,vs) line-up (baseball, product, etc.)
+ラウドスピーカー	[raudosupi-ka-]	(n) loudspeaker
+ラウンジ	[raunji]	(n) lounge
+ラウンド	[raundo]	(n) round (esp. in sports, negotiations, etc.)
+ラガー	[raga-]	(n) rugger
+ラグ	[ragu]	(n) rug
+ラグビー	[ragubi-]	(n) rugby
+ラケット	[raketto]	(n) racket
+ラジアル	[rajiaru]	(n) radial
+ラジウム	[rajiumu]	(n) radium (Ra)
+ラジエーター	[rajie-ta-]	(n) radiator
+ラジオ	[rajio]	(n) radio
+ラジカセ	[rajikase]	(n) (abbr) (See ラジオカセット) radio-cassette player
+ラジカル	[rajikaru]	(adj-na) radical
+ラス	[rasu]	(n) (1) lath
+ラスト	[rasuto]	(n) last
+ラストスパート	[rasutosupa-to]	(n) last spurt
+ラダー	[rada-]	(n) (1) rudder
+ラッキー	[rakki-]	(adj-na,n) lucky
+ラッキーゾーン	[rakki-zo-n]	(n) lucky zone
+ラック	[rakku]	(n) (1) rack
+ラッシュ	[rasshu]	(n) (1) rush
+ラッシュアワー	[rasshuawa-]	(n) rush hour
+ラッセル	[rasseru]	(n) (1) (abbr) (See ラッセル車) (Russell) snowplow
+ラッチ	[racchi]	(n,vs) latch
+ラッピング	[rappingu]	(n,vs) (1) wrapping
+ラップ	[rappu]	(n) (1) (abbr) (See ラップフィルム) cling film
+ラテックス	[ratekkusu]	(n) latex
+ラテンアメリカ	[raten'amerika]	(n) Latin America
+ラトビア	[ratobia]	(n) Latvia
+ラドン	[radon]	(n) radon (Rn)
+ラバー	[raba-]	(n) (1) lover
+ラバトリー	[rabatori-]	(n) lavatory
+ラビオリ	[rabiori]	(n) ravioli (ita:)
+ラフ	[rafu]	(adj-na) (1) rough
+ラフォーレ	[rafo-re]	(n) the forest (fre: la foret)
+ラフト	[rafuto]	(n) raft
+ラフプレー	[rafupure-]	(n) rough play
+ラフマニノフ	[rafumaninofu]	(n) Rachmaninoff
+ラブ	[rabu]	(n,vs) (1) love
+ラブコメ	[rabukome]	(n) (abbr) (See ラブコメディ) romantic comedy (wasei: love comedy)
+ラブソング	[rabusongu]	(n) love song
+ラブレター	[rabureta-]	(n) love-letter
+ラベル	[raberu]	(n) (1) label (i.e. sticker)
+ラボ	[rabo]	(n) (1) (abbr) laboratory
+ラマ	[rama]	(n) llama (Lama glama) (spa:)
+ラミネート	[ramine-to]	(n,vs) laminate
+ラム	[ramu]	(n) (1) lamb (meat)
+ラメ	[rame]	(n) lame (cloth made from gold or silver thread) (fre:)
+ララバイ	[rarabai]	(n) lullaby
+ラリー	[rari-]	(n) rally
+ラワン	[rawan]	(n) lauan
+ラン	[ran]	(n) (1) run
+ランキング	[rankingu]	(n) (1) ranking
+ランク	[ranku]	(n,vs) rank
+ラング	[rangu]	(n) (1) {ling} (See パロール) language (fre: langue)
+ランジェリー	[ranjeri-]	(n) lingerie (fre:)
+ランス	[ransu]	(n) lance
+ランダム	[randamu]	(adj-na,n,adj-no) random
+ランチ	[ranchi]	(n,vs) (1) lunch
+ランディング	[randingu]	(n) landing
+ランド	[rando]	(n) (1) land
+ランドサット	[randosatto]	(n) LANDSAT
+ランドセル	[randoseru]	(n) firm-sided backpack made of leather, etc. (used by Japanese elementary schoolchildren, often red for girls and black for boys) (dut: ransel)
+ランドマーク	[randoma-ku]	(n) landmark
+ランドリー	[randori-]	(n) laundry
+ランナー	[ran'na-]	(n) runner
+ランニング	[ran'ningu]	(n) (1) running
+ランプ	[ranpu]	(n) (1) (See 洋灯・ランプ) lamp (eng:, dut:)
+リーガー	[ri-ga-]	(n) leaguer
+リーク	[ri-ku]	(n,vs) (1) leak
+リーグ	[ri-gu]	(n) league
+リース	[ri-su]	(n,vs) (1) lease
+リーズナブル	[ri-zunaburu]	(adj-na) reasonable (only if applied to price, fee, fare, rate, etc.)
+リーダー	[ri-da-]	(n,adj-no) (1) leader
+リーダーシップ	[ri-da-shippu]	(n) leadership
+リーチ	[ri-chi]	(n) (1) reach
+リーディング	[ri-dingu]	(n) (1) reading
+リート	[ri-to]	(n) lied (ger: Lied)
+リード	[ri-do]	(n,vs) (1) lead
+リードオフマン	[ri-doofuman]	(n) lead-off man
+リーフレット	[ri-furetto]	(n) leaflet
+リーマン	[ri-man]	(n) (abbr) (sl) (See サラリーマン) salary man
+リール	[ri-ru]	(n) reel
+リア	[ria]	(n,pref,adj-na) rear
+リアクション	[riakushon]	(n) reaction
+リアリズム	[riarizumu]	(n) realism
+リアル	[riaru]	(adj-na) (1) real
+リキッド	[rikiddo]	(n) liquid
+リキュール	[rikyu-ru]	(n) liqueur (fre:)
+リクード	[riku-do]	(n) Likud (Israeli political party)
+リクエスト	[rikuesuto]	(n,vs) request
+リクルーター	[rikuru-ta-]	(n) recruiter
+リクルート	[rikuru-to]	(n) recruit
+リコール	[riko-ru]	(n,vs) recall
+リサーチ	[risa-chi]	(n,vs) research
+リサイクル	[risaikuru]	(n,vs) recycling
+リサイクルショップ	[risaikurushoppu]	(n) second-hand shop
+リサイタル	[risaitaru]	(n) recital
+リザーブ	[riza-bu]	(n,vs) reserve
+リス	[risu]	(n) (1) fracture (ger: Riss)
+リスク	[risuku]	(n) risk
+リスト	[risuto]	(n) (1) list
+リストラ	[risutora]	(n) (abbr) (See リストラクチュアリング) (corporate) restructuring
+リスナー	[risuna-]	(n) listener
+リスボン	[risubon]	(n) Lisbon
+リズミカル	[rizumikaru]	(adj-na,n) rhythmical
+リズム	[rizumu]	(n) rhythm
+リセ	[rise]	(n) lycee (fre:)
+リセッション	[risesshon]	(n) recession
+リゾート	[rizo-to]	(n) resort
+リゾートホテル	[rizo-tohoteru]	(n) resort hotel
+リゾット	[rizotto]	(n) {food} risotto (ita:)
+リターン	[rita-n]	(n,vs) return
+リターンマッチ	[rita-nmacchi]	(n) return match
+リタイア	[ritaia]	(n,vs) retire
+リチウム	[richiumu]	(n) lithium (Li)
+リッターカー	[ritta-ka-]	(n) car with 1000cc engine (wasei: liter car)
+リッチ	[ricchi]	(adj-na,n) rich
+リットル	[rittoru]	(n) (also written as 立) litre (fre:)
+リップサービス	[rippusa-bisu]	(n) lip service
+リトアニア	[ritoania]	(n) Lithuania
+リトグラフ	[ritogurafu]	(n) lithograph
+リトル	[ritoru]	(adj-na,n) little
+リトルロック	[ritorurokku]	(n) Little Rock
+リニア	[rinia]	(adj-na,n) (1) linear
+リニアモーターカー	[riniamo-ta-ka-]	(n) linear motor train (wasei: linear motorcar)
+リニューアル	[rinyu-aru]	(n,vs) renovation
+リネーム	[rine-mu]	(n,vs) rename
+リノール	[rino-ru]	(n) linole
+リハビリ	[rihabiri]	(n,adj-no) (abbr) (See リハビリテーション) rehabilitation
+リハビリテーション	[rihabirite-shon]	(n) rehabilitation
+リバーシブル	[riba-shiburu]	(adj-no) reversible
+リバイバル	[ribaibaru]	(n,vs) revival
+リバウンド	[ribaundo]	(n,vs) (1) rebound
+リバティー	[ribati-]	(n) liberty
+リバプールサウンド	[ribapu-rusaundo]	(n) Liverpool Sound
+リビジョン	[ribijon]	(n) revision
+リビング	[ribingu]	(n) (1) living
+リピーター	[ripi-ta-]	(n) (1) repeater (e.g. signal processing, communications)
+リファイナンス	[rifainansu]	(n) refinance
+リフォーム	[rifo-mu]	(n,vs) renovation (e.g. a house) (wasei: reform)
+リフト	[rifuto]	(n) (1) lift
+リフレッシュ	[rifuresshu]	(n,vs) refresh (e.g. memory, one's spirits, etc.)
+リブ	[ribu]	(n) (1) rib
+リプライ	[ripurai]	(n) reply
+リベート	[ribe-to]	(n) (1) rebate
+リベラリスト	[riberarisuto]	(n) liberalist
+リベラリズム	[riberarizumu]	(n) liberalism
+リベラル	[riberaru]	(adj-na,n) liberal
+リボン	[ribon]	(n) ribbon
+リポーター	[ripo-ta-]	(n) reporter
+リマ	[rima]	(n) Lima
+リミット	[rimitto]	(n) limit
+リミテッド	[rimiteddo]	(adj-na,adj-no) limited
+リム	[rimu]	(n) rim
+リムジン	[rimujin]	(n) (1) limousine (stretched car)
+リメーク	[rime-ku]	(n,vs) remake
+リモート	[rimo-to]	(adj-no) remote
+リモコン	[rimokon]	(n,adj-no) (abbr) (See リモートコントロール) remote control
+リュージュ	[ryu-ju]	(n) luge (fre:)
+リュート	[ryu-to]	(n) lute
+リューマチ	[ryu-machi]	(n,adj-no) rheumatism (ger: Rheumatismus)
+リュックサック	[ryukkusakku]	(n) rucksack (ger:)
+リラ	[rira]	(n) (1) (See ライラック) lilac (fre: lilas)
+リラックス	[rirakkusu]	(n,vs) relax
+リリース	[riri-su]	(n,vs) release
+リリーフ	[riri-fu]	(n,vs) (1) (リリーフ only) relief (e.g. pitcher)
+リレー	[rire-]	(n,vs) relay
+リンク	[rinku]	(n,vs) (1) link
+リング	[ringu]	(n) ring
+リングサイド	[ringusaido]	(n) ringside
+リンケージ	[rinke-ji]	(n) linkage
+リンス	[rinsu]	(n,vs) (hair) rinse
+リンチ	[rinchi]	(n,vs) lynch
+ルー	[ru-]	(n) (1) roux (mixture of butter and flour used to make sauces) (fre:)
+ルーキー	[ru-ki-]	(n) rookie
+ルージュ	[ru-ju]	(n) rouge (esp. lip rouge) (fre:)
+ルーズ	[ru-zu]	(adj-na) (1) loose (e.g. belt)
+ルーチン	[ru-chin]	(n,adj-no) (1) routine
+ルーツ	[ru-tsu]	(n) roots
+ルート	[ru-to]	(n) (1) root
+ルーフ	[ru-fu]	(n) roof
+ルーブル	[ru-buru]	(n) (1) (ルーブル only) ruble (Russian currency) (rus: rubl)
+ループ	[ru-pu]	(n,vs) {comp} loop
+ルーム	[ru-mu]	(n) room
+ルール	[ru-ru]	(n) rule
+ルーレット	[ru-retto]	(n) roulette (fre:)
+ルアー	[rua-]	(n) lure
+ルイジアナ	[ruijiana]	(n) Louisiana
+ルクス	[rukusu]	(n) lux (fre:)
+ルサンチマン	[rusanchiman]	(n) resentment (fre: ressentiment)
+ルック	[rukku]	(n) look
+ルックス	[rukkusu]	(n) looks
+ルネサンス	[runesansu]	(n) Renaissance (fre:)
+ルビー	[rubi-]	(n) (1) (esp. ルビー) ruby
+ルポ	[rupo]	(n,vs) (abbr) reportage
+ルポルタージュ	[ruporuta-ju]	(n) reportage (fre:)
+ルミノール	[rumino-ru]	(n) luminol
+ルンゲ	[runge]	(n) lung (ger: Lunge)
+レーク	[re-ku]	(n) lake
+レーサー	[re-sa-]	(n) racer
+レーザー	[re-za-]	(n) laser
+レーザーディスク	[re-za-disuku]	(n) laser disk
+レーシングカー	[re-shinguka-]	(n) racing car
+レース	[re-su]	(n) (1) race
+レーダー	[re-da-]	(n) radar
+レート	[re-to]	(n) (1) rate
+レーヨン	[re-yon]	(n) rayon (fre: rayonne, eng: rayon)
+レール	[re-ru]	(n) rail
+レーン	[re-n]	(n) (1) lane
+レア	[rea]	(n,adj-na,adj-no) (1) (レア, レアー only) rare
+レイ	[rei]	(n) (1) lei
+レイアウト	[reiauto]	(n,vs) layout
+レイオフ	[reiofu]	(n) layoff
+レイプ	[reipu]	(n,vs) rape
+レインコート	[reinko-to]	(n) raincoat
+レインボーフィッシュ	[reinbo-fisshu]	(n) rainbow fish
+レオタード	[reota-do]	(n) leotard
+レガーズ	[rega-zu]	(n) leg guards
+レガッタ	[regatta]	(n) regatta
+レギュラー	[regyura-]	(adj-na) (1) regular
+レクイエム	[rekuiemu]	(n) requiem (lat:)
+レクチャー	[rekucha-]	(n,vs) lecture
+レクリエーション	[rekurie-shon]	(n) (1) recreation
+レゲエ	[regee]	(n) {music} reggae
+レコーダー	[reko-da-]	(n) (1) (レコーダー, レコーダ only) recorder (e.g. tape recorder, time recorder)
+レコーディング	[reko-dingu]	(n,vs) recording
+レコード	[reko-do]	(n) (1) record (e.g. LP)
+レザー	[reza-]	(n) (1) leather
+レシート	[reshi-to]	(n) receipt
+レシーバー	[reshi-ba-]	(n) receiver
+レシーブ	[reshi-bu]	(n,vs) receive
+レジ	[reji]	(n) (1) (abbr) (See レジスター・1) (cash) register
+レジスター	[rejisuta-]	(n) (1) register
+レジスタンス	[rejisutansu]	(n) (1) resistance (fre:)
+レジデンス	[rejidensu]	(n) residence
+レジャー	[reja-]	(n) leisure
+レス	[resu]	(n,vs) (1) (abbr) response
+レスキュー	[resukyu-]	(n) rescue
+レスト	[resuto]	(n) rest
+レストラン	[resutoran]	(n) restaurant (esp. Western-style) (fre:)
+レスリング	[resuringu]	(n) wrestling
+レズ	[rezu]	(n) (abbr) (derog) (See レズビアン,ビアン) lesbian
+レセプション	[resepushon]	(n) reception
+レター	[reta-]	(n) letter
+レタス	[retasu]	(n) lettuce
+レタリング	[retaringu]	(n) lettering
+レッカー	[rekka-]	(n) tow truck
+レッスン	[ressun]	(n) lesson
+レッテル	[retteru]	(n) label (dut: Letter)
+レッド	[reddo]	(adj-na,n) red
+レッドパージ	[reddopa-ji]	(n) red purge
+レトリック	[retorikku]	(n) rhetoric
+レトルト	[retoruto]	(n) (1) {food} retort
+レトロ	[retoro]	(n,adj-na) (See レトロスペクティブ) retro
+レバー	[reba-]	(n) (1) lever
+レパートリー	[repa-tori-]	(n) repertoire
+レビュー	[rebyu-]	(n,vs) (1) review
+レフ	[refu]	(n) (1) (abbr) (See レフレックスカメラ) reflex camera
+レフェリー	[referi-]	(n) referee
+レフト	[refuto]	(n) left
+レプラ	[repura]	(n) leprosy (lat: lepra)
+レプリカ	[repurika]	(n) replica
+レベル	[reberu]	(n) (1) level
+レポート	[repo-to]	(n,vs) report
+レングス	[rengusu]	(n) length
+レンジ	[renji]	(n) (1) range
+レンジャー	[renja-]	(n) ranger
+レンズ	[renzu]	(n) lens (dut:)
+レンタカー	[rentaka-]	(n) (1) rental car
+レンタル	[rentaru]	(n,adj-no) rental
+レンタルビデオ	[rentarubideo]	(n) rental video
+レントゲン	[rentogen]	(n) (1) (abbr) (See レントゲン線) X-ray
+ロー	[ro-]	(n) (1) law
+ローカル	[ro-karu]	(adj-na,n) local
+ローション	[ro-shon]	(n) (1) lotion
+ロース	[ro-su]	(n) (abbr) (See ロースト) roast
+ロースト	[ro-suto]	(n,vs) roast
+ローズ	[ro-zu]	(n) rose
+ローター	[ro-ta-]	(n) (1) rotor
+ロータス	[ro-tasu]	(n) lotus
+ロータリー	[ro-tari-]	(n) (1) rotary
+ロータリークラブ	[ro-tari-kurabu]	(n) Rotary Club
+ローテーション	[ro-te-shon]	(n) rotation
+ロード	[ro-do]	(n) (1) road
+ロードショー	[ro-dosho-]	(n) roadshow
+ロードレース	[ro-dore-su]	(n) road race
+ロープ	[ro-pu]	(n) rope
+ロープウェイ	[ro-puwei]	(n) ropeway
+ローム	[ro-mu]	(n) loam
+ローラー	[ro-ra-]	(n) roller
+ローラースケート	[ro-ra-suke-to]	(n) roller skate
+ローリング	[ro-ringu]	(n,vs) rolling
+ロール	[ro-ru]	(n,vs) roll
+ローレル	[ro-reru]	(n) laurel
+ローレンシウム	[ro-renshiumu]	(n) lawrencium (Lr)
+ローン	[ro-n]	(n) (1) loan
+ロイヤリティ	[roiyariti]	(n) (1) royalty
+ロイヤル	[roiyaru]	(n) (1) royal
+ロカビリー	[rokabiri-]	(n) rockabilly
+ログ	[rogu]	(n) (1) log
+ロケ	[roke]	(n,vs) (1) location (e.g. of film shoot)
+ロケーション	[roke-shon]	(n) location
+ロケット	[roketto]	(n) (1) locket
+ロケハン	[rokehan]	(n) (abbr) (See ロケーションハンティング) location scouting (wasei: location hunting)
+ロココ	[rokoko]	(n) rococo (fre:)
+ロゴ	[rogo]	(n) (1) logo
+ロサンゼルス	[rosanzerusu]	(n) Los Angeles
+ロジアナ	[rojiana]	(n) (abbr) logic analyzer
+ロジック	[rojikku]	(n) logic
+ロス	[rosu]	(n,vs) (1) loss
+ロゼ	[roze]	(n) (See バンロゼ) rose (wine) (fre:)
+ロッカー	[rokka-]	(n) (1) locker
+ロッカールーム	[rokka-ru-mu]	(n) locker room
+ロック	[rokku]	(n,vs) (1) lock
+ロックウール	[rokkuu-ru]	(n) rock wool
+ロックンロール	[rokkunro-ru]	(n) rock 'n' roll
+ロッジ	[rojji]	(n) lodge
+ロッテ	[rotte]	(n) lotte
+ロッド	[roddo]	(n) rod
+ロデオ	[rodeo]	(n) rodeo
+ロバ	[roba]	(n) robber
+ロビー	[robi-]	(n) lobby
+ロビイスト	[robiisuto]	(n) lobbyist
+ロビング	[robingu]	(n) (1) lobbing
+ロフト	[rofuto]	(n) loft
+ロブ	[robu]	(n) lob
+ロボット	[robotto]	(n,adj-no) robot
+ロマンス	[romansu]	(n) (1) romance
+ロマンチック	[romanchikku]	(adj-na,n) romantic
+ロング	[rongu]	(adj-na,n) (ant: ショート・1) long
+ロングセラー	[rongusera-]	(n) longtime best seller (wasei: long seller)
+ロングホール	[ronguho-ru]	(n) (golf) par-five hole (wasei: long hole)
+ロングラン	[ronguran]	(n) long run
+ワーカー	[wa-ka-]	(n) worker
+ワーキング	[wa-kingu]	(n) working
+ワーク	[wa-ku]	(n) work
+ワークショップ	[wa-kushoppu]	(n) workshop
+ワークステーション	[wa-kusute-shon]	(n) workstation
+ワースト	[wa-suto]	(n) worst
+ワード	[wa-do]	(n) (1) word
+ワープ	[wa-pu]	(n,vs) warp
+ワープロ	[wa-puro]	(n) (abbr) {comp} word processor
+ワールド	[wa-rudo]	(n) world
+ワールドシリーズ	[wa-rudoshiri-zu]	(n) World Series
+ワイズ	[waizu]	(n) wise
+ワイド	[waido]	(adj-na,n) wide
+ワイドショー	[waidosho-]	(n) talk and variety (TV) show (wasei: wide show)
+ワイパー	[waipa-]	(n) windshield wipers
+ワイヤ	[waiya]	(n) (1) wire
+ワイヤレス	[waiyaresu]	(n) wireless
+ワイルド	[wairudo]	(adj-na,n) wild
+ワイン	[wain]	(n) wine
+ワウ	[wau]	(n) (See ワウフラッター) wow (audio)
+ワクチン	[wakuchin]	(n,adj-no) vaccine (ger: Vakzin)
+ワゴン	[wagon]	(n) wagon
+ワックス	[wakkusu]	(n) wax (for polishing)
+ワット	[watto]	(n) watt
+ワッペン	[wappen]	(n) crest (ger: Wappen)
+ワラビー	[warabi-]	(n) wallaby
+ワラント	[waranto]	(n) warrant
+ワン	[wan]	(num) (1) (ワン only) (See 一・いち・1) one
+ワンセグ	[wansegu]	(n) 1 SEG (Japanese terrestrial digital broadcasting service for mobile devices)
+ワンタッチ	[wantacchi]	(exp,n,adj-no) single button press (wasei: one touch)
+ワンダー	[wanda-]	(n) (1) wonder
+ワンダフル	[wandafuru]	(n,adj-na,adj-no) wonderful
+ワンピース	[wanpi-su]	(n,adj-no) dress (wasei: one-piece)
+ワンボックスカー	[wanbokkusuka-]	(n) minivan (wasei: one box car)
+ワンポイントリリーフ	[wanpointoriri-fu]	(n) {baseb} relief pitcher brought in to face one batter (wasei: one-point relief)
+ワンマン	[wanman]	(n-pref) (1) one-man
+ワンルームマンション	[wanru-mumanshon]	(n) studio apartment (wasei: one-room mansion)
+ヴァンパイア	[vanpaia]	(n) (See 吸血鬼) vampire

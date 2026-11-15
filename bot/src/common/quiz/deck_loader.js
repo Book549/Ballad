@@ -1,5 +1,10 @@
 const globals = require('./../globals.js');
-const kotobaWebBaseUri = require('./../../../../config/config.js').bot.botWebClientBaseUri;
+let kotobaWebBaseUri = 'https://kotobaweb.com';
+try {
+  kotobaWebBaseUri = require('./../../../../config/config.js').bot.botWebClientBaseUri || kotobaWebBaseUri;
+} catch (err) {
+  // Use default if config.js not yet copied
+}
 const path = require('path');
 const fs = require('fs');
 const { CUSTOM_DECK_DIR } = require('kotoba-node-common').constants;
@@ -7,6 +12,7 @@ const mongoConnection = require('kotoba-node-common').database.connection;
 const CustomDeckModel = require('kotoba-node-common').models.createCustomDeckModel(mongoConnection);
 const UserReviewDeckModel = require('kotoba-node-common').models.reviewDeck.createUser(mongoConnection);
 const LocationReviewDeckModel = require('kotoba-node-common').models.reviewDeck.createLocation(mongoConnection);
+const katakanaDeckLoader = require('./katakana_deck_loader.js');
 
 const COERCED_CUSTOM_DECK_DIR = CUSTOM_DECK_DIR.replace('\\bot\\node_modules', '');
 
@@ -195,9 +201,35 @@ async function getCustomDeckFromDisk(deckInfo) {
 async function getQuizDecks(deckInfos) {
   const decks = [];
 
-  // Try to get decks from memory.
+  // Try to get decks from memory or katakana folder.
   deckInfos.forEach((deckInfo) => {
-    decks.push(shallowCopyDeckAndAddModifiers(getDeckFromMemory(deckInfo), deckInfo));
+    const rawName = (deckInfo.deckNameOrUniqueId || '').toString();
+    const name = rawName.toLowerCase();
+
+    // 1. If explicitly requested as katakana or .txt, prioritize katakana loader
+    if (name.startsWith('katakana') || name.startsWith('kn') || name.endsWith('.txt')) {
+      const katakanaDeck = katakanaDeckLoader.getKatakanaDeck(deckInfo);
+      if (katakanaDeck) {
+        decks.push(shallowCopyDeckAndAddModifiers(katakanaDeck, deckInfo));
+        return;
+      }
+    }
+
+    // 2. Try to get decks from memory (built-in SQLite decks)
+    const memDeck = getDeckFromMemory(deckInfo);
+    if (memDeck) {
+      decks.push(shallowCopyDeckAndAddModifiers(memDeck, deckInfo));
+      return;
+    }
+
+    // 3. Fallback to katakana loader (e.g. Katakana_words or file in katakana/)
+    const katakanaDeck = katakanaDeckLoader.getKatakanaDeck(deckInfo);
+    if (katakanaDeck) {
+      decks.push(shallowCopyDeckAndAddModifiers(katakanaDeck, deckInfo));
+      return;
+    }
+
+    decks.push(undefined);
   });
 
   const deckPromiseForDeckName = {};

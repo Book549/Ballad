@@ -2,7 +2,12 @@ const fetch = require('node-fetch');
 const Cache = require('kotoba-node-common').cache;
 const staticDecks = require('./deck_list.json');
 const constants = require('./../constants.js');
-const config = require('../../../../config/config.js');
+let config = { bot: { botWebClientBaseUri: 'https://kotobaweb.com' } };
+try {
+  config = require('../../../../config/config.js');
+} catch (err) {
+  // Use default if config.js not yet copied
+}
 
 const DECKS_CACHE_KEY = 'quizDeckList';
 const CACHE_EXPIRATION_SECONDS = 60 * 60; // 1 hour
@@ -39,18 +44,41 @@ module.exports.createContent = async function(prefix) {
   };
 };
 
-module.exports.getCategoryHelp = async function(keyword) {
+module.exports.getCategoryHelp = async function(keyword, prefix = 'k!') {
   const decks = await getDecks();
   const subCategory = decks.subCategories.find(category => category.keyword === keyword);
 
   if (!subCategory) {
-    return;
+    return undefined;
   }
 
-  return `${subCategory.description}  \`\`\`${subCategory.decks.join(', ')}\`\`\``
+  if (keyword.toLowerCase() === 'katakana') {
+    return {
+      embeds: [{
+        title: 'Katakana Quizzes by Difficulty',
+        description: `Say **${prefix}quiz <deckname>** to start a Katakana quiz. Choose your difficulty level:\n\n` +
+          `• **${prefix}quiz katakana_n5** (or **${prefix}quiz kn5**, **${prefix}quiz katakana 5**) — JLPT N5 (Beginner) [127 words]\n` +
+          `• **${prefix}quiz katakana_n4** (or **${prefix}quiz kn4**, **${prefix}quiz katakana 4**) — JLPT N4 (Elementary) [65 words]\n` +
+          `• **${prefix}quiz katakana_n3** (or **${prefix}quiz kn3**, **${prefix}quiz katakana 3**) — JLPT N3 (Intermediate) [246 words]\n` +
+          `• **${prefix}quiz katakana_n2** (or **${prefix}quiz kn2**, **${prefix}quiz katakana 2**) — JLPT N2 (Upper Intermediate) [96 words]\n` +
+          `• **${prefix}quiz katakana_n1** (or **${prefix}quiz kn1**, **${prefix}quiz katakana 1**) — JLPT N1 (Advanced) [162 words]\n` +
+          `• **${prefix}quiz Katakana_words** (or **${prefix}quiz katakana_words**) — All loanwords [4,163 words]\n\n` +
+          `*You can also use exact file names like \`${prefix}quiz N5.txt\` or mix difficulty decks with \`+\` (e.g. \`${prefix}quiz kn5+kn4\`)*`,
+        color: constants.EMBED_NEUTRAL_COLOR,
+      }],
+    };
+  }
+
+  return `${subCategory.description.replace(/<prefix>/g, prefix)}  \`\`\`${subCategory.decks.join(', ')}\`\`\``;
 };
 
 module.exports.defaultDeckOptionsForInteraction = [{
+  name: 'katakana_n5 (Katakana JLPT N5 Reading Quiz)',
+  value: 'katakana_n5',
+},{
+  name: 'Katakana_words (Katakana Loanwords Reading Quiz)',
+  value: 'Katakana_words',
+},{
   name: 'n5 (JLPT N5 Reading Quiz)',
   value: 'n5',
 },{
@@ -69,7 +97,7 @@ module.exports.defaultDeckOptionsForInteraction = [{
   name: 'hiragana (Hiragana Reading Quiz)',
   value: 'hiragana',
 },{
-  name: 'katakana (Katakana Reading Quiz)',
+  name: 'katakana (Katakana Difficulty Selector)',
   value: 'katakana',
 },{
   name: 'kanawords (Kana Words Reading Quiz)',

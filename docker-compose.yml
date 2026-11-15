@@ -14,6 +14,7 @@ services:
       - ./user_data/bot:/var/app/data
       - ./user_data/shared_data:/var/shared_data
       - ./config:/var/config
+      - ./katakana:/var/katakana
     depends_on:
       - mongo_readwrite
   kotoba-worker:

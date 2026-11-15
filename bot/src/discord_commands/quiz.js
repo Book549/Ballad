@@ -23,6 +23,7 @@ const ConquestGameMode = require('./../common/quiz/conquest_mode.js');
 const ReviewGameMode = require('./../common/quiz/review_mode.js');
 const saveManager = require('./../common/quiz/pause_manager.js');
 const deckLoader = require('./../common/quiz/deck_loader.js');
+const katakanaDeckLoader = require('./../common/quiz/katakana_deck_loader.js');
 const DeckCollection = require('./../common/quiz/deck_collection.js');
 const Session = require('./../common/quiz/session.js');
 const trimEmbed = require('./../common/util/trim_embed.js');
@@ -2281,7 +2282,28 @@ module.exports = {
       return quizManager.stopQuiz(msg.channel.id, msg.author.id, msg.authorIsServerAdmin, false);
     }
 
-    const categoryHelp = await getCategoryHelp(remainingTokens2[0]);
+    // Katakana difficulty selection: e.g. "katakana n5", "katakana 5", "katakana words"
+    if (remainingTokens2[0] && remainingTokens2[0].toLowerCase() === 'katakana' && remainingTokens2.length > 1) {
+      const secondToken = remainingTokens2[1].toLowerCase();
+      if (/^[1-5]$/.test(secondToken)) {
+        remainingTokens2[0] = `katakana_n${secondToken}`;
+        remainingTokens2.splice(1, 1);
+      } else if (/^n[1-5]$/.test(secondToken)) {
+        remainingTokens2[0] = `katakana_${secondToken}`;
+        remainingTokens2.splice(1, 1);
+      } else if (secondToken === 'words' || secondToken === 'loanwords') {
+        remainingTokens2[0] = 'Katakana_words';
+        remainingTokens2.splice(1, 1);
+      } else {
+        const match = katakanaDeckLoader.resolveKatakanaFile(secondToken);
+        if (match) {
+          remainingTokens2[0] = `katakana_${match.baseName.toLowerCase()}`;
+          remainingTokens2.splice(1, 1);
+        }
+      }
+    }
+
+    const categoryHelp = await getCategoryHelp(remainingTokens2[0], msg.prefix);
     if (categoryHelp) {
       return msg.channel.createMessage(categoryHelp);
     }
