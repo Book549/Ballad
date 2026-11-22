@@ -14,7 +14,6 @@ const EMBED_TITLE = 'Kotoba';
 const EMBED_ICON_URI = constants.FOOTER_ICON_URI;
 
 const COMMANDS_TO_GENERATE_HELP_FOR = [
-  'jisho',
   'kanji',
   'strokeorder',
   'quiz',
@@ -22,15 +21,10 @@ const COMMANDS_TO_GENERATE_HELP_FOR = [
   'shiritori',
   'examples',
   'translate',
-  'furigana',
-  'hispadic',
   'yourei',
-  'anime',
   'shiritoriforever',
   'random',
   'pronounce',
-  'jukebox',
-  'jn',
   'invite',
   'settings',
   'about',

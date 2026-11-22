@@ -201,31 +201,19 @@ async function getCustomDeckFromDisk(deckInfo) {
 async function getQuizDecks(deckInfos) {
   const decks = [];
 
-  // Try to get decks from memory or katakana folder.
+  // Try to get decks from katakana folder or memory.
   deckInfos.forEach((deckInfo) => {
-    const rawName = (deckInfo.deckNameOrUniqueId || '').toString();
-    const name = rawName.toLowerCase();
-
-    // 1. If explicitly requested as katakana or .txt, prioritize katakana loader
-    if (name.startsWith('katakana') || name.startsWith('kn') || name.endsWith('.txt')) {
-      const katakanaDeck = katakanaDeckLoader.getKatakanaDeck(deckInfo);
-      if (katakanaDeck) {
-        decks.push(shallowCopyDeckAndAddModifiers(katakanaDeck, deckInfo));
-        return;
-      }
-    }
-
-    // 2. Try to get decks from memory (built-in SQLite decks)
-    const memDeck = getDeckFromMemory(deckInfo);
-    if (memDeck) {
-      decks.push(shallowCopyDeckAndAddModifiers(memDeck, deckInfo));
-      return;
-    }
-
-    // 3. Fallback to katakana loader (e.g. Katakana_words or file in katakana/)
+    // 1. Try to get deck from katakana folder
     const katakanaDeck = katakanaDeckLoader.getKatakanaDeck(deckInfo);
     if (katakanaDeck) {
       decks.push(shallowCopyDeckAndAddModifiers(katakanaDeck, deckInfo));
+      return;
+    }
+
+    // 2. Try to get deck from memory (built-in SQLite decks)
+    const memDeck = getDeckFromMemory(deckInfo);
+    if (memDeck) {
+      decks.push(shallowCopyDeckAndAddModifiers(memDeck, deckInfo));
       return;
     }
 
